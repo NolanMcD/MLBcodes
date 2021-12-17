@@ -1,0 +1,1158 @@
+FF	100.2		deGrom, Jacob	Peterson, Jace		2409		3	2021-07-07	3-2	Top 7	called_strike	Jace Peterson called out on strikes.	
+SL	92.8		deGrom, Jacob	Peterson, Jace		2451		14	2021-07-07	2-2	Top 7	ball	Jace Peterson called out on strikes.	
+FF	99.4	79.3	deGrom, Jacob	Peterson, Jace	213	2344	54	2	2021-07-07	2-1	Top 7	foul	Jace Peterson called out on strikes.	
+FF	99.5		deGrom, Jacob	Peterson, Jace		2311		13	2021-07-07	1-1	Top 7	ball	Jace Peterson called out on strikes.	
+FF	98.7		deGrom, Jacob	Peterson, Jace		2359		2	2021-07-07	1-0	Top 7	swinging_strike	Jace Peterson called out on strikes.	
+FF	98.3		deGrom, Jacob	Peterson, Jace		2275		11	2021-07-07	0-0	Top 7	ball	Jace Peterson called out on strikes.	
+FF	97.7	109.7	deGrom, Jacob	García, Avisaíl	300	2339	13	6	2021-07-07	2-0	Top 7	hit_into_play	Avisail Garcia singles on a sharp line drive to center fielder Brandon Nimmo.	
+FF	96.5		deGrom, Jacob	García, Avisaíl		2304		14	2021-07-07	1-0	Top 7	ball	Avisail Garcia singles on a sharp line drive to center fielder Brandon Nimmo.	
+SL	90.7		deGrom, Jacob	García, Avisaíl		2306		14	2021-07-07	0-0	Top 7	ball	Avisail Garcia singles on a sharp line drive to center fielder Brandon Nimmo.	
+SL	91.0		deGrom, Jacob	Narváez, Omar		2314		9	2021-07-07	2-2	Top 7	swinging_strike	Omar Narvaez strikes out swinging.	
+FF	99.3	77.5	deGrom, Jacob	Narváez, Omar	231	2222	47	1	2021-07-07	2-2	Top 7	foul	Omar Narvaez strikes out swinging.	
+SL	92.0		deGrom, Jacob	Narváez, Omar		2423		14	2021-07-07	2-1	Top 7	swinging_strike	Omar Narvaez strikes out swinging.	
+FF	98.2		deGrom, Jacob	Narváez, Omar		2222		3	2021-07-07	2-0	Top 7	called_strike	Omar Narvaez strikes out swinging.	
+SL	90.2		deGrom, Jacob	Narváez, Omar		2336		14	2021-07-07	1-0	Top 7	ball	Omar Narvaez strikes out swinging.	
+CH	92.1		deGrom, Jacob	Narváez, Omar		2074		13	2021-07-07	0-0	Top 7	ball	Omar Narvaez strikes out swinging.	
+CH	92.2	85.0	deGrom, Jacob	Adames, Willy	2	2280	-40	9	2021-07-07	0-0	Top 7	hit_into_play	Willy Adames grounds out, third baseman Luis Guillorme to first baseman Dominic Smith.	
+FF	99.2	112.0	deGrom, Jacob	Yelich, Christian	25	2426	-4	5	2021-07-07	0-0	Top 6	hit_into_play	Christian Yelich grounds into a double play, second baseman Jeff McNeil to shortstop Francisco Lindor to first baseman Pete Alonso. Luis Urias out at 2nd. Christian Yelich out at 1st.	
+SL	95.0	74.9	deGrom, Jacob	Urías, Luis	251	2524	25	6	2021-07-07	3-2	Top 6	hit_into_play	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+FF	100.1	82.0	deGrom, Jacob	Urías, Luis	236	2273	23	11	2021-07-07	3-2	Top 6	foul	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+FF	99.0		deGrom, Jacob	Urías, Luis		2251		5	2021-07-07	3-1	Top 6	foul_tip	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+SL	93.2		deGrom, Jacob	Urías, Luis		2448		14	2021-07-07	2-1	Top 6	ball	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+SL	92.9		deGrom, Jacob	Urías, Luis		2506		3	2021-07-07	2-0	Top 6	called_strike	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+SL	94.7		deGrom, Jacob	Urías, Luis		2390		14	2021-07-07	1-0	Top 6	ball	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+FF	99.0		deGrom, Jacob	Urías, Luis		2244		12	2021-07-07	0-0	Top 6	ball	Luis Urias singles on a fly ball to center fielder Brandon Nimmo.	
+SL	90.4	70.7	deGrom, Jacob	Burnes, Corbin	2	2485	-40	14	2021-07-07	1-2	Top 6	hit_into_play	Corbin Burnes grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	99.9	76.8	deGrom, Jacob	Burnes, Corbin	229	2495	49	12	2021-07-07	1-2	Top 6	foul	Corbin Burnes grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	93.4		deGrom, Jacob	Burnes, Corbin		2609		14	2021-07-07	0-2	Top 6	ball	Corbin Burnes grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	99.7		deGrom, Jacob	Burnes, Corbin		2570		14	2021-07-07	0-1	Top 6	called_strike	Corbin Burnes grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	98.7		deGrom, Jacob	Burnes, Corbin		2488		6	2021-07-07	0-0	Top 6	called_strike	Corbin Burnes grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+CH	91.6		deGrom, Jacob	Bradley Jr., Jackie		1544		7	2021-07-07	0-2	Top 5	swinging_strike	Jackie Bradley strikes out swinging.	
+SL	91.8	83.5	deGrom, Jacob	Bradley Jr., Jackie	41	2430	0	14	2021-07-07	0-1	Top 5	foul	Jackie Bradley strikes out swinging.	
+FF	99.1	73.4	deGrom, Jacob	Bradley Jr., Jackie	214	2443	42	5	2021-07-07	0-0	Top 5	foul	Jackie Bradley strikes out swinging.	
+FF	99.7		deGrom, Jacob	Hiura, Keston		2456		12	2021-07-07	1-2	Top 5	swinging_strike	Keston Hiura strikes out swinging.	
+SL	93.3		deGrom, Jacob	Hiura, Keston		2524		6	2021-07-07	1-1	Top 5	swinging_strike	Keston Hiura strikes out swinging.	
+FF	99.6		deGrom, Jacob	Hiura, Keston		2472		14	2021-07-07	0-1	Top 5	ball	Keston Hiura strikes out swinging.	
+FF	99.7		deGrom, Jacob	Hiura, Keston		2498		14	2021-07-07	0-0	Top 5	called_strike	Keston Hiura strikes out swinging.	
+SL	91.4	102.8	deGrom, Jacob	Peterson, Jace	426	2497	27	6	2021-07-07	2-2	Top 5	hit_into_play	Jace Peterson homers (4) on a fly ball to center field.	
+SL	91.8		deGrom, Jacob	Peterson, Jace		2532		14	2021-07-07	1-2	Top 5	ball	Jace Peterson homers (4) on a fly ball to center field.	
+SL	91.3		deGrom, Jacob	Peterson, Jace		2461		13	2021-07-07	0-2	Top 5	ball	Jace Peterson homers (4) on a fly ball to center field.	
+SL	91.6		deGrom, Jacob	Peterson, Jace		2495		14	2021-07-07	0-1	Top 5	swinging_strike	Jace Peterson homers (4) on a fly ball to center field.	
+SL	91.9		deGrom, Jacob	Peterson, Jace		2439		6	2021-07-07	0-0	Top 5	swinging_strike	Jace Peterson homers (4) on a fly ball to center field.	
+FF	100.5	76.0	deGrom, Jacob	García, Avisaíl	261	2554	33	2	2021-07-07	0-2	Top 5	hit_into_play	Avisail Garcia flies out to center fielder Brandon Nimmo.	
+FF	99.6	101.1	deGrom, Jacob	García, Avisaíl	368	2453	34	3	2021-07-07	0-1	Top 5	foul	Avisail Garcia flies out to center fielder Brandon Nimmo.	
+FF	98.9		deGrom, Jacob	García, Avisaíl		2399		5	2021-07-07	0-0	Top 5	swinging_strike	Avisail Garcia flies out to center fielder Brandon Nimmo.	
+FF	100.7		deGrom, Jacob	Narváez, Omar		2270		11	2021-07-07	0-2	Top 4	swinging_strike	Omar Narvaez strikes out swinging.	
+SL	94.3	93.0	deGrom, Jacob	Narváez, Omar	147	2594	10	14	2021-07-07	0-1	Top 4	foul	Omar Narvaez strikes out swinging.	
+FF	100.9		deGrom, Jacob	Narváez, Omar		2482		1	2021-07-07	0-0	Top 4	called_strike	Omar Narvaez strikes out swinging.	
+FF	100.4		deGrom, Jacob	Adames, Willy		2400		9	2021-07-07	0-2	Top 4	called_strike	Willy Adames called out on strikes.	
+SL	93.0	87.7	deGrom, Jacob	Adames, Willy	199	2455	62	9	2021-07-07	0-1	Top 4	foul	Willy Adames called out on strikes.	
+SL	93.7		deGrom, Jacob	Adames, Willy		2454		8	2021-07-07	0-0	Top 4	called_strike	Willy Adames called out on strikes.	
+SL	93.0		deGrom, Jacob	Yelich, Christian		2457		13	2021-07-07	1-2	Top 4	called_strike	Christian Yelich called out on strikes.	
+CH	91.4	72.7	deGrom, Jacob	Yelich, Christian	180	1651	20	11	2021-07-07	1-1	Top 4	foul	Christian Yelich called out on strikes.	
+SL	92.0		deGrom, Jacob	Yelich, Christian		2612		14	2021-07-07	0-1	Top 4	ball	Christian Yelich called out on strikes.	
+FF	97.4		deGrom, Jacob	Yelich, Christian		2422		9	2021-07-07	0-0	Top 4	called_strike	Christian Yelich called out on strikes.	
+SL	92.0	89.4	deGrom, Jacob	Urías, Luis	133	2638	68	6	2021-07-07	0-0	Top 3	hit_into_play	Luis Urias pops out to shortstop Francisco Lindor.	
+SL	92.4		deGrom, Jacob	Burnes, Corbin		2652		9	2021-07-07	1-2	Top 3	swinging_strike	Corbin Burnes strikes out swinging.	
+SL	92.1		deGrom, Jacob	Burnes, Corbin		2658		14	2021-07-07	0-2	Top 3	ball	Corbin Burnes strikes out swinging.	
+SL	92.0		deGrom, Jacob	Burnes, Corbin		2556		14	2021-07-07	0-1	Top 3	called_strike	Corbin Burnes strikes out swinging.	
+FF	98.0		deGrom, Jacob	Burnes, Corbin		2473		8	2021-07-07	0-0	Top 3	called_strike	Corbin Burnes strikes out swinging.	
+SL	91.0	101.6	deGrom, Jacob	Bradley Jr., Jackie	25	2589	-4	8	2021-07-07	2-0	Top 3	hit_into_play	Jackie Bradley grounds out sharply, first baseman Pete Alonso to pitcher Jacob deGrom.	
+SL	91.1		deGrom, Jacob	Bradley Jr., Jackie		2524		14	2021-07-07	1-0	Top 3	ball	Jackie Bradley grounds out sharply, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	95.4		deGrom, Jacob	Bradley Jr., Jackie		2213		1	2021-07-07	0-0	Top 3	ball	Jackie Bradley grounds out sharply, first baseman Pete Alonso to pitcher Jacob deGrom.	
+SL	91.8	63.1	deGrom, Jacob	Hiura, Keston	1	2479	-52	14	2021-07-07	1-2	Top 2	hit_into_play	Keston Hiura grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	91.6		deGrom, Jacob	Hiura, Keston		2354		9	2021-07-07	1-1	Top 2	swinging_strike	Keston Hiura grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	90.7		deGrom, Jacob	Hiura, Keston		2419		14	2021-07-07	1-0	Top 2	swinging_strike	Keston Hiura grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	96.0		deGrom, Jacob	Hiura, Keston		2373		14	2021-07-07	0-0	Top 2	ball	Keston Hiura grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	99.5	94.5	deGrom, Jacob	Peterson, Jace	17	2450	-8	1	2021-07-07	2-2	Top 2	hit_into_play	Jace Peterson grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	92.5		deGrom, Jacob	Peterson, Jace		2468		14	2021-07-07	2-1	Top 2	swinging_strike	Jace Peterson grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	98.2		deGrom, Jacob	Peterson, Jace		2395		14	2021-07-07	1-1	Top 2	ball	Jace Peterson grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	90.3		deGrom, Jacob	Peterson, Jace		2425		14	2021-07-07	0-1	Top 2	ball	Jace Peterson grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	96.1		deGrom, Jacob	Peterson, Jace		2326		3	2021-07-07	0-0	Top 2	called_strike	Jace Peterson grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	95.8	69.0	deGrom, Jacob	García, Avisaíl	7	2327	-11	14	2021-07-07	0-0	Top 2	hit_into_play	Avisail Garcia grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.6	47.6	deGrom, Jacob	Narváez, Omar	4	2215	-39	3	2021-07-07	1-0	Top 1	hit_into_play	Omar Narvaez grounds out softly, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	98.2		deGrom, Jacob	Narváez, Omar		2108		11	2021-07-07	0-0	Top 1	ball	Omar Narvaez grounds out softly, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	90.0		deGrom, Jacob	Adames, Willy		2442		12	2021-07-07	0-2	Top 1	swinging_strike	Willy Adames strikes out swinging.	
+FF	97.5	80.7	deGrom, Jacob	Adames, Willy	246	2312	27	9	2021-07-07	0-1	Top 1	foul	Willy Adames strikes out swinging.	
+FF	98.8		deGrom, Jacob	Adames, Willy		2454		14	2021-07-07	0-0	Top 1	called_strike	Willy Adames strikes out swinging.	
+SL	91.2		deGrom, Jacob	Yelich, Christian		2558		9	2021-07-07	1-2	Top 1	called_strike	Christian Yelich called out on strikes.	
+SL	90.6		deGrom, Jacob	Yelich, Christian		2637		3	2021-07-07	1-1	Top 1	swinging_strike	Christian Yelich called out on strikes.	
+SL	92.4		deGrom, Jacob	Yelich, Christian		2555		14	2021-07-07	1-0	Top 1	swinging_strike	Christian Yelich called out on strikes.	
+FF	99.5		deGrom, Jacob	Yelich, Christian		2438		12	2021-07-07	0-0	Top 1	ball	Christian Yelich called out on strikes.	
+FF	99.0	105.9	deGrom, Jacob	Urías, Luis	413	2403	29	6	2021-07-07	2-1	Top 1	hit_into_play	Luis Urias homers (11) on a fly ball to left center field.	
+FF	98.6	86.8	deGrom, Jacob	Urías, Luis	160	2329	79	8	2021-07-07	2-0	Top 1	foul	Luis Urias homers (11) on a fly ball to left center field.	
+FF	98.1		deGrom, Jacob	Urías, Luis		2390		14	2021-07-07	1-0	Top 1	ball	Luis Urias homers (11) on a fly ball to left center field.	
+FF	99.5		deGrom, Jacob	Urías, Luis		2358		11	2021-07-07	0-0	Top 1	ball	Luis Urias homers (11) on a fly ball to left center field.	
+FF	96.8	108.9	deGrom, Jacob	Smith, Kevan	137	2298	5	6	2021-07-01	1-0	Bot 7	hit_into_play	Kevan Smith grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	90.8		deGrom, Jacob	Smith, Kevan		2449		14	2021-07-01	0-0	Bot 7	ball	Kevan Smith grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.0	73.3	deGrom, Jacob	Almonte, Abraham	26	2234	-2	6	2021-07-01	2-2	Bot 7	hit_into_play	Abraham Almonte grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	92.4		deGrom, Jacob	Almonte, Abraham		2461		6	2021-07-01	2-2	Bot 7	foul	Abraham Almonte grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	90.7		deGrom, Jacob	Almonte, Abraham		2506		12	2021-07-01	2-1	Bot 7	called_strike	Abraham Almonte grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	97.7		deGrom, Jacob	Almonte, Abraham		2335		11	2021-07-01	1-1	Bot 7	ball	Abraham Almonte grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	98.4		deGrom, Jacob	Almonte, Abraham		2368		11	2021-07-01	0-1	Bot 7	ball	Abraham Almonte grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	91.2		deGrom, Jacob	Almonte, Abraham		2360		14	2021-07-01	0-0	Bot 7	swinging_strike	Abraham Almonte grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	89.8	96.4	deGrom, Jacob	Heredia, Guillermo	51	2456	0	9	2021-07-01	2-2	Bot 7	hit_into_play	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	91.3		deGrom, Jacob	Heredia, Guillermo		2477		14	2021-07-01	1-2	Bot 7	ball	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	88.6		deGrom, Jacob	Heredia, Guillermo		2627		14	2021-07-01	0-2	Bot 7	ball	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	90.5		deGrom, Jacob	Heredia, Guillermo		2495		14	2021-07-01	0-1	Bot 7	swinging_strike	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	90.9		deGrom, Jacob	Heredia, Guillermo		2457		14	2021-07-01	0-0	Bot 7	swinging_strike	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	98.3	82.7	deGrom, Jacob	Swanson, Dansby	295	2424	26	9	2021-07-01	3-1	Bot 6	hit_into_play	Dansby Swanson lines out to center fielder Kevin Pillar.	
+FF	99.6		deGrom, Jacob	Swanson, Dansby		2486		14	2021-07-01	2-1	Bot 6	ball	Dansby Swanson lines out to center fielder Kevin Pillar.	
+SL	92.3		deGrom, Jacob	Swanson, Dansby		2632		14	2021-07-01	1-1	Bot 6	ball	Dansby Swanson lines out to center fielder Kevin Pillar.	
+FF	98.6	75.1	deGrom, Jacob	Swanson, Dansby	2	2378	-45	5	2021-07-01	1-0	Bot 6	foul	Dansby Swanson lines out to center fielder Kevin Pillar.	
+SL	91.5		deGrom, Jacob	Swanson, Dansby		2549		14	2021-07-01	0-0	Bot 6	ball	Dansby Swanson lines out to center fielder Kevin Pillar.	
+SL	93.9		deGrom, Jacob	Riley, Austin		2683		14	2021-07-01	1-2	Bot 6	called_strike	Austin Riley called out on strikes.	
+SL	89.6	87.2	deGrom, Jacob	Riley, Austin	6	2749	-24	5	2021-07-01	1-1	Bot 6	foul	Austin Riley called out on strikes.	
+SL	91.0		deGrom, Jacob	Riley, Austin		2546		14	2021-07-01	0-1	Bot 6	ball	Austin Riley called out on strikes.	
+SL	90.7		deGrom, Jacob	Riley, Austin		2539		14	2021-07-01	0-0	Bot 6	called_strike	Austin Riley called out on strikes.	
+FF	98.0		deGrom, Jacob	Albies, Ozzie		2531		2	2021-07-01	0-2	Bot 6	swinging_strike	Ozzie Albies strikes out swinging.	
+SL	91.1		deGrom, Jacob	Albies, Ozzie		2560		9	2021-07-01	0-1	Bot 6	swinging_strike	Ozzie Albies strikes out swinging.	
+SL	87.2		deGrom, Jacob	Albies, Ozzie		2541		4	2021-07-01	0-0	Bot 6	called_strike	Ozzie Albies strikes out swinging.	
+FF	98.7		deGrom, Jacob	Freeman, Freddie		2445		8	2021-07-01	1-2	Bot 5	called_strike	Freddie Freeman called out on strikes.	
+SL	90.2	85.4	deGrom, Jacob	Freeman, Freddie	271	2357	33	1	2021-07-01	1-1	Bot 5	foul	Freddie Freeman called out on strikes.	
+FF	96.7	97.7	deGrom, Jacob	Freeman, Freddie	302	2453	20	4	2021-07-01	1-0	Bot 5	foul	Freddie Freeman called out on strikes.	
+FF	95.3		deGrom, Jacob	Freeman, Freddie		2504		14	2021-07-01	0-0	Bot 5	ball	Freddie Freeman called out on strikes.	
+SL	89.7		deGrom, Jacob	Adrianza, Ehire		2667		14	2021-07-01	1-2	Bot 5	foul_tip	Ehire Adrianza strikes out on a foul tip.	
+FF	99.2		deGrom, Jacob	Adrianza, Ehire		2411		5	2021-07-01	1-2	Bot 5	foul	Ehire Adrianza strikes out on a foul tip.	
+SL	90.7		deGrom, Jacob	Adrianza, Ehire		2580		5	2021-07-01	1-1	Bot 5	called_strike	Ehire Adrianza strikes out on a foul tip.	
+SL	89.9		deGrom, Jacob	Adrianza, Ehire		2585		14	2021-07-01	1-0	Bot 5	swinging_strike	Ehire Adrianza strikes out on a foul tip.	
+CU	82.0		deGrom, Jacob	Adrianza, Ehire		2649		14	2021-07-01	0-0	Bot 5	ball	Ehire Adrianza strikes out on a foul tip.	
+FF	97.9		deGrom, Jacob	Anderson, Ian		2313		2	2021-07-01	0-2	Bot 5	swinging_strike	Ian Anderson strikes out swinging.	
+FF	97.2		deGrom, Jacob	Anderson, Ian		2330		3	2021-07-01	0-1	Bot 5	swinging_strike	Ian Anderson strikes out swinging.	
+FF	95.2		deGrom, Jacob	Anderson, Ian		2238		2	2021-07-01	0-0	Bot 5	swinging_strike	Ian Anderson strikes out swinging.	
+FF	96.5		deGrom, Jacob	Smith, Kevan		2388		2	2021-07-01	2-2	Bot 4	swinging_strike	Kevan Smith strikes out swinging.	
+FF	95.1		deGrom, Jacob	Smith, Kevan		2338		6	2021-07-01	2-1	Bot 4	called_strike	Kevan Smith strikes out swinging.	
+FF	95.7		deGrom, Jacob	Smith, Kevan		2384		4	2021-07-01	2-0	Bot 4	called_strike	Kevan Smith strikes out swinging.	
+SL	90.3		deGrom, Jacob	Smith, Kevan		2607		14	2021-07-01	1-0	Bot 4	ball	Kevan Smith strikes out swinging.	
+FF	99.1		deGrom, Jacob	Smith, Kevan		2475		14	2021-07-01	0-0	Bot 4	ball	Kevan Smith strikes out swinging.	
+FF	100.4		deGrom, Jacob	Almonte, Abraham		2474		1	2021-07-01	0-2	Bot 4	foul_tip	Abraham Almonte strikes out on a foul tip.	
+SL	91.0		deGrom, Jacob	Almonte, Abraham		2563		14	2021-07-01	0-1	Bot 4	swinging_strike	Abraham Almonte strikes out on a foul tip.	
+SL	91.8		deGrom, Jacob	Almonte, Abraham		2659		14	2021-07-01	0-0	Bot 4	swinging_strike	Abraham Almonte strikes out on a foul tip.	
+CH	92.4		deGrom, Jacob	Heredia, Guillermo		1656		14	2021-07-01	0-2	Bot 4	swinging_strike	Guillermo Heredia strikes out swinging.	
+FF	99.4		deGrom, Jacob	Heredia, Guillermo		2419		5	2021-07-01	0-1	Bot 4	called_strike	Guillermo Heredia strikes out swinging.	
+FF	98.8	82.3	deGrom, Jacob	Heredia, Guillermo	202	2367	17	6	2021-07-01	0-0	Bot 4	foul	Guillermo Heredia strikes out swinging.	
+FF	98.2	95.3	deGrom, Jacob	Swanson, Dansby	333	2364	26	8	2021-07-01	0-0	Bot 3	hit_into_play	Dansby Swanson flies out to right fielder Michael Conforto.	
+FF	99.7	101.4	deGrom, Jacob	Riley, Austin	8	2402	-12	8	2021-07-01	0-0	Bot 3	hit_into_play	Austin Riley grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.2		deGrom, Jacob	Albies, Ozzie		2410		4	2021-07-01	1-2	Bot 3	swinging_strike	Ozzie Albies strikes out swinging.	
+FF	99.4		deGrom, Jacob	Albies, Ozzie		2451		3	2021-07-01	0-2	Bot 3	ball	Ozzie Albies strikes out swinging.	
+SL	92.0		deGrom, Jacob	Albies, Ozzie		2665		3	2021-07-01	0-1	Bot 3	called_strike	Ozzie Albies strikes out swinging.	
+FF	98.7		deGrom, Jacob	Albies, Ozzie		2421		2	2021-07-01	0-0	Bot 3	called_strike	Ozzie Albies strikes out swinging.	
+FF	100.6		deGrom, Jacob	Freeman, Freddie		2365		2	2021-07-01	3-2	Bot 2	swinging_strike	Freddie Freeman strikes out swinging.	
+SL	91.2	64.1	deGrom, Jacob	Freeman, Freddie	5	2768	-25	14	2021-07-01	3-2	Bot 2	foul	Freddie Freeman strikes out swinging.	
+SL	92.3		deGrom, Jacob	Freeman, Freddie		2732		12	2021-07-01	2-2	Bot 2	ball	Freddie Freeman strikes out swinging.	
+SL	92.1		deGrom, Jacob	Freeman, Freddie		2719		14	2021-07-01	1-2	Bot 2	ball	Freddie Freeman strikes out swinging.	
+CH	94.1		deGrom, Jacob	Freeman, Freddie		1754		14	2021-07-01	0-2	Bot 2	blocked_ball	Freddie Freeman strikes out swinging.	
+CH	94.0		deGrom, Jacob	Freeman, Freddie		1721		14	2021-07-01	0-1	Bot 2	swinging_strike	Freddie Freeman strikes out swinging.	
+CH	92.1		deGrom, Jacob	Freeman, Freddie		1660		7	2021-07-01	0-0	Bot 2	swinging_strike	Freddie Freeman strikes out swinging.	
+SL	91.1		deGrom, Jacob	Adrianza, Ehire		2604		14	2021-07-01	0-2	Bot 2	swinging_strike	Ehire Adrianza strikes out swinging.	
+SL	92.2	90.4	deGrom, Jacob	Adrianza, Ehire	4	2674	-28	14	2021-07-01	0-1	Bot 2	foul	Ehire Adrianza strikes out swinging.	
+SL	93.2		deGrom, Jacob	Adrianza, Ehire		2704		14	2021-07-01	0-0	Bot 2	swinging_strike	Ehire Adrianza strikes out swinging.	
+SL	90.4		deGrom, Jacob	Anderson, Ian		2640		6	2021-07-01	0-2	Bot 2	swinging_strike	Ian Anderson strikes out swinging.	
+SL	91.5		deGrom, Jacob	Anderson, Ian		2600		9	2021-07-01	0-1	Bot 2	called_strike	Ian Anderson strikes out swinging.	
+FF	100.2		deGrom, Jacob	Anderson, Ian		2499		2	2021-07-01	0-0	Bot 2	called_strike	Ian Anderson strikes out swinging.	
+FF	99.5	105.1	deGrom, Jacob	Smith, Kevan	271	2232	13	5	2021-07-01	1-0	Bot 2	hit_into_play	Kevan Smith singles on a sharp line drive to center fielder Kevin Pillar. Abraham Almonte to 3rd.	
+FF	99.6		deGrom, Jacob	Smith, Kevan		2417		14	2021-07-01	0-0	Bot 2	ball	Kevan Smith singles on a sharp line drive to center fielder Kevin Pillar. Abraham Almonte to 3rd.	
+CH	91.0	100.3	deGrom, Jacob	Almonte, Abraham	282	1639	15	8	2021-07-01	0-1	Bot 2	hit_into_play	Abraham Almonte doubles (9) on a sharp line drive to right fielder Michael Conforto.	
+CH	91.6	57.7	deGrom, Jacob	Almonte, Abraham	2	1581	-47	5	2021-07-01	0-0	Bot 2	foul	Abraham Almonte doubles (9) on a sharp line drive to right fielder Michael Conforto.	
+SL	92.6	67.1	deGrom, Jacob	Heredia, Guillermo	72	2647	6	6	2021-07-01	0-1	Bot 1	hit_into_play	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+FF	99.7	84.3	deGrom, Jacob	Heredia, Guillermo	146	2385	10	5	2021-07-01	0-0	Bot 1	foul	Guillermo Heredia grounds out, third baseman Luis Guillorme to first baseman Pete Alonso.	
+SL	93.5		deGrom, Jacob	Swanson, Dansby		2418		14	2021-07-01	2-2	Bot 1	swinging_strike	Dansby Swanson strikes out swinging.	
+FF	99.7	78.7	deGrom, Jacob	Swanson, Dansby	240	2398	44	5	2021-07-01	2-1	Bot 1	foul	Dansby Swanson strikes out swinging.	
+CH	92.9		deGrom, Jacob	Swanson, Dansby		1733		14	2021-07-01	1-1	Bot 1	ball	Dansby Swanson strikes out swinging.	
+FF	99.6		deGrom, Jacob	Swanson, Dansby		2373		14	2021-07-01	0-1	Bot 1	ball	Dansby Swanson strikes out swinging.	
+FF	100.6	79.6	deGrom, Jacob	Swanson, Dansby	246	2545	26	3	2021-07-01	0-0	Bot 1	foul	Dansby Swanson strikes out swinging.	
+FF	99.7	101.4	deGrom, Jacob	Riley, Austin	360	2414	22	6	2021-07-01	0-2	Bot 1	hit_into_play	Austin Riley homers (14) on a line drive to right field. Ozzie Albies scores.	
+SL	92.5	78.1	deGrom, Jacob	Riley, Austin	269	2755	40	12	2021-07-01	0-2	Bot 1	foul	Austin Riley homers (14) on a line drive to right field. Ozzie Albies scores.	
+FF	100.1		deGrom, Jacob	Riley, Austin		2460		9	2021-07-01	0-1	Bot 1	called_strike	Austin Riley homers (14) on a line drive to right field. Ozzie Albies scores.	
+FF	100.2		deGrom, Jacob	Riley, Austin		2500		9	2021-07-01	0-0	Bot 1	called_strike	Austin Riley homers (14) on a line drive to right field. Ozzie Albies scores.	
+SL	92.5	102.2	deGrom, Jacob	Albies, Ozzie	267	2674	13	9	2021-07-01	2-2	Bot 1	hit_into_play	Ozzie Albies singles on a sharp line drive to center fielder Kevin Pillar. Ehire Adrianza scores.	
+SL	94.4		deGrom, Jacob	Albies, Ozzie		2707		14	2021-07-01	1-2	Bot 1	blocked_ball	Ozzie Albies singles on a sharp line drive to center fielder Kevin Pillar. Ehire Adrianza scores.	
+SL	91.4		deGrom, Jacob	Albies, Ozzie		2716		14	2021-07-01	0-2	Bot 1	blocked_ball	Ozzie Albies singles on a sharp line drive to center fielder Kevin Pillar. Ehire Adrianza scores.	
+SL	92.1	78.7	deGrom, Jacob	Albies, Ozzie	3	2687	-29	9	2021-07-01	0-1	Bot 1	foul	Ozzie Albies singles on a sharp line drive to center fielder Kevin Pillar. Ehire Adrianza scores.	
+SL	92.5		deGrom, Jacob	Albies, Ozzie		2727		14	2021-07-01	0-0	Bot 1	swinging_strike_blocked	Ozzie Albies singles on a sharp line drive to center fielder Kevin Pillar. Ehire Adrianza scores.	
+SL	92.7		deGrom, Jacob	Freeman, Freddie		2764		14	2021-07-01	1-2	Bot 1	swinging_strike	Freddie Freeman strikes out swinging.	
+SL	92.6		deGrom, Jacob	Freeman, Freddie		2722		14	2021-07-01	1-1	Bot 1	swinging_strike	Freddie Freeman strikes out swinging.	
+SL	92.7		deGrom, Jacob	Freeman, Freddie		2586		14	2021-07-01	1-0	Bot 1	swinging_strike	Freddie Freeman strikes out swinging.	
+SL	92.7		deGrom, Jacob	Freeman, Freddie		2593		14	2021-07-01	0-0	Bot 1	ball	Freddie Freeman strikes out swinging.	
+FF	100.2	91.8	deGrom, Jacob	Adrianza, Ehire	11	2205	-13	5	2021-07-01	0-1	Bot 1	hit_into_play	Braves challenged (tag play), call on the field was overturned: Ehire Adrianza triples (2) on a ground ball to right fielder Michael Conforto.	
+FF	99.6		deGrom, Jacob	Adrianza, Ehire		2342		6	2021-07-01	0-0	Bot 1	foul	Braves challenged (tag play), call on the field was overturned: Ehire Adrianza triples (2) on a ground ball to right fielder Michael Conforto.	
+SL	92.7	89.7	deGrom, Jacob	Williams, Luke	4	2694	-25	14	2021-06-26	3-2	Top 6	hit_into_play	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	93.8		deGrom, Jacob	Williams, Luke		2557		14	2021-06-26	2-2	Top 6	ball	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	92.7		deGrom, Jacob	Williams, Luke		2677		14	2021-06-26	2-2	Top 6	foul	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	92.2		deGrom, Jacob	Williams, Luke		2658		14	2021-06-26	1-2	Top 6	ball	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	100.2	83.7	deGrom, Jacob	Williams, Luke	249	2321	47	3	2021-06-26	1-2	Top 6	foul	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	91.8		deGrom, Jacob	Williams, Luke		2463		8	2021-06-26	1-1	Top 6	called_strike	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	92.0		deGrom, Jacob	Williams, Luke		2455		9	2021-06-26	1-0	Top 6	called_strike	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	99.9		deGrom, Jacob	Williams, Luke		2377		12	2021-06-26	0-0	Top 6	ball	Luke Williams grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	92.1	94.5	deGrom, Jacob	McCutchen, Andrew	295	2664	18	8	2021-06-26	1-1	Top 6	hit_into_play	Andrew McCutchen out on a sacrifice fly to center fielder Albert Almora. Odubel Herrera scores. Rhys Hoskins to 3rd. Throwing error by center fielder Albert Almora.	
+FF	101.3		deGrom, Jacob	McCutchen, Andrew		2487		14	2021-06-26	0-1	Top 6	ball	Andrew McCutchen out on a sacrifice fly to center fielder Albert Almora. Odubel Herrera scores. Rhys Hoskins to 3rd. Throwing error by center fielder Albert Almora.	
+FF	100.4	83.0	deGrom, Jacob	McCutchen, Andrew	230	2416	54	6	2021-06-26	0-0	Top 6	foul	Andrew McCutchen out on a sacrifice fly to center fielder Albert Almora. Odubel Herrera scores. Rhys Hoskins to 3rd. Throwing error by center fielder Albert Almora.	
+SL	92.5	91.7	deGrom, Jacob	Realmuto, J.T.	262	2690	51	6	2021-06-26	1-2	Top 6	hit_into_play	J.T. Realmuto flies out to center fielder Albert Almora.	
+SL	90.9		deGrom, Jacob	Realmuto, J.T.		2670		14	2021-06-26	1-1	Top 6	swinging_strike	J.T. Realmuto flies out to center fielder Albert Almora.	
+SL	92.3		deGrom, Jacob	Realmuto, J.T.		2536		6	2021-06-26	1-0	Top 6	called_strike	J.T. Realmuto flies out to center fielder Albert Almora.	
+SL	90.6		deGrom, Jacob	Realmuto, J.T.		2592		14	2021-06-26	0-0	Top 6	blocked_ball	J.T. Realmuto flies out to center fielder Albert Almora.	
+CH	91.6		deGrom, Jacob	Harper, Bryce		1583		14	2021-06-26	0-0	Top 6	hit_by_pitch	Bryce Harper hit by pitch. Odubel Herrera to 3rd. Rhys Hoskins to 2nd.	
+FF	100.5		deGrom, Jacob	Hoskins, Rhys		2598		14	2021-06-26	3-1	Top 6	ball	Rhys Hoskins walks.	
+SL	90.5		deGrom, Jacob	Hoskins, Rhys		2599		14	2021-06-26	2-1	Top 6	ball	Rhys Hoskins walks.	
+SL	91.8		deGrom, Jacob	Hoskins, Rhys		2593		14	2021-06-26	2-0	Top 6	swinging_strike	Rhys Hoskins walks.	
+FF	99.5		deGrom, Jacob	Hoskins, Rhys		2507		12	2021-06-26	1-0	Top 6	ball	Rhys Hoskins walks.	
+FF	98.6		deGrom, Jacob	Hoskins, Rhys		2245		12	2021-06-26	0-0	Top 6	ball	Rhys Hoskins walks.	
+SL	90.0	109.0	deGrom, Jacob	Herrera, Odúbel	223	2466	10	9	2021-06-26	1-0	Top 6	hit_into_play	Odubel Herrera doubles (12) on a sharp line drive to right fielder Michael Conforto.	
+CH	88.7		deGrom, Jacob	Herrera, Odúbel		1387		11	2021-06-26	0-0	Top 6	ball	Odubel Herrera doubles (12) on a sharp line drive to right fielder Michael Conforto.	
+SL	91.7	103.9	deGrom, Jacob	Eflin, Zach	17	2509	-9	5	2021-06-26	0-1	Top 5	hit_into_play	Zach Eflin grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.3		deGrom, Jacob	Eflin, Zach		2359		6	2021-06-26	0-0	Top 5	called_strike	Zach Eflin grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.4	75.6	deGrom, Jacob	Torreyes, Ronald	186	2384	58	1	2021-06-26	0-0	Top 5	hit_into_play	Ronald Torreyes pops out to shortstop Francisco Lindor.	
+SL	90.6		deGrom, Jacob	Maton, Nick		2506		8	2021-06-26	0-2	Top 5	swinging_strike	Nick Maton strikes out swinging.	
+SL	91.0	77.1	deGrom, Jacob	Maton, Nick	16	2677	-7	14	2021-06-26	0-1	Top 5	foul	Nick Maton strikes out swinging.	
+SL	90.9		deGrom, Jacob	Maton, Nick		2591		6	2021-06-26	0-0	Top 5	called_strike	Nick Maton strikes out swinging.	
+SL	93.2		deGrom, Jacob	Williams, Luke		2669		14	2021-06-26	3-2	Top 4	swinging_strike_blocked	Luke Williams strikes out swinging.	
+SL	91.5		deGrom, Jacob	Williams, Luke		2686		14	2021-06-26	2-2	Top 4	ball	Luke Williams strikes out swinging.	
+SL	93.1		deGrom, Jacob	Williams, Luke		2559		14	2021-06-26	2-1	Top 4	swinging_strike	Luke Williams strikes out swinging.	
+SL	92.7		deGrom, Jacob	Williams, Luke		2700		14	2021-06-26	1-1	Top 4	ball	Luke Williams strikes out swinging.	
+FF	100.4		deGrom, Jacob	Williams, Luke		2496		9	2021-06-26	1-0	Top 4	called_strike	Luke Williams strikes out swinging.	
+FF	100.2		deGrom, Jacob	Williams, Luke		2415		9	2021-06-26	0-0	Top 4	ball	Luke Williams strikes out swinging.	
+FF	99.9	95.4	deGrom, Jacob	McCutchen, Andrew	236	2449	60	3	2021-06-26	1-2	Top 4	hit_into_play	Andrew McCutchen flies out to right fielder Michael Conforto.	
+FF	99.0		deGrom, Jacob	McCutchen, Andrew		2498		14	2021-06-26	1-1	Top 4	called_strike	Andrew McCutchen flies out to right fielder Michael Conforto.	
+FF	98.8		deGrom, Jacob	McCutchen, Andrew		2439		6	2021-06-26	1-0	Top 4	called_strike	Andrew McCutchen flies out to right fielder Michael Conforto.	
+FF	99.0		deGrom, Jacob	McCutchen, Andrew		2399		11	2021-06-26	0-0	Top 4	ball	Andrew McCutchen flies out to right fielder Michael Conforto.	
+FF	99.7	90.8	deGrom, Jacob	Realmuto, J.T.	22	2319	-7	2	2021-06-26	2-2	Top 4	hit_into_play	J.T. Realmuto grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	92.6		deGrom, Jacob	Realmuto, J.T.		2548		14	2021-06-26	1-2	Top 4	blocked_ball	J.T. Realmuto grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	91.0		deGrom, Jacob	Realmuto, J.T.		2494		14	2021-06-26	1-1	Top 4	foul	J.T. Realmuto grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	90.3		deGrom, Jacob	Realmuto, J.T.		2573		14	2021-06-26	0-1	Top 4	ball	J.T. Realmuto grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	89.4		deGrom, Jacob	Realmuto, J.T.		2466		9	2021-06-26	0-0	Top 4	swinging_strike	J.T. Realmuto grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+CH	91.3	87.6	deGrom, Jacob	Harper, Bryce	5	1478	-25	4	2021-06-26	2-2	Top 4	hit_into_play	Bryce Harper singles on a ground ball to shortstop Francisco Lindor.	
+SL	92.3	53.6	deGrom, Jacob	Harper, Bryce	1	2635	-50	14	2021-06-26	2-2	Top 4	foul	Bryce Harper singles on a ground ball to shortstop Francisco Lindor.	
+SL	92.3		deGrom, Jacob	Harper, Bryce		2658		14	2021-06-26	2-1	Top 4	swinging_strike	Bryce Harper singles on a ground ball to shortstop Francisco Lindor.	
+CH	92.0		deGrom, Jacob	Harper, Bryce		1617		4	2021-06-26	1-1	Top 4	ball	Bryce Harper singles on a ground ball to shortstop Francisco Lindor.	
+SL	91.6		deGrom, Jacob	Harper, Bryce		2666		14	2021-06-26	0-1	Top 4	ball	Bryce Harper singles on a ground ball to shortstop Francisco Lindor.	
+FF	98.6		deGrom, Jacob	Harper, Bryce		2424		2	2021-06-26	0-0	Top 4	called_strike	Bryce Harper singles on a ground ball to shortstop Francisco Lindor.	
+SL	89.0		deGrom, Jacob	Hoskins, Rhys		2643		14	2021-06-26	1-2	Top 3	swinging_strike	Rhys Hoskins strikes out swinging.	
+FF	100.2		deGrom, Jacob	Hoskins, Rhys		2409		12	2021-06-26	0-2	Top 3	ball	Rhys Hoskins strikes out swinging.	
+SL	92.1		deGrom, Jacob	Hoskins, Rhys		2491		6	2021-06-26	0-1	Top 3	called_strike	Rhys Hoskins strikes out swinging.	
+SL	92.9		deGrom, Jacob	Hoskins, Rhys		2385		14	2021-06-26	0-0	Top 3	called_strike	Rhys Hoskins strikes out swinging.	
+SL	91.8	98.3	deGrom, Jacob	Herrera, Odúbel	367	2374	36	5	2021-06-26	2-2	Top 3	hit_into_play	Odubel Herrera flies out to center fielder Albert Almora.	
+SL	91.6		deGrom, Jacob	Herrera, Odúbel		2568		14	2021-06-26	1-2	Top 3	ball	Odubel Herrera flies out to center fielder Albert Almora.	
+FF	100.1	70.4	deGrom, Jacob	Herrera, Odúbel	165	2498	62	12	2021-06-26	1-2	Top 3	foul	Odubel Herrera flies out to center fielder Albert Almora.	
+SL	91.0		deGrom, Jacob	Herrera, Odúbel		2733		14	2021-06-26	0-2	Top 3	ball	Odubel Herrera flies out to center fielder Albert Almora.	
+SL	91.9		deGrom, Jacob	Herrera, Odúbel		2657		14	2021-06-26	0-1	Top 3	swinging_strike	Odubel Herrera flies out to center fielder Albert Almora.	
+SL	91.4		deGrom, Jacob	Herrera, Odúbel		2583		14	2021-06-26	0-0	Top 3	swinging_strike	Odubel Herrera flies out to center fielder Albert Almora.	
+SL	91.0	61.8	deGrom, Jacob	Eflin, Zach	3	2669	-37	14	2021-06-26	0-2	Top 3	hit_into_play	Zach Eflin grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	99.1	77.8	deGrom, Jacob	Eflin, Zach	240	2413	44	6	2021-06-26	0-1	Top 3	foul	Zach Eflin grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	98.9		deGrom, Jacob	Eflin, Zach		2403		5	2021-06-26	0-0	Top 3	called_strike	Zach Eflin grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	100.0	95.2	deGrom, Jacob	Torreyes, Ronald	102	2402	5	8	2021-06-26	1-0	Top 2	hit_into_play	Ronald Torreyes grounds into a force out, shortstop Francisco Lindor to second baseman Jose Peraza. Nick Maton out at 2nd.	
+FF	100.6		deGrom, Jacob	Torreyes, Ronald		2480		14	2021-06-26	0-0	Top 2	ball	Ronald Torreyes grounds into a force out, shortstop Francisco Lindor to second baseman Jose Peraza. Nick Maton out at 2nd.	
+FF	99.8	87.7	deGrom, Jacob	Maton, Nick	254	2345	22	6	2021-06-26	1-0	Top 2	hit_into_play	Nick Maton singles on a line drive to right fielder Michael Conforto. Andrew McCutchen scores.	
+FF	100.3		deGrom, Jacob	Maton, Nick		2367		12	2021-06-26	0-0	Top 2	ball	Nick Maton singles on a line drive to right fielder Michael Conforto. Andrew McCutchen scores.	
+FF	99.3		deGrom, Jacob	Williams, Luke		2331		12	2021-06-26	1-2	Top 2	swinging_strike	Luke Williams strikes out swinging.	
+FF	100.2		deGrom, Jacob	Williams, Luke		2367		14	2021-06-26	1-1	Top 2	called_strike	Luke Williams strikes out swinging.	
+FF	99.8		deGrom, Jacob	Williams, Luke		2410		12	2021-06-26	1-0	Top 2	swinging_strike	Luke Williams strikes out swinging.	
+FF	99.9		deGrom, Jacob	Williams, Luke		2365		14	2021-06-26	0-0	Top 2	ball	Luke Williams strikes out swinging.	
+SL	91.3	91.1	deGrom, Jacob	McCutchen, Andrew	115	2751	6	9	2021-06-26	2-2	Top 2	hit_into_play	Andrew McCutchen singles on a line drive to center fielder Albert Almora, deflected by pitcher Jacob deGrom.	
+SL	92.0		deGrom, Jacob	McCutchen, Andrew		2773		14	2021-06-26	1-2	Top 2	ball	Andrew McCutchen singles on a line drive to center fielder Albert Almora, deflected by pitcher Jacob deGrom.	
+SL	91.6		deGrom, Jacob	McCutchen, Andrew		2646		14	2021-06-26	1-1	Top 2	swinging_strike	Andrew McCutchen singles on a line drive to center fielder Albert Almora, deflected by pitcher Jacob deGrom.	
+SL	93.2		deGrom, Jacob	McCutchen, Andrew		2580		9	2021-06-26	1-0	Top 2	called_strike	Andrew McCutchen singles on a line drive to center fielder Albert Almora, deflected by pitcher Jacob deGrom.	
+FF	99.5		deGrom, Jacob	McCutchen, Andrew		2343		14	2021-06-26	0-0	Top 2	ball	Andrew McCutchen singles on a line drive to center fielder Albert Almora, deflected by pitcher Jacob deGrom.	
+FF	100.0	98.0	deGrom, Jacob	Realmuto, J.T.	4	2512	-20	9	2021-06-26	1-1	Top 2	hit_into_play	J.T. Realmuto grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	99.4		deGrom, Jacob	Realmuto, J.T.		2438		14	2021-06-26	0-1	Top 2	ball	J.T. Realmuto grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.3		deGrom, Jacob	Realmuto, J.T.		2659		14	2021-06-26	0-0	Top 2	called_strike	J.T. Realmuto grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.9		deGrom, Jacob	Harper, Bryce		2616		14	2021-06-26	1-2	Top 1	swinging_strike	Bryce Harper strikes out swinging.	
+SL	90.2		deGrom, Jacob	Harper, Bryce		2784		14	2021-06-26	0-2	Top 1	ball	Bryce Harper strikes out swinging.	
+SL	91.7		deGrom, Jacob	Harper, Bryce		2692		14	2021-06-26	0-1	Top 1	swinging_strike	Bryce Harper strikes out swinging.	
+SL	93.5		deGrom, Jacob	Harper, Bryce		2518		14	2021-06-26	0-0	Top 1	swinging_strike	Bryce Harper strikes out swinging.	
+FF	100.8	106.8	deGrom, Jacob	Hoskins, Rhys	345	2374	20	6	2021-06-26	2-1	Top 1	hit_into_play	Rhys Hoskins lines out sharply to left fielder Dominic Smith.	
+FF	100.6		deGrom, Jacob	Hoskins, Rhys		2420		12	2021-06-26	1-1	Top 1	ball	Rhys Hoskins lines out sharply to left fielder Dominic Smith.	
+FF	100.8		deGrom, Jacob	Hoskins, Rhys		2421		2	2021-06-26	1-0	Top 1	called_strike	Rhys Hoskins lines out sharply to left fielder Dominic Smith.	
+FF	100.5		deGrom, Jacob	Hoskins, Rhys		2356		11	2021-06-26	0-0	Top 1	ball	Rhys Hoskins lines out sharply to left fielder Dominic Smith.	
+FF	100.4	67.9	deGrom, Jacob	Herrera, Odúbel	143	2552	62	12	2021-06-26	0-0	Top 1	hit_into_play	Odubel Herrera pops out to first baseman Pete Alonso in foul territory.	
+FF	100.0	72.0	deGrom, Jacob	Sandoval, Pablo	52	2381	80	12	2021-06-21	0-0	Top 5	hit_into_play	Pablo Sandoval pops out to third baseman Jonathan Villar.	
+FF	97.5	99.8	deGrom, Jacob	Smith, Kevan	376	2214	45	8	2021-06-21	1-0	Top 5	hit_into_play	Kevan Smith doubles (1) on a fly ball to center fielder Albert Almora. Guillermo Heredia to 3rd.	
+FF	99.3		deGrom, Jacob	Smith, Kevan		2346		14	2021-06-21	0-0	Top 5	ball	Kevan Smith doubles (1) on a fly ball to center fielder Albert Almora. Guillermo Heredia to 3rd.	
+FF	98.1		deGrom, Jacob	Heredia, Guillermo		2356		14	2021-06-21	3-0	Top 5	ball	Guillermo Heredia walks.	
+SL	91.7		deGrom, Jacob	Heredia, Guillermo		2447		14	2021-06-21	2-0	Top 5	ball	Guillermo Heredia walks.	
+SL	93.3		deGrom, Jacob	Heredia, Guillermo		2585		14	2021-06-21	1-0	Top 5	ball	Guillermo Heredia walks.	
+FF	98.5		deGrom, Jacob	Heredia, Guillermo		2329		14	2021-06-21	0-0	Top 5	ball	Guillermo Heredia walks.	
+FF	98.3	100.1	deGrom, Jacob	Swanson, Dansby	391	2247	33	6	2021-06-21	0-0	Top 5	hit_into_play	Dansby Swanson flies out sharply to center fielder Albert Almora.	
+SL	90.8	88.9	deGrom, Jacob	Riley, Austin	296	2564	47	8	2021-06-21	3-2	Top 5	hit_into_play	Austin Riley flies out to center fielder Albert Almora.	
+CH	90.8		deGrom, Jacob	Riley, Austin		1375		11	2021-06-21	2-2	Top 5	ball	Austin Riley flies out to center fielder Albert Almora.	
+FF	100.3	71.4	deGrom, Jacob	Riley, Austin	239	2446	39	2	2021-06-21	2-2	Top 5	foul	Austin Riley flies out to center fielder Albert Almora.	
+SL	90.7	61.8	deGrom, Jacob	Riley, Austin	1	2691	-65	14	2021-06-21	2-1	Top 5	foul	Austin Riley flies out to center fielder Albert Almora.	
+FF	100.0		deGrom, Jacob	Riley, Austin		2506		14	2021-06-21	1-1	Top 5	ball	Austin Riley flies out to center fielder Albert Almora.	
+SL	91.3		deGrom, Jacob	Riley, Austin		2635		14	2021-06-21	0-1	Top 5	ball	Austin Riley flies out to center fielder Albert Almora.	
+SL	90.4		deGrom, Jacob	Riley, Austin		2572		9	2021-06-21	0-0	Top 5	swinging_strike	Austin Riley flies out to center fielder Albert Almora.	
+CH	92.3	84.9	deGrom, Jacob	Almonte, Abraham	58	1532	3	14	2021-06-21	2-2	Top 4	hit_into_play	Abraham Almonte grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	91.5		deGrom, Jacob	Almonte, Abraham		2473		14	2021-06-21	2-2	Top 4	foul	Abraham Almonte grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	89.0	86.3	deGrom, Jacob	Almonte, Abraham	3	2502	-34	6	2021-06-21	2-1	Top 4	foul	Abraham Almonte grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+CH	92.7		deGrom, Jacob	Almonte, Abraham		1581		14	2021-06-21	1-1	Top 4	ball	Abraham Almonte grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.4		deGrom, Jacob	Almonte, Abraham		2427		14	2021-06-21	0-1	Top 4	ball	Abraham Almonte grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.3	45.8	deGrom, Jacob	Almonte, Abraham	2	2370	-49	12	2021-06-21	0-0	Top 4	foul	Abraham Almonte grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	89.0		deGrom, Jacob	Albies, Ozzie		2483		9	2021-06-21	1-2	Top 4	swinging_strike	Ozzie Albies strikes out swinging.	
+CH	90.9		deGrom, Jacob	Albies, Ozzie		1484		7	2021-06-21	1-1	Top 4	swinging_strike	Ozzie Albies strikes out swinging.	
+SL	91.0		deGrom, Jacob	Albies, Ozzie		2497		2	2021-06-21	1-0	Top 4	swinging_strike	Ozzie Albies strikes out swinging.	
+SL	89.1		deGrom, Jacob	Albies, Ozzie		2422		14	2021-06-21	0-0	Top 4	ball	Ozzie Albies strikes out swinging.	
+SL	89.6	101.3	deGrom, Jacob	Freeman, Freddie	388	2501	41	5	2021-06-21	2-0	Top 4	hit_into_play	Freddie Freeman flies out sharply to center fielder Albert Almora.	
+SL	91.0		deGrom, Jacob	Freeman, Freddie		2510		14	2021-06-21	1-0	Top 4	ball	Freddie Freeman flies out sharply to center fielder Albert Almora.	
+FF	98.4		deGrom, Jacob	Freeman, Freddie		2362		12	2021-06-21	0-0	Top 4	ball	Freddie Freeman flies out sharply to center fielder Albert Almora.	
+FF	99.2		deGrom, Jacob	Acuña Jr., Ronald		2201		11	2021-06-21	1-2	Top 3	swinging_strike	Ronald Acuna strikes out swinging.	
+FF	101.0	77.7	deGrom, Jacob	Acuña Jr., Ronald	220	2523	48	6	2021-06-21	1-2	Top 3	foul	Ronald Acuna strikes out swinging.	
+FF	100.2		deGrom, Jacob	Acuña Jr., Ronald		2524		12	2021-06-21	1-1	Top 3	swinging_strike	Ronald Acuna strikes out swinging.	
+FF	99.9		deGrom, Jacob	Acuña Jr., Ronald		2489		12	2021-06-21	0-1	Top 3	ball	Ronald Acuna strikes out swinging.	
+FF	99.3		deGrom, Jacob	Acuña Jr., Ronald		2477		14	2021-06-21	0-0	Top 3	called_strike	Ronald Acuna strikes out swinging.	
+SL	89.4		deGrom, Jacob	Muller, Kyle		3072		14	2021-06-21	3-2	Top 3	ball	Kyle Muller walks.	
+FF	97.8	80.5	deGrom, Jacob	Muller, Kyle	250	2156	26	3	2021-06-21	3-2	Top 3	foul	Kyle Muller walks.	
+SL	88.2		deGrom, Jacob	Muller, Kyle		2534		11	2021-06-21	2-2	Top 3	ball	Kyle Muller walks.	
+SL	89.1		deGrom, Jacob	Muller, Kyle		2433		11	2021-06-21	1-2	Top 3	ball	Kyle Muller walks.	
+SL	88.5		deGrom, Jacob	Muller, Kyle		2521		11	2021-06-21	0-2	Top 3	ball	Kyle Muller walks.	
+FF	100.5	79.3	deGrom, Jacob	Muller, Kyle	225	2460	52	2	2021-06-21	0-2	Top 3	foul	Kyle Muller walks.	
+FF	99.1		deGrom, Jacob	Muller, Kyle		2422		3	2021-06-21	0-1	Top 3	called_strike	Kyle Muller walks.	
+FF	99.1		deGrom, Jacob	Muller, Kyle		2398		2	2021-06-21	0-0	Top 3	swinging_strike	Kyle Muller walks.	
+FF	99.9	78.3	deGrom, Jacob	Smith, Kevan	3	2345	-37	6	2021-06-21	2-1	Top 3	hit_into_play	Kevan Smith grounds out, third baseman Jonathan Villar to first baseman Pete Alonso.	
+FF	100.6		deGrom, Jacob	Smith, Kevan		2372		14	2021-06-21	1-1	Top 3	ball	Kevan Smith grounds out, third baseman Jonathan Villar to first baseman Pete Alonso.	
+SL	91.2		deGrom, Jacob	Smith, Kevan		2599		6	2021-06-21	1-0	Top 3	swinging_strike	Kevan Smith grounds out, third baseman Jonathan Villar to first baseman Pete Alonso.	
+SL	90.8		deGrom, Jacob	Smith, Kevan		2707		14	2021-06-21	0-0	Top 3	ball	Kevan Smith grounds out, third baseman Jonathan Villar to first baseman Pete Alonso.	
+FF	101.0	103.8	deGrom, Jacob	Heredia, Guillermo	129	2335	6	6	2021-06-21	1-2	Top 3	hit_into_play	Guillermo Heredia lines out sharply to pitcher Jacob deGrom.	
+FF	99.4		deGrom, Jacob	Heredia, Guillermo		2325		3	2021-06-21	1-1	Top 3	swinging_strike	Guillermo Heredia lines out sharply to pitcher Jacob deGrom.	
+FF	100.1		deGrom, Jacob	Heredia, Guillermo		2364		14	2021-06-21	0-1	Top 3	ball	Guillermo Heredia lines out sharply to pitcher Jacob deGrom.	
+FF	99.6		deGrom, Jacob	Heredia, Guillermo		2324		14	2021-06-21	0-0	Top 3	called_strike	Guillermo Heredia lines out sharply to pitcher Jacob deGrom.	
+FF	100.9		deGrom, Jacob	Swanson, Dansby		2386		12	2021-06-21	1-2	Top 2	swinging_strike	Dansby Swanson strikes out swinging.	
+SL	89.9		deGrom, Jacob	Swanson, Dansby		2599		9	2021-06-21	1-1	Top 2	swinging_strike	Dansby Swanson strikes out swinging.	
+SL	91.1		deGrom, Jacob	Swanson, Dansby		2465		14	2021-06-21	1-0	Top 2	swinging_strike	Dansby Swanson strikes out swinging.	
+SL	91.6		deGrom, Jacob	Swanson, Dansby		2516		14	2021-06-21	0-0	Top 2	ball	Dansby Swanson strikes out swinging.	
+SL	92.1	69.7	deGrom, Jacob	Riley, Austin	6	2664	-18	14	2021-06-21	1-2	Top 2	hit_into_play	Austin Riley grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	100.7		deGrom, Jacob	Riley, Austin		2415		14	2021-06-21	1-1	Top 2	called_strike	Austin Riley grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	92.5		deGrom, Jacob	Riley, Austin		2640		14	2021-06-21	1-0	Top 2	swinging_strike	Austin Riley grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.5		deGrom, Jacob	Riley, Austin		2382		7	2021-06-21	0-0	Top 2	ball	Austin Riley grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	92.1		deGrom, Jacob	Almonte, Abraham		2579		14	2021-06-21	2-2	Top 2	swinging_strike	Abraham Almonte strikes out swinging.	
+SL	91.0		deGrom, Jacob	Almonte, Abraham		2578		14	2021-06-21	2-1	Top 2	swinging_strike	Abraham Almonte strikes out swinging.	
+FF	98.9		deGrom, Jacob	Almonte, Abraham		2292		12	2021-06-21	1-1	Top 2	ball	Abraham Almonte strikes out swinging.	
+FF	99.5		deGrom, Jacob	Almonte, Abraham		2352		12	2021-06-21	0-1	Top 2	ball	Abraham Almonte strikes out swinging.	
+FF	98.9		deGrom, Jacob	Almonte, Abraham		2275		3	2021-06-21	0-0	Top 2	called_strike	Abraham Almonte strikes out swinging.	
+SL	90.9		deGrom, Jacob	Albies, Ozzie		2705		14	2021-06-21	0-2	Top 1	swinging_strike_blocked	Ozzie Albies strikes out swinging.	
+SL	93.2		deGrom, Jacob	Albies, Ozzie		2739		14	2021-06-21	0-1	Top 1	swinging_strike	Ozzie Albies strikes out swinging.	
+FF	99.3	106.8	deGrom, Jacob	Albies, Ozzie	390	2251	28	14	2021-06-21	0-0	Top 1	foul	Ozzie Albies strikes out swinging.	
+FF	100.4	88.4	deGrom, Jacob	Freeman, Freddie	339	2334	40	12	2021-06-21	1-0	Top 1	hit_into_play	Freddie Freeman flies out to left fielder Dominic Smith.	
+FF	100.1		deGrom, Jacob	Freeman, Freddie		2319		12	2021-06-21	0-0	Top 1	ball	Freddie Freeman flies out to left fielder Dominic Smith.	
+FF	100.5		deGrom, Jacob	Acuña Jr., Ronald		2311		3	2021-06-21	0-2	Top 1	swinging_strike	Ronald Acuna strikes out swinging.	
+FF	99.6		deGrom, Jacob	Acuña Jr., Ronald		2434		12	2021-06-21	0-1	Top 1	foul	Ronald Acuna strikes out swinging.	
+FF	100.1		deGrom, Jacob	Acuña Jr., Ronald		2390		6	2021-06-21	0-0	Top 1	called_strike	Ronald Acuna strikes out swinging.	
+FF	99.9		deGrom, Jacob	Stock, Robert		2593		9	2021-06-16	1-2	Top 3	called_strike	Robert Stock called out on strikes.	
+SL	89.5		deGrom, Jacob	Stock, Robert		2808		14	2021-06-16	0-2	Top 3	ball	Robert Stock called out on strikes.	
+SL	91.7		deGrom, Jacob	Stock, Robert		2702		8	2021-06-16	0-1	Top 3	swinging_strike	Robert Stock called out on strikes.	
+FF	100.0	103.1	deGrom, Jacob	Stock, Robert	64	2505	0	2	2021-06-16	0-0	Top 3	foul	Robert Stock called out on strikes.	
+SL	91.4		deGrom, Jacob	Lobaton, Jose		2545		5	2021-06-16	3-2	Top 3	swinging_strike	Jose Lobaton strikes out swinging.	
+SL	89.8	74.7	deGrom, Jacob	Lobaton, Jose	205	2629	23	3	2021-06-16	3-2	Top 3	foul	Jose Lobaton strikes out swinging.	
+FF	98.6	102.4	deGrom, Jacob	Lobaton, Jose	157	2457	72	3	2021-06-16	3-1	Top 3	foul	Jose Lobaton strikes out swinging.	
+FF	98.0		deGrom, Jacob	Lobaton, Jose		2521		13	2021-06-16	2-1	Top 3	ball	Jose Lobaton strikes out swinging.	
+FF	97.9		deGrom, Jacob	Lobaton, Jose		2507		4	2021-06-16	2-0	Top 3	swinging_strike	Jose Lobaton strikes out swinging.	
+FF	98.7		deGrom, Jacob	Lobaton, Jose		2511		12	2021-06-16	1-0	Top 3	ball	Jose Lobaton strikes out swinging.	
+FF	99.2		deGrom, Jacob	Lobaton, Jose		2506		12	2021-06-16	0-0	Top 3	ball	Jose Lobaton strikes out swinging.	
+SL	89.7		deGrom, Jacob	Sogard, Eric		2701		9	2021-06-16	2-2	Top 3	called_strike	Eric Sogard called out on strikes.	
+FF	99.1	78.6	deGrom, Jacob	Sogard, Eric	198	2495	62	3	2021-06-16	2-2	Top 3	foul	Eric Sogard called out on strikes.	
+SL	90.3		deGrom, Jacob	Sogard, Eric		2716		14	2021-06-16	2-1	Top 3	foul_tip	Eric Sogard called out on strikes.	
+SL	91.8		deGrom, Jacob	Sogard, Eric		2651		14	2021-06-16	1-1	Top 3	ball	Eric Sogard called out on strikes.	
+FF	99.5		deGrom, Jacob	Sogard, Eric		2584		12	2021-06-16	0-1	Top 3	ball	Eric Sogard called out on strikes.	
+FF	99.3		deGrom, Jacob	Sogard, Eric		2398		12	2021-06-16	0-0	Top 3	called_strike	Eric Sogard called out on strikes.	
+SL	93.0		deGrom, Jacob	Ortega, Rafael		2594		7	2021-06-16	3-2	Top 2	called_strike	Rafael Ortega called out on strikes.	
+FF	100.5	93.3	deGrom, Jacob	Ortega, Rafael	277	2420	23	14	2021-06-16	3-2	Top 2	foul	Rafael Ortega called out on strikes.	
+SL	92.2	85.4	deGrom, Jacob	Ortega, Rafael	281	2631	43	6	2021-06-16	3-2	Top 2	foul	Rafael Ortega called out on strikes.	
+CH	91.1		deGrom, Jacob	Ortega, Rafael		1685		14	2021-06-16	2-2	Top 2	ball	Rafael Ortega called out on strikes.	
+FF	100.5	80.4	deGrom, Jacob	Ortega, Rafael	182	2539	15	2	2021-06-16	2-2	Top 2	foul	Rafael Ortega called out on strikes.	
+SL	90.3		deGrom, Jacob	Ortega, Rafael		2799		14	2021-06-16	1-2	Top 2	ball	Rafael Ortega called out on strikes.	
+CH	92.3		deGrom, Jacob	Ortega, Rafael		1680		14	2021-06-16	0-2	Top 2	ball	Rafael Ortega called out on strikes.	
+SL	91.8		deGrom, Jacob	Ortega, Rafael		2867		14	2021-06-16	0-2	Top 2	foul	Rafael Ortega called out on strikes.	
+SL	91.1	104.7	deGrom, Jacob	Ortega, Rafael	4	2639	-21	9	2021-06-16	0-2	Top 2	foul	Rafael Ortega called out on strikes.	
+FF	99.6		deGrom, Jacob	Ortega, Rafael		2476		9	2021-06-16	0-1	Top 2	called_strike	Rafael Ortega called out on strikes.	
+FF	100.4	75.6	deGrom, Jacob	Ortega, Rafael	74	2366	81	6	2021-06-16	0-0	Top 2	foul	Rafael Ortega called out on strikes.	
+FF	100.7		deGrom, Jacob	Wisdom, Patrick		2434		14	2021-06-16	2-2	Top 2	swinging_strike	Patrick Wisdom strikes out swinging.	
+FF	100.6		deGrom, Jacob	Wisdom, Patrick		2442		12	2021-06-16	1-2	Top 2	ball	Patrick Wisdom strikes out swinging.	
+FF	99.8		deGrom, Jacob	Wisdom, Patrick		2432		3	2021-06-16	1-1	Top 2	swinging_strike	Patrick Wisdom strikes out swinging.	
+FF	100.5		deGrom, Jacob	Wisdom, Patrick		2410		14	2021-06-16	0-1	Top 2	ball	Patrick Wisdom strikes out swinging.	
+FF	100.7		deGrom, Jacob	Wisdom, Patrick		2414		14	2021-06-16	0-0	Top 2	called_strike	Patrick Wisdom strikes out swinging.	
+SL	90.1		deGrom, Jacob	Happ, Ian		2840		14	2021-06-16	2-2	Top 2	swinging_strike	Ian Happ strikes out swinging.	
+SL	90.1	67.8	deGrom, Jacob	Happ, Ian	3	2768	-30	9	2021-06-16	2-2	Top 2	foul	Ian Happ strikes out swinging.	
+SL	90.0		deGrom, Jacob	Happ, Ian		2776		14	2021-06-16	1-2	Top 2	ball	Ian Happ strikes out swinging.	
+SL	90.2		deGrom, Jacob	Happ, Ian		2613		14	2021-06-16	0-2	Top 2	ball	Ian Happ strikes out swinging.	
+FF	97.8	85.4	deGrom, Jacob	Happ, Ian	295	2449	40	2	2021-06-16	0-1	Top 2	foul	Ian Happ strikes out swinging.	
+FF	98.1		deGrom, Jacob	Happ, Ian		2366		12	2021-06-16	0-0	Top 2	called_strike	Ian Happ strikes out swinging.	
+SL	89.9		deGrom, Jacob	Báez, Javier		2675		8	2021-06-16	0-2	Top 1	swinging_strike	Javier Baez strikes out swinging.	
+FF	100.4	77.8	deGrom, Jacob	Báez, Javier	227	2513	25	12	2021-06-16	0-2	Top 1	foul	Javier Baez strikes out swinging.	
+FF	100.7		deGrom, Jacob	Báez, Javier		2549		12	2021-06-16	0-1	Top 1	swinging_strike	Javier Baez strikes out swinging.	
+FF	99.8		deGrom, Jacob	Báez, Javier		2520		6	2021-06-16	0-0	Top 1	called_strike	Javier Baez strikes out swinging.	
+FF	100.4	96.9	deGrom, Jacob	Rizzo, Anthony	370	2570	32	12	2021-06-16	0-1	Top 1	hit_into_play	Anthony Rizzo flies out to right fielder Billy McKinney.	
+SL	92.0		deGrom, Jacob	Rizzo, Anthony		2825		14	2021-06-16	0-0	Top 1	swinging_strike	Anthony Rizzo flies out to right fielder Billy McKinney.	
+SL	91.2		deGrom, Jacob	Pederson, Joc		2753		14	2021-06-16	2-2	Top 1	swinging_strike	Joc Pederson strikes out swinging.	
+SL	89.3		deGrom, Jacob	Pederson, Joc		2779		14	2021-06-16	1-2	Top 1	ball	Joc Pederson strikes out swinging.	
+SL	89.6	87.9	deGrom, Jacob	Pederson, Joc	3	2791	-31	8	2021-06-16	1-2	Top 1	foul	Joc Pederson strikes out swinging.	
+SL	91.1		deGrom, Jacob	Pederson, Joc		2659		8	2021-06-16	1-1	Top 1	swinging_strike	Joc Pederson strikes out swinging.	
+FF	99.1		deGrom, Jacob	Pederson, Joc		2544		12	2021-06-16	0-1	Top 1	ball	Joc Pederson strikes out swinging.	
+FF	99.8		deGrom, Jacob	Pederson, Joc		2360		1	2021-06-16	0-0	Top 1	foul	Joc Pederson strikes out swinging.	
+CH	91.4	101.5	deGrom, Jacob	O'Grady, Brian	346	1505	39	5	2021-06-11	1-1	Top 6	hit_into_play	Brian O'Grady flies out sharply to right fielder Billy McKinney.	
+CH	91.6		deGrom, Jacob	O'Grady, Brian		1476		13	2021-06-11	0-1	Top 6	ball	Brian O'Grady flies out sharply to right fielder Billy McKinney.	
+FF	98.9	82.4	deGrom, Jacob	O'Grady, Brian	271	2435	44	12	2021-06-11	0-0	Top 6	foul	Brian O'Grady flies out sharply to right fielder Billy McKinney.	
+SL	90.8		deGrom, Jacob	Caratini, Victor		2704		14	2021-06-11	2-2	Top 6	swinging_strike	Victor Caratini strikes out swinging.	
+SL	90.3	69.5	deGrom, Jacob	Caratini, Victor	3	2548	-28	9	2021-06-11	2-1	Top 6	foul	Victor Caratini strikes out swinging.	
+FF	97.1		deGrom, Jacob	Caratini, Victor		2388		3	2021-06-11	2-0	Top 6	called_strike	Victor Caratini strikes out swinging.	
+FF	97.6		deGrom, Jacob	Caratini, Victor		2452		12	2021-06-11	1-0	Top 6	ball	Victor Caratini strikes out swinging.	
+SL	88.0		deGrom, Jacob	Caratini, Victor		2628		14	2021-06-11	0-0	Top 6	ball	Victor Caratini strikes out swinging.	
+SL	90.3		deGrom, Jacob	Kim, Ha-Seong		2630		14	2021-06-11	1-2	Top 6	called_strike	Ha-Seong Kim called out on strikes.	
+FF	98.2	77.9	deGrom, Jacob	Kim, Ha-Seong	234	2414	25	2	2021-06-11	1-2	Top 6	foul	Ha-Seong Kim called out on strikes.	
+FF	98.3		deGrom, Jacob	Kim, Ha-Seong		2419		12	2021-06-11	0-2	Top 6	ball	Ha-Seong Kim called out on strikes.	
+FF	97.9	81.7	deGrom, Jacob	Kim, Ha-Seong	180	2371	63	3	2021-06-11	0-1	Top 6	foul	Ha-Seong Kim called out on strikes.	
+FF	96.3		deGrom, Jacob	Kim, Ha-Seong		2291		3	2021-06-11	0-0	Top 6	called_strike	Ha-Seong Kim called out on strikes.	
+CH	90.3	76.6	deGrom, Jacob	Profar, Jurickson	68	1708	81	4	2021-06-11	2-0	Top 5	hit_into_play	Jurickson Profar pops out to third baseman Jonathan Villar in foul territory.	
+FF	98.4		deGrom, Jacob	Profar, Jurickson		2437		12	2021-06-11	1-0	Top 5	ball	Jurickson Profar pops out to third baseman Jonathan Villar in foul territory.	
+FF	97.7		deGrom, Jacob	Profar, Jurickson		2393		11	2021-06-11	0-0	Top 5	ball	Jurickson Profar pops out to third baseman Jonathan Villar in foul territory.	
+SL	90.5	94.9	deGrom, Jacob	Myers, Wil	14	2693	-9	5	2021-06-11	3-2	Top 5	hit_into_play	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+FF	98.7	89.2	deGrom, Jacob	Myers, Wil	282	2317	44	3	2021-06-11	3-2	Top 5	foul	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+SL	91.6	66.8	deGrom, Jacob	Myers, Wil	20	2583	-4	9	2021-06-11	3-1	Top 5	foul	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+SL	91.2		deGrom, Jacob	Myers, Wil		2645		14	2021-06-11	2-1	Top 5	ball	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+SL	92.2		deGrom, Jacob	Myers, Wil		2659		14	2021-06-11	1-1	Top 5	ball	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+FF	98.3		deGrom, Jacob	Myers, Wil		2438		12	2021-06-11	1-0	Top 5	called_strike	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+SL	90.3		deGrom, Jacob	Myers, Wil		2608		14	2021-06-11	0-0	Top 5	ball	Wil Myers singles on a ground ball to right fielder Billy McKinney.	
+FF	97.8	108.7	deGrom, Jacob	Machado, Manny	7	2386	-21	5	2021-06-11	2-1	Top 5	hit_into_play	Manny Machado grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	90.4		deGrom, Jacob	Machado, Manny		2651		14	2021-06-11	1-1	Top 5	ball	Manny Machado grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	89.7		deGrom, Jacob	Machado, Manny		2656		14	2021-06-11	1-0	Top 5	swinging_strike	Manny Machado grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+CH	88.7		deGrom, Jacob	Machado, Manny		1530		14	2021-06-11	0-0	Top 5	ball	Manny Machado grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.3		deGrom, Jacob	Cronenworth, Jake		2622		14	2021-06-11	2-2	Top 4	swinging_strike	Jake Cronenworth strikes out swinging.	
+FF	99.5	69.2	deGrom, Jacob	Cronenworth, Jake	191	2420	48	5	2021-06-11	2-2	Top 4	foul	Jake Cronenworth strikes out swinging.	
+FF	99.5	66.8	deGrom, Jacob	Cronenworth, Jake	197	2444	32	6	2021-06-11	2-2	Top 4	foul	Jake Cronenworth strikes out swinging.	
+FF	99.4		deGrom, Jacob	Cronenworth, Jake		2417		12	2021-06-11	1-2	Top 4	ball	Jake Cronenworth strikes out swinging.	
+CH	92.1		deGrom, Jacob	Cronenworth, Jake		1478		14	2021-06-11	0-2	Top 4	ball	Jake Cronenworth strikes out swinging.	
+FF	99.4		deGrom, Jacob	Cronenworth, Jake		2425		2	2021-06-11	0-1	Top 4	swinging_strike	Jake Cronenworth strikes out swinging.	
+FF	99.6		deGrom, Jacob	Cronenworth, Jake		2420		3	2021-06-11	0-0	Top 4	called_strike	Jake Cronenworth strikes out swinging.	
+SL	91.9		deGrom, Jacob	Tatis Jr., Fernando		2740		14	2021-06-11	1-2	Top 4	swinging_strike	Fernando Tatis Jr. strikes out swinging.	
+SL	93.0		deGrom, Jacob	Tatis Jr., Fernando		2685		14	2021-06-11	1-1	Top 4	swinging_strike	Fernando Tatis Jr. strikes out swinging.	
+CH	91.0		deGrom, Jacob	Tatis Jr., Fernando		1524		4	2021-06-11	1-0	Top 4	swinging_strike	Fernando Tatis Jr. strikes out swinging.	
+CH	92.2		deGrom, Jacob	Tatis Jr., Fernando		1537		14	2021-06-11	0-0	Top 4	ball	Fernando Tatis Jr. strikes out swinging.	
+CH	92.4		deGrom, Jacob	Pham, Tommy		1568		14	2021-06-11	2-2	Top 4	swinging_strike	Tommy Pham strikes out swinging.	
+FF	99.5	80.0	deGrom, Jacob	Pham, Tommy	234	2446	23	12	2021-06-11	2-2	Top 4	foul	Tommy Pham strikes out swinging.	
+SL	92.2	66.5	deGrom, Jacob	Pham, Tommy	3	2589	-22	14	2021-06-11	2-2	Top 4	foul	Tommy Pham strikes out swinging.	
+SL	92.4		deGrom, Jacob	Pham, Tommy		2642		14	2021-06-11	1-2	Top 4	ball	Tommy Pham strikes out swinging.	
+FF	98.7	83.0	deGrom, Jacob	Pham, Tommy	221	2538	54	6	2021-06-11	1-1	Top 4	foul	Tommy Pham strikes out swinging.	
+SL	89.9		deGrom, Jacob	Pham, Tommy		2654		3	2021-06-11	1-0	Top 4	called_strike	Tommy Pham strikes out swinging.	
+SL	92.1		deGrom, Jacob	Pham, Tommy		2517		14	2021-06-11	0-0	Top 4	ball	Tommy Pham strikes out swinging.	
+FF	100.1		deGrom, Jacob	Snell, Blake		2433		12	2021-06-11	1-2	Top 3	swinging_strike	Blake Snell strikes out swinging.	
+SL	93.4		deGrom, Jacob	Snell, Blake		2568		9	2021-06-11	1-1	Top 3	foul_tip	Blake Snell strikes out swinging.	
+FF	98.7	82.0	deGrom, Jacob	Snell, Blake	226	2357	56	2	2021-06-11	1-0	Top 3	foul	Blake Snell strikes out swinging.	
+FF	99.1		deGrom, Jacob	Snell, Blake		2408		12	2021-06-11	0-0	Top 3	ball	Blake Snell strikes out swinging.	
+FF	99.1	54.9	deGrom, Jacob	Caratini, Victor	162	2414	32	12	2021-06-11	2-0	Top 3	hit_into_play	Victor Caratini lines out to shortstop Francisco Lindor.	
+FF	98.6		deGrom, Jacob	Caratini, Victor		2316		12	2021-06-11	1-0	Top 3	ball	Victor Caratini lines out to shortstop Francisco Lindor.	
+FF	98.6		deGrom, Jacob	Caratini, Victor		2357		14	2021-06-11	0-0	Top 3	ball	Victor Caratini lines out to shortstop Francisco Lindor.	
+SL	90.8		deGrom, Jacob	Kim, Ha-Seong		2667		14	2021-06-11	0-2	Top 3	swinging_strike	Ha-Seong Kim strikes out swinging.	
+SL	92.6		deGrom, Jacob	Kim, Ha-Seong		2594		14	2021-06-11	0-1	Top 3	swinging_strike	Ha-Seong Kim strikes out swinging.	
+FF	99.1	81.0	deGrom, Jacob	Kim, Ha-Seong	198	2414	18	6	2021-06-11	0-0	Top 3	foul	Ha-Seong Kim strikes out swinging.	
+SL	92.2	69.5	deGrom, Jacob	Profar, Jurickson	100	2547	70	6	2021-06-11	0-2	Top 2	hit_into_play	Jurickson Profar pops out to shortstop Francisco Lindor.	
+FF	98.8	75.8	deGrom, Jacob	Profar, Jurickson	198	2431	55	5	2021-06-11	0-1	Top 2	foul	Jurickson Profar pops out to shortstop Francisco Lindor.	
+FF	98.9		deGrom, Jacob	Profar, Jurickson		2454		3	2021-06-11	0-0	Top 2	called_strike	Jurickson Profar pops out to shortstop Francisco Lindor.	
+SL	92.8		deGrom, Jacob	Myers, Wil		2639		14	2021-06-11	3-2	Top 2	swinging_strike	Wil Myers strikes out swinging.	
+SL	93.0		deGrom, Jacob	Myers, Wil		2612		13	2021-06-11	2-2	Top 2	ball	Wil Myers strikes out swinging.	
+SL	91.9		deGrom, Jacob	Myers, Wil		2678		14	2021-06-11	1-2	Top 2	ball	Wil Myers strikes out swinging.	
+SL	93.0		deGrom, Jacob	Myers, Wil		2646		14	2021-06-11	0-2	Top 2	ball	Wil Myers strikes out swinging.	
+SL	92.8		deGrom, Jacob	Myers, Wil		2551		14	2021-06-11	0-1	Top 2	swinging_strike	Wil Myers strikes out swinging.	
+SL	93.2		deGrom, Jacob	Myers, Wil		2593		14	2021-06-11	0-0	Top 2	swinging_strike	Wil Myers strikes out swinging.	
+FF	99.7	97.4	deGrom, Jacob	Machado, Manny	358	2512	34	6	2021-06-11	1-2	Top 2	hit_into_play	Manny Machado flies out to center fielder Kevin Pillar.	
+FF	100.2		deGrom, Jacob	Machado, Manny		2525		12	2021-06-11	0-2	Top 2	ball	Manny Machado flies out to center fielder Kevin Pillar.	
+SL	93.2		deGrom, Jacob	Machado, Manny		2646		14	2021-06-11	0-1	Top 2	swinging_strike	Manny Machado flies out to center fielder Kevin Pillar.	
+FF	99.4		deGrom, Jacob	Machado, Manny		2446		14	2021-06-11	0-0	Top 2	called_strike	Manny Machado flies out to center fielder Kevin Pillar.	
+FF	100.1	67.5	deGrom, Jacob	Cronenworth, Jake	188	2488	51	6	2021-06-11	0-0	Top 1	hit_into_play	Jake Cronenworth pops out to shortstop Francisco Lindor.	
+SL	94.9		deGrom, Jacob	Tatis Jr., Fernando		2567		14	2021-06-11	3-2	Top 1	swinging_strike	Fernando Tatis Jr. strikes out swinging.	
+CH	93.4		deGrom, Jacob	Tatis Jr., Fernando		1653		14	2021-06-11	2-2	Top 1	ball	Fernando Tatis Jr. strikes out swinging.	
+FF	100.3	79.5	deGrom, Jacob	Tatis Jr., Fernando	220	2450	22	6	2021-06-11	2-1	Top 1	foul	Fernando Tatis Jr. strikes out swinging.	
+FF	100.1	74.9	deGrom, Jacob	Tatis Jr., Fernando	188	2524	62	14	2021-06-11	2-0	Top 1	foul	Fernando Tatis Jr. strikes out swinging.	
+FF	100.8		deGrom, Jacob	Tatis Jr., Fernando		2544		14	2021-06-11	1-0	Top 1	ball	Fernando Tatis Jr. strikes out swinging.	
+FF	100.3		deGrom, Jacob	Tatis Jr., Fernando		2591		14	2021-06-11	0-0	Top 1	ball	Fernando Tatis Jr. strikes out swinging.	
+CH	91.5		deGrom, Jacob	Pham, Tommy		1670		14	2021-06-11	1-2	Top 1	swinging_strike	Tommy Pham strikes out swinging.	
+SL	90.2	73.5	deGrom, Jacob	Pham, Tommy	4	2731	-26	9	2021-06-11	1-2	Top 1	foul	Tommy Pham strikes out swinging.	
+SL	91.9		deGrom, Jacob	Pham, Tommy		2710		14	2021-06-11	0-2	Top 1	ball	Tommy Pham strikes out swinging.	
+FF	99.8	99.5	deGrom, Jacob	Pham, Tommy	334	2355	22	2	2021-06-11	0-1	Top 1	foul	Tommy Pham strikes out swinging.	
+FF	99.3	82.4	deGrom, Jacob	Pham, Tommy	172	2319	70	6	2021-06-11	0-0	Top 1	foul	Tommy Pham strikes out swinging.	
+SL	91.1		deGrom, Jacob	Caratini, Victor		2798		14	2021-06-05	0-2	Bot 7	swinging_strike	Victor Caratini strikes out swinging.	
+CH	94.4		deGrom, Jacob	Caratini, Victor		1585		13	2021-06-05	0-1	Bot 7	swinging_strike	Victor Caratini strikes out swinging.	
+SL	92.7		deGrom, Jacob	Caratini, Victor		2567		7	2021-06-05	0-0	Bot 7	called_strike	Victor Caratini strikes out swinging.	
+FF	98.2	90.5	deGrom, Jacob	Marcano, Tucupita	39	2452	-1	6	2021-06-05	1-0	Bot 7	hit_into_play	Tucupita Marcano grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	99.3		deGrom, Jacob	Marcano, Tucupita		2504		12	2021-06-05	0-0	Bot 7	ball	Tucupita Marcano grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	90.7		deGrom, Jacob	Myers, Wil		2649		14	2021-06-05	0-2	Bot 7	swinging_strike	Wil Myers strikes out swinging.	
+SL	89.9		deGrom, Jacob	Myers, Wil		2588		8	2021-06-05	0-1	Bot 7	swinging_strike	Wil Myers strikes out swinging.	
+SL	91.3		deGrom, Jacob	Myers, Wil		2456		14	2021-06-05	0-0	Bot 7	swinging_strike	Wil Myers strikes out swinging.	
+SL	91.3		deGrom, Jacob	Hosmer, Eric		2652		14	2021-06-05	2-2	Bot 6	swinging_strike	Eric Hosmer strikes out swinging.	
+SL	91.9	69.6	deGrom, Jacob	Hosmer, Eric	4	2596	-21	14	2021-06-05	2-1	Bot 6	foul	Eric Hosmer strikes out swinging.	
+SL	92.3		deGrom, Jacob	Hosmer, Eric		2564		14	2021-06-05	1-1	Bot 6	ball	Eric Hosmer strikes out swinging.	
+SL	90.3		deGrom, Jacob	Hosmer, Eric		2605		14	2021-06-05	1-0	Bot 6	swinging_strike	Eric Hosmer strikes out swinging.	
+FF	100.1		deGrom, Jacob	Hosmer, Eric		2496		14	2021-06-05	0-0	Bot 6	ball	Eric Hosmer strikes out swinging.	
+FF	100.7		deGrom, Jacob	Tatis Jr., Fernando		2410		14	2021-06-05	3-0	Bot 6	ball	Fernando Tatis Jr. walks.	
+SL	91.3		deGrom, Jacob	Tatis Jr., Fernando		2562		11	2021-06-05	2-0	Bot 6	ball	Fernando Tatis Jr. walks.	
+FF	100.7		deGrom, Jacob	Tatis Jr., Fernando		2471		14	2021-06-05	1-0	Bot 6	ball	Fernando Tatis Jr. walks.	
+CH	91.5		deGrom, Jacob	Tatis Jr., Fernando		1715		14	2021-06-05	0-0	Bot 6	ball	Fernando Tatis Jr. walks.	
+CU	82.6	87.7	deGrom, Jacob	Cronenworth, Jake	43	2719	0	11	2021-06-05	2-2	Bot 6	hit_into_play	Jake Cronenworth grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	100.4	78.2	deGrom, Jacob	Cronenworth, Jake	270	2513	41	11	2021-06-05	2-2	Bot 6	foul	Jake Cronenworth grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.2		deGrom, Jacob	Cronenworth, Jake		2659		12	2021-06-05	2-1	Bot 6	called_strike	Jake Cronenworth grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.5		deGrom, Jacob	Cronenworth, Jake		2629		3	2021-06-05	2-0	Bot 6	foul	Jake Cronenworth grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+CH	93.0		deGrom, Jacob	Cronenworth, Jake		1769		14	2021-06-05	1-0	Bot 6	ball	Jake Cronenworth grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	94.1		deGrom, Jacob	Cronenworth, Jake		2768		14	2021-06-05	0-0	Bot 6	ball	Jake Cronenworth grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	100.3		deGrom, Jacob	Machado, Manny		2594		14	2021-06-05	1-2	Bot 6	swinging_strike	Manny Machado strikes out swinging.	
+FF	100.3	81.1	deGrom, Jacob	Machado, Manny	99	2640	18	3	2021-06-05	1-1	Bot 6	foul	Manny Machado strikes out swinging.	
+FF	100.4		deGrom, Jacob	Machado, Manny		2595		14	2021-06-05	0-1	Bot 6	ball	Manny Machado strikes out swinging.	
+FF	100.3		deGrom, Jacob	Machado, Manny		2570		14	2021-06-05	0-0	Bot 6	called_strike	Manny Machado strikes out swinging.	
+CU	84.0	30.6	deGrom, Jacob	Profar, Jurickson	4	2793	-25	9	2021-06-05	0-0	Bot 5	hit_into_play	Jurickson Profar grounds out softly, third baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.9		deGrom, Jacob	Musgrove, Joe		2685		14	2021-06-05	0-2	Bot 5	swinging_strike	Joe Musgrove strikes out swinging.	
+SL	93.0		deGrom, Jacob	Musgrove, Joe		2675		14	2021-06-05	0-1	Bot 5	swinging_strike	Joe Musgrove strikes out swinging.	
+FF	98.8	85.9	deGrom, Jacob	Musgrove, Joe	217	2522	58	8	2021-06-05	0-0	Bot 5	foul	Joe Musgrove strikes out swinging.	
+FF	99.2	86.5	deGrom, Jacob	Caratini, Victor	300	2394	29	3	2021-06-05	2-1	Bot 5	hit_into_play	Victor Caratini flies out to left fielder Dominic Smith.	
+CH	90.2		deGrom, Jacob	Caratini, Victor		1652		11	2021-06-05	1-1	Bot 5	ball	Victor Caratini flies out to left fielder Dominic Smith.	
+SL	91.0		deGrom, Jacob	Caratini, Victor		2686		14	2021-06-05	1-0	Bot 5	swinging_strike	Victor Caratini flies out to left fielder Dominic Smith.	
+SL	91.7		deGrom, Jacob	Caratini, Victor		2590		13	2021-06-05	0-0	Bot 5	ball	Victor Caratini flies out to left fielder Dominic Smith.	
+SL	92.9		deGrom, Jacob	Marcano, Tucupita		2559		14	2021-06-05	3-2	Bot 4	swinging_strike	Tucupita Marcano strikes out swinging.	
+SL	92.5		deGrom, Jacob	Marcano, Tucupita		2593		14	2021-06-05	2-2	Bot 4	ball	Tucupita Marcano strikes out swinging.	
+SL	91.2		deGrom, Jacob	Marcano, Tucupita		2626		14	2021-06-05	1-2	Bot 4	ball	Tucupita Marcano strikes out swinging.	
+FF	100.0	81.9	deGrom, Jacob	Marcano, Tucupita	206	2404	18	2	2021-06-05	1-1	Bot 4	foul	Tucupita Marcano strikes out swinging.	
+FF	100.9	75.9	deGrom, Jacob	Marcano, Tucupita	167	2597	14	6	2021-06-05	1-0	Bot 4	foul	Tucupita Marcano strikes out swinging.	
+SL	93.2		deGrom, Jacob	Marcano, Tucupita		2767		14	2021-06-05	0-0	Bot 4	blocked_ball	Tucupita Marcano strikes out swinging.	
+SL	92.4		deGrom, Jacob	Myers, Wil		2654		14	2021-06-05	1-2	Bot 4	foul_tip	Wil Myers strikes out on a foul tip.	
+SL	92.4		deGrom, Jacob	Myers, Wil		2718		2	2021-06-05	1-1	Bot 4	called_strike	Wil Myers strikes out on a foul tip.	
+SL	93.0		deGrom, Jacob	Myers, Wil		2713		14	2021-06-05	0-1	Bot 4	ball	Wil Myers strikes out on a foul tip.	
+FF	100.8		deGrom, Jacob	Myers, Wil		2513		6	2021-06-05	0-0	Bot 4	called_strike	Wil Myers strikes out on a foul tip.	
+SL	93.5	78.2	deGrom, Jacob	Hosmer, Eric	255	2790	26	6	2021-06-05	0-1	Bot 4	hit_into_play	Eric Hosmer singles on a line drive to left fielder Dominic Smith. Jake Cronenworth to 3rd. Fernando Tatis Jr. to 2nd.	
+SL	93.9		deGrom, Jacob	Hosmer, Eric		2645		14	2021-06-05	0-0	Bot 4	swinging_strike	Eric Hosmer singles on a line drive to left fielder Dominic Smith. Jake Cronenworth to 3rd. Fernando Tatis Jr. to 2nd.	
+FF	99.7	97.9	deGrom, Jacob	Tatis Jr., Fernando	11	2452	-14	2	2021-06-05	1-0	Bot 4	hit_into_play	Fernando Tatis Jr. reaches on a fielder's choice, fielded by shortstop Francisco Lindor. Jake Cronenworth to 2nd. Jake Cronenworth advances to 2nd, on a fielding error by shortstop Francisco Lindor.	
+FF	101.1		deGrom, Jacob	Tatis Jr., Fernando		2499		14	2021-06-05	0-0	Bot 4	blocked_ball	Fernando Tatis Jr. reaches on a fielder's choice, fielded by shortstop Francisco Lindor. Jake Cronenworth to 2nd. Jake Cronenworth advances to 2nd, on a fielding error by shortstop Francisco Lindor.	
+FF	101.0	95.4	deGrom, Jacob	Cronenworth, Jake	305	2551	19	6	2021-06-05	0-0	Bot 4	hit_into_play	Jake Cronenworth singles on a line drive to right fielder Billy McKinney.	
+FF	101.4		deGrom, Jacob	Machado, Manny		2619		14	2021-06-05	1-2	Bot 4	swinging_strike	Manny Machado strikes out swinging.	
+SL	92.6	62.8	deGrom, Jacob	Machado, Manny	1	2575	-69	9	2021-06-05	1-1	Bot 4	foul	Manny Machado strikes out swinging.	
+FF	100.8		deGrom, Jacob	Machado, Manny		2524		6	2021-06-05	1-0	Bot 4	foul	Manny Machado strikes out swinging.	
+SL	92.6		deGrom, Jacob	Machado, Manny		2532		14	2021-06-05	0-0	Bot 4	ball	Manny Machado strikes out swinging.	
+SL	92.0		deGrom, Jacob	Profar, Jurickson		2629		14	2021-06-05	1-2	Bot 3	swinging_strike	Jurickson Profar strikes out swinging.	
+SL	92.9		deGrom, Jacob	Profar, Jurickson		2608		5	2021-06-05	1-1	Bot 3	called_strike	Jurickson Profar strikes out swinging.	
+FF	100.4		deGrom, Jacob	Profar, Jurickson		2477		13	2021-06-05	1-0	Bot 3	foul	Jurickson Profar strikes out swinging.	
+FF	100.4		deGrom, Jacob	Profar, Jurickson		2452		14	2021-06-05	0-0	Bot 3	ball	Jurickson Profar strikes out swinging.	
+FF	101.0	67.1	deGrom, Jacob	Musgrove, Joe	7	2660	-17	9	2021-06-05	1-0	Bot 3	hit_into_play	Joe Musgrove grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	101.5		deGrom, Jacob	Musgrove, Joe		2455		14	2021-06-05	0-0	Bot 3	ball	Joe Musgrove grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.9	90.0	deGrom, Jacob	Caratini, Victor	282	2414	41	6	2021-06-05	1-0	Bot 3	hit_into_play	Victor Caratini flies out to left fielder Dominic Smith.	
+FF	99.8		deGrom, Jacob	Caratini, Victor		2450		14	2021-06-05	0-0	Bot 3	ball	Victor Caratini flies out to left fielder Dominic Smith.	
+SL	92.8	61.9	deGrom, Jacob	Marcano, Tucupita	3	2632	-38	9	2021-06-05	1-1	Bot 2	hit_into_play	Tucupita Marcano grounds out to pitcher Jacob deGrom.	
+FF	101.1	80.3	deGrom, Jacob	Marcano, Tucupita	246	2543	26	1	2021-06-05	1-0	Bot 2	foul	Tucupita Marcano grounds out to pitcher Jacob deGrom.	
+FF	101.9		deGrom, Jacob	Marcano, Tucupita		2559		14	2021-06-05	0-0	Bot 2	ball	Tucupita Marcano grounds out to pitcher Jacob deGrom.	
+FF	100.9	99.5	deGrom, Jacob	Myers, Wil	13	2450	-8	9	2021-06-05	2-2	Bot 2	hit_into_play	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+CH	93.7		deGrom, Jacob	Myers, Wil		1709		14	2021-06-05	1-2	Bot 2	blocked_ball	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+FF	100.5	82.6	deGrom, Jacob	Myers, Wil	275	2389	33	1	2021-06-05	1-2	Bot 2	foul	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+FF	101.4	88.2	deGrom, Jacob	Myers, Wil	266	2569	20	14	2021-06-05	1-2	Bot 2	foul	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+SL	91.3	69.9	deGrom, Jacob	Myers, Wil	2	2689	-48	14	2021-06-05	1-2	Bot 2	foul	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+FF	101.6	75.7	deGrom, Jacob	Myers, Wil	226	2558	35	14	2021-06-05	1-2	Bot 2	foul	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+SL	92.8		deGrom, Jacob	Myers, Wil		2632		14	2021-06-05	0-2	Bot 2	blocked_ball	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+FF	100.9	95.6	deGrom, Jacob	Myers, Wil	318	2521	35	6	2021-06-05	0-1	Bot 2	foul	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+FF	101.3		deGrom, Jacob	Myers, Wil		2535		5	2021-06-05	0-0	Bot 2	swinging_strike	Wil Myers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso. Fernando Tatis Jr. to 3rd.	
+FF	100.8	75.5	deGrom, Jacob	Hosmer, Eric	228	2552	49	6	2021-06-05	0-0	Bot 2	hit_into_play	Eric Hosmer flies out to left fielder Dominic Smith.	
+FF	100.0	75.6	deGrom, Jacob	Tatis Jr., Fernando	126	2445	11	14	2021-06-05	0-0	Bot 2	hit_into_play	Fernando Tatis Jr. doubles (9) on a ground ball to right fielder Billy McKinney.	
+SL	92.8		deGrom, Jacob	Cronenworth, Jake		2615		14	2021-06-05	0-2	Bot 1	swinging_strike	Jake Cronenworth strikes out swinging.	
+FF	100.4	81.1	deGrom, Jacob	Cronenworth, Jake	226	2622	22	1	2021-06-05	0-1	Bot 1	foul	Jake Cronenworth strikes out swinging.	
+FF	100.0		deGrom, Jacob	Cronenworth, Jake		2583		14	2021-06-05	0-0	Bot 1	called_strike	Jake Cronenworth strikes out swinging.	
+FF	99.7		deGrom, Jacob	Machado, Manny		2583		14	2021-06-05	0-2	Bot 1	called_strike	Manny Machado called out on strikes.	
+FF	99.8	79.6	deGrom, Jacob	Machado, Manny	272	2582	45	3	2021-06-05	0-2	Bot 1	foul	Manny Machado called out on strikes.	
+FF	99.9		deGrom, Jacob	Machado, Manny		2567		12	2021-06-05	0-1	Bot 1	swinging_strike	Manny Machado called out on strikes.	
+FF	100.0		deGrom, Jacob	Machado, Manny		2563		5	2021-06-05	0-0	Bot 1	swinging_strike	Manny Machado called out on strikes.	
+FF	99.6	87.5	deGrom, Jacob	Profar, Jurickson	283	2498	45	7	2021-06-05	1-0	Bot 1	hit_into_play	Jurickson Profar flies out to left fielder Dominic Smith.	
+FF	100.0		deGrom, Jacob	Profar, Jurickson		2562		13	2021-06-05	0-0	Bot 1	ball	Jurickson Profar flies out to left fielder Dominic Smith.	
+FF	100.3		deGrom, Jacob	Marte, Ketel		2523		11	2021-05-31	1-2	Bot 6	swinging_strike	Ketel Marte strikes out swinging.	
+CH	92.3	64.3	deGrom, Jacob	Marte, Ketel	3	1570	-42	4	2021-05-31	1-1	Bot 6	foul	Ketel Marte strikes out swinging.	
+CU	84.6		deGrom, Jacob	Marte, Ketel		2659		14	2021-05-31	1-0	Bot 6	called_strike	Ketel Marte strikes out swinging.	
+FF	99.8		deGrom, Jacob	Marte, Ketel		2551		1	2021-05-31	0-0	Bot 6	ball	Ketel Marte strikes out swinging.	
+FF	99.2	97.2	deGrom, Jacob	Rojas, Josh	52	2615	0	3	2021-05-31	0-0	Bot 6	hit_into_play	Josh Rojas grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	91.5		deGrom, Jacob	Kelly, Merrill		2698		14	2021-05-31	1-2	Bot 6	swinging_strike	Merrill Kelly strikes out swinging.	
+SL	93.0		deGrom, Jacob	Kelly, Merrill		2685		14	2021-05-31	0-2	Bot 6	ball	Merrill Kelly strikes out swinging.	
+FF	98.6		deGrom, Jacob	Kelly, Merrill		2609		12	2021-05-31	0-1	Bot 6	swinging_strike	Merrill Kelly strikes out swinging.	
+FF	99.5		deGrom, Jacob	Kelly, Merrill		2524		12	2021-05-31	0-0	Bot 6	called_strike	Merrill Kelly strikes out swinging.	
+SL	91.5		deGrom, Jacob	Leyba, Domingo		2618		14	2021-05-31	0-2	Bot 5	swinging_strike	Domingo Leyba strikes out swinging.	
+SL	92.2		deGrom, Jacob	Leyba, Domingo		2499		14	2021-05-31	0-1	Bot 5	swinging_strike	Domingo Leyba strikes out swinging.	
+SL	91.9		deGrom, Jacob	Leyba, Domingo		2543		14	2021-05-31	0-0	Bot 5	swinging_strike_blocked	Domingo Leyba strikes out swinging.	
+FF	100.2	83.1	deGrom, Jacob	Reddick, Josh	288	2506	23	3	2021-05-31	0-1	Bot 5	hit_into_play	Josh Reddick singles on a line drive to right fielder Billy McKinney. Pavin Smith to 3rd.	
+FF	99.7		deGrom, Jacob	Reddick, Josh		2443		6	2021-05-31	0-0	Bot 5	called_strike	Josh Reddick singles on a line drive to right fielder Billy McKinney. Pavin Smith to 3rd.	
+SL	91.6	60.0	deGrom, Jacob	Smith, Pavin	8	2614	-16	6	2021-05-31	0-2	Bot 5	hit_into_play	Pavin Smith grounds into a force out, first baseman Pete Alonso to shortstop Francisco Lindor. Carson Kelly out at 2nd. Pavin Smith to 1st.	
+FF	99.2	67.2	deGrom, Jacob	Smith, Pavin	215	2453	48	12	2021-05-31	0-1	Bot 5	foul	Pavin Smith grounds into a force out, first baseman Pete Alonso to shortstop Francisco Lindor. Carson Kelly out at 2nd. Pavin Smith to 1st.	
+FF	100.8	47.8	deGrom, Jacob	Smith, Pavin	112	2584	53	12	2021-05-31	0-0	Bot 5	foul	Pavin Smith grounds into a force out, first baseman Pete Alonso to shortstop Francisco Lindor. Carson Kelly out at 2nd. Pavin Smith to 1st.	
+FF	100.4	90.3	deGrom, Jacob	Kelly, Carson	175	2578	10	9	2021-05-31	1-1	Bot 5	hit_into_play	Carson Kelly singles on a line drive to center fielder Mason Williams.	
+FF	100.1		deGrom, Jacob	Kelly, Carson		2559		14	2021-05-31	0-1	Bot 5	ball	Carson Kelly singles on a line drive to center fielder Mason Williams.	
+FF	100.1	83.3	deGrom, Jacob	Kelly, Carson	230	2594	62	6	2021-05-31	0-0	Bot 5	foul	Carson Kelly singles on a line drive to center fielder Mason Williams.	
+SL	89.6	98.7	deGrom, Jacob	Peralta, David	29	2617	-4	2	2021-05-31	2-1	Bot 5	hit_into_play	David Peralta grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	93.0		deGrom, Jacob	Peralta, David		2731		14	2021-05-31	1-1	Bot 5	ball	David Peralta grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	91.6		deGrom, Jacob	Peralta, David		2777		14	2021-05-31	0-1	Bot 5	ball	David Peralta grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.8		deGrom, Jacob	Peralta, David		2571		3	2021-05-31	0-0	Bot 5	called_strike	David Peralta grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	101.2	53.8	deGrom, Jacob	Escobar, Eduardo	152	2612	30	12	2021-05-31	0-2	Bot 4	hit_into_play	Eduardo Escobar lines out to second baseman Jose Peraza.	
+SL	92.5	83.5	deGrom, Jacob	Escobar, Eduardo	3	2693	-31	9	2021-05-31	0-1	Bot 4	foul	Eduardo Escobar lines out to second baseman Jose Peraza.	
+SL	92.4		deGrom, Jacob	Escobar, Eduardo		2585		14	2021-05-31	0-0	Bot 4	swinging_strike	Eduardo Escobar lines out to second baseman Jose Peraza.	
+SL	91.4	70.2	deGrom, Jacob	Marte, Ketel	41	2787	1	5	2021-05-31	2-1	Bot 4	hit_into_play	Ketel Marte grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	90.8		deGrom, Jacob	Marte, Ketel		2733		9	2021-05-31	2-0	Bot 4	called_strike	Ketel Marte grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	100.1		deGrom, Jacob	Marte, Ketel		2631		14	2021-05-31	1-0	Bot 4	ball	Ketel Marte grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+SL	92.2		deGrom, Jacob	Marte, Ketel		2705		14	2021-05-31	0-0	Bot 4	ball	Ketel Marte grounds out, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	98.1	71.3	deGrom, Jacob	Rojas, Josh	190	2330	57	6	2021-05-31	3-1	Bot 4	hit_into_play	Josh Rojas flies out to third baseman Jonathan Villar.	
+FF	98.4		deGrom, Jacob	Rojas, Josh		2415		6	2021-05-31	3-0	Bot 4	called_strike	Josh Rojas flies out to third baseman Jonathan Villar.	
+FF	99.3		deGrom, Jacob	Rojas, Josh		2488		12	2021-05-31	2-0	Bot 4	ball	Josh Rojas flies out to third baseman Jonathan Villar.	
+SL	89.9		deGrom, Jacob	Rojas, Josh		2674		14	2021-05-31	1-0	Bot 4	ball	Josh Rojas flies out to third baseman Jonathan Villar.	
+FF	99.1		deGrom, Jacob	Rojas, Josh		2468		12	2021-05-31	0-0	Bot 4	ball	Josh Rojas flies out to third baseman Jonathan Villar.	
+FF	101.1	83.1	deGrom, Jacob	Kelly, Merrill	1	2500	-68	6	2021-05-31	0-2	Bot 3	hit_into_play	Merrill Kelly grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	92.2		deGrom, Jacob	Kelly, Merrill		2772		9	2021-05-31	0-1	Bot 3	called_strike	Merrill Kelly grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	101.4		deGrom, Jacob	Kelly, Merrill		2478		9	2021-05-31	0-0	Bot 3	called_strike	Merrill Kelly grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	90.3		deGrom, Jacob	Leyba, Domingo		2694		14	2021-05-31	1-2	Bot 3	swinging_strike	Domingo Leyba strikes out swinging.	
+SL	92.4	87.9	deGrom, Jacob	Leyba, Domingo	6	2645	-19	14	2021-05-31	1-2	Bot 3	foul	Domingo Leyba strikes out swinging.	
+SL	93.0		deGrom, Jacob	Leyba, Domingo		2691		14	2021-05-31	1-1	Bot 3	swinging_strike	Domingo Leyba strikes out swinging.	
+FF	99.9		deGrom, Jacob	Leyba, Domingo		2471		12	2021-05-31	0-1	Bot 3	ball	Domingo Leyba strikes out swinging.	
+FF	100.4	98.0	deGrom, Jacob	Leyba, Domingo	321	2531	50	12	2021-05-31	0-0	Bot 3	foul	Domingo Leyba strikes out swinging.	
+FF	100.4	64.1	deGrom, Jacob	Reddick, Josh	22	2468	-2	14	2021-05-31	2-2	Bot 3	hit_into_play	Josh Reddick grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	99.9	80.9	deGrom, Jacob	Reddick, Josh	264	2487	32	2	2021-05-31	2-1	Bot 3	foul	Josh Reddick grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	100.0		deGrom, Jacob	Reddick, Josh		2504		14	2021-05-31	1-1	Bot 3	ball	Josh Reddick grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	99.3	74.4	deGrom, Jacob	Reddick, Josh	238	2487	33	2	2021-05-31	1-0	Bot 3	foul	Josh Reddick grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	99.1		deGrom, Jacob	Reddick, Josh		2504		12	2021-05-31	0-0	Bot 3	ball	Josh Reddick grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	101.0		deGrom, Jacob	Smith, Pavin		2477		5	2021-05-31	2-2	Bot 2	swinging_strike	Pavin Smith strikes out swinging.	
+FF	100.9		deGrom, Jacob	Smith, Pavin		2602		14	2021-05-31	2-1	Bot 2	swinging_strike	Pavin Smith strikes out swinging.	
+FF	100.3		deGrom, Jacob	Smith, Pavin		2561		12	2021-05-31	1-1	Bot 2	ball	Pavin Smith strikes out swinging.	
+FF	101.2		deGrom, Jacob	Smith, Pavin		2610		12	2021-05-31	0-1	Bot 2	ball	Pavin Smith strikes out swinging.	
+FF	101.2		deGrom, Jacob	Smith, Pavin		2547		6	2021-05-31	0-0	Bot 2	called_strike	Pavin Smith strikes out swinging.	
+SL	91.8		deGrom, Jacob	Kelly, Carson		2655		14	2021-05-31	1-2	Bot 2	swinging_strike	Carson Kelly strikes out swinging.	
+FF	100.1		deGrom, Jacob	Kelly, Carson		2534		14	2021-05-31	1-1	Bot 2	called_strike	Carson Kelly strikes out swinging.	
+FF	99.0	83.5	deGrom, Jacob	Kelly, Carson	254	2456	25	12	2021-05-31	1-0	Bot 2	foul	Carson Kelly strikes out swinging.	
+FF	99.0		deGrom, Jacob	Kelly, Carson		2451		12	2021-05-31	0-0	Bot 2	ball	Carson Kelly strikes out swinging.	
+FF	100.0	72.8	deGrom, Jacob	Peralta, David	110	2531	69	3	2021-05-31	0-0	Bot 2	hit_into_play	David Peralta pops out to third baseman Jonathan Villar.	
+SL	93.0		deGrom, Jacob	Escobar, Eduardo		2573		9	2021-05-31	2-2	Bot 1	swinging_strike	Eduardo Escobar strikes out swinging.	
+FF	100.8	79.8	deGrom, Jacob	Escobar, Eduardo	243	2541	27	3	2021-05-31	2-1	Bot 1	foul	Eduardo Escobar strikes out swinging.	
+FF	100.0	79.6	deGrom, Jacob	Escobar, Eduardo	238	2433	26	3	2021-05-31	2-0	Bot 1	foul	Eduardo Escobar strikes out swinging.	
+FF	99.8		deGrom, Jacob	Escobar, Eduardo		2444		11	2021-05-31	1-0	Bot 1	ball	Eduardo Escobar strikes out swinging.	
+FF	99.9		deGrom, Jacob	Escobar, Eduardo		2360		11	2021-05-31	0-0	Bot 1	ball	Eduardo Escobar strikes out swinging.	
+FF	101.7	100.9	deGrom, Jacob	Marte, Ketel	13	2579	-9	6	2021-05-31	1-1	Bot 1	hit_into_play	Ketel Marte grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	101.6		deGrom, Jacob	Marte, Ketel		2685		12	2021-05-31	0-1	Bot 1	ball	Ketel Marte grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	101.4		deGrom, Jacob	Marte, Ketel		2614		9	2021-05-31	0-0	Bot 1	called_strike	Ketel Marte grounds out sharply, second baseman Jose Peraza to first baseman Pete Alonso.	
+FF	101.4		deGrom, Jacob	Rojas, Josh		2572		3	2021-05-31	0-2	Bot 1	swinging_strike	Josh Rojas strikes out swinging.	
+FF	99.9	70.9	deGrom, Jacob	Rojas, Josh	199	2426	52	14	2021-05-31	0-1	Bot 1	foul	Josh Rojas strikes out swinging.	
+FF	100.2	80.8	deGrom, Jacob	Rojas, Josh	208	2257	18	12	2021-05-31	0-0	Bot 1	foul	Josh Rojas strikes out swinging.	
+FF	100.5		deGrom, Jacob	Joe, Connor		2521		5	2021-05-25	2-2	Top 5	called_strike	Connor Joe called out on strikes.	
+FF	99.8		deGrom, Jacob	Joe, Connor		2429		14	2021-05-25	2-1	Top 5	called_strike	Connor Joe called out on strikes.	
+SL	92.1		deGrom, Jacob	Joe, Connor		2639		14	2021-05-25	1-1	Top 5	ball	Connor Joe called out on strikes.	
+SL	92.6		deGrom, Jacob	Joe, Connor		2699		14	2021-05-25	1-0	Top 5	swinging_strike	Connor Joe called out on strikes.	
+FF	99.9		deGrom, Jacob	Joe, Connor		2463		14	2021-05-25	0-0	Top 5	ball	Connor Joe called out on strikes.	
+SL	91.0		deGrom, Jacob	Nuñez, Dom		2636		14	2021-05-25	1-2	Top 5	swinging_strike	Dom Nunez strikes out swinging.	
+SL	93.8		deGrom, Jacob	Nuñez, Dom		2534		14	2021-05-25	1-1	Top 5	swinging_strike	Dom Nunez strikes out swinging.	
+FF	100.0		deGrom, Jacob	Nuñez, Dom		2496		13	2021-05-25	0-1	Top 5	ball	Dom Nunez strikes out swinging.	
+FF	99.5		deGrom, Jacob	Nuñez, Dom		2392		7	2021-05-25	0-0	Top 5	called_strike	Dom Nunez strikes out swinging.	
+FF	100.4		deGrom, Jacob	Hampson, Garrett		2446		12	2021-05-25	1-2	Top 5	called_strike	Garrett Hampson called out on strikes.	
+SL	90.7		deGrom, Jacob	Hampson, Garrett		2548		14	2021-05-25	0-2	Top 5	ball	Garrett Hampson called out on strikes.	
+FF	99.4	74.8	deGrom, Jacob	Hampson, Garrett	207	2321	36	5	2021-05-25	0-1	Top 5	foul	Garrett Hampson called out on strikes.	
+FF	98.4		deGrom, Jacob	Hampson, Garrett		2261		6	2021-05-25	0-0	Top 5	missed_bunt	Garrett Hampson called out on strikes.	
+FF	98.2	107.1	deGrom, Jacob	Rodgers, Brendan	45	2437	-2	5	2021-05-25	2-2	Top 5	hit_into_play	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+CH	90.4		deGrom, Jacob	Rodgers, Brendan		1395		11	2021-05-25	1-2	Top 5	ball	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+SL	90.3	82.6	deGrom, Jacob	Rodgers, Brendan	225	2635	50	6	2021-05-25	1-1	Top 5	foul	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+SL	89.1		deGrom, Jacob	Rodgers, Brendan		2660		14	2021-05-25	1-0	Top 5	called_strike	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+FF	98.2		deGrom, Jacob	Rodgers, Brendan		2322		11	2021-05-25	0-0	Top 5	ball	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+CH	93.0		deGrom, Jacob	McMahon, Ryan		1503		13	2021-05-25	0-2	Top 4	swinging_strike	Ryan McMahon strikes out swinging.	
+SL	92.3		deGrom, Jacob	McMahon, Ryan		2539		14	2021-05-25	0-1	Top 4	swinging_strike	Ryan McMahon strikes out swinging.	
+FF	98.6	93.3	deGrom, Jacob	McMahon, Ryan	3	2375	-31	14	2021-05-25	0-0	Top 4	foul	Ryan McMahon strikes out swinging.	
+FF	98.2		deGrom, Jacob	Cron, C.J.		2487		5	2021-05-25	3-2	Top 4	swinging_strike	C.J. Cron strikes out swinging.	
+FF	99.9		deGrom, Jacob	Cron, C.J.		2523		12	2021-05-25	2-2	Top 4	ball	C.J. Cron strikes out swinging.	
+FF	99.2		deGrom, Jacob	Cron, C.J.		2431		9	2021-05-25	2-1	Top 4	called_strike	C.J. Cron strikes out swinging.	
+FF	98.6		deGrom, Jacob	Cron, C.J.		2499		9	2021-05-25	2-0	Top 4	called_strike	C.J. Cron strikes out swinging.	
+SL	91.1		deGrom, Jacob	Cron, C.J.		2590		14	2021-05-25	1-0	Top 4	ball	C.J. Cron strikes out swinging.	
+SL	91.8		deGrom, Jacob	Cron, C.J.		2511		14	2021-05-25	0-0	Top 4	ball	C.J. Cron strikes out swinging.	
+FF	98.9	102.4	deGrom, Jacob	Blackmon, Charlie	19	2435	-6	4	2021-05-25	1-2	Top 4	hit_into_play	Charlie Blackmon grounds out sharply, third baseman Jonathan Villar to first baseman James McCann.	
+SL	90.3		deGrom, Jacob	Blackmon, Charlie		2681		14	2021-05-25	0-2	Top 4	ball	Charlie Blackmon grounds out sharply, third baseman Jonathan Villar to first baseman James McCann.	
+FF	98.1		deGrom, Jacob	Blackmon, Charlie		2389		4	2021-05-25	0-1	Top 4	called_strike	Charlie Blackmon grounds out sharply, third baseman Jonathan Villar to first baseman James McCann.	
+FF	98.0		deGrom, Jacob	Blackmon, Charlie		2460		6	2021-05-25	0-0	Top 4	called_strike	Charlie Blackmon grounds out sharply, third baseman Jonathan Villar to first baseman James McCann.	
+SL	93.1	78.6	deGrom, Jacob	Story, Trevor	18	2690	-7	6	2021-05-25	0-0	Top 3	hit_into_play	Trevor Story grounds out, third baseman Jonathan Villar to first baseman James McCann.	
+FF	99.4		deGrom, Jacob	Tapia, Raimel		2460		4	2021-05-25	0-2	Top 3	swinging_strike	Raimel Tapia strikes out swinging.	
+FF	99.7	77.2	deGrom, Jacob	Tapia, Raimel	102	2436	9	14	2021-05-25	0-1	Top 3	foul	Raimel Tapia strikes out swinging.	
+FF	98.8		deGrom, Jacob	Tapia, Raimel		2312		1	2021-05-25	0-0	Top 3	called_strike	Raimel Tapia strikes out swinging.	
+FF	100.1		deGrom, Jacob	Freeland, Kyle		2351		3	2021-05-25	0-2	Top 3	swinging_strike	Kyle Freeland strikes out swinging.	
+FF	99.2		deGrom, Jacob	Freeland, Kyle		2353		2	2021-05-25	0-1	Top 3	swinging_strike	Kyle Freeland strikes out swinging.	
+FF	97.9		deGrom, Jacob	Freeland, Kyle		2304		6	2021-05-25	0-0	Top 3	called_strike	Kyle Freeland strikes out swinging.	
+FF	99.7		deGrom, Jacob	Nuñez, Dom		2466		6	2021-05-25	2-2	Top 2	called_strike	Dom Nunez called out on strikes.	
+FF	98.9		deGrom, Jacob	Nuñez, Dom		2500		2	2021-05-25	2-1	Top 2	swinging_strike	Dom Nunez called out on strikes.	
+CH	90.2		deGrom, Jacob	Nuñez, Dom		1581		11	2021-05-25	1-1	Top 2	ball	Dom Nunez called out on strikes.	
+FF	99.1		deGrom, Jacob	Nuñez, Dom		2552		2	2021-05-25	1-0	Top 2	called_strike	Dom Nunez called out on strikes.	
+SL	91.3		deGrom, Jacob	Nuñez, Dom		2629		14	2021-05-25	0-0	Top 2	ball	Dom Nunez called out on strikes.	
+FF	98.4	91.2	deGrom, Jacob	Hampson, Garrett	266	2359	18	5	2021-05-25	1-1	Top 2	hit_into_play	Garrett Hampson lines out to right fielder Brandon Drury.	
+SL	90.8		deGrom, Jacob	Hampson, Garrett		2667		14	2021-05-25	0-1	Top 2	ball	Garrett Hampson lines out to right fielder Brandon Drury.	
+FF	98.9		deGrom, Jacob	Hampson, Garrett		2363		4	2021-05-25	0-0	Top 2	called_strike	Garrett Hampson lines out to right fielder Brandon Drury.	
+FF	100.2	100.6	deGrom, Jacob	Rodgers, Brendan	11	2487	-8	9	2021-05-25	2-0	Top 2	hit_into_play	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+FF	100.4		deGrom, Jacob	Rodgers, Brendan		2473		14	2021-05-25	1-0	Top 2	ball	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+FF	100.5		deGrom, Jacob	Rodgers, Brendan		2486		14	2021-05-25	0-0	Top 2	ball	Brendan Rodgers singles on a sharp ground ball to right fielder Brandon Drury.	
+FF	99.9	103.5	deGrom, Jacob	McMahon, Ryan	391	2443	22	5	2021-05-25	1-1	Top 2	hit_into_play	Ryan McMahon homers (13) on a line drive to left center field.	
+FF	99.3		deGrom, Jacob	McMahon, Ryan		2394		11	2021-05-25	0-1	Top 2	ball	Ryan McMahon homers (13) on a line drive to left center field.	
+FF	100.0	86.9	deGrom, Jacob	McMahon, Ryan	268	2342	40	1	2021-05-25	0-0	Top 2	foul	Ryan McMahon homers (13) on a line drive to left center field.	
+SL	92.3		deGrom, Jacob	Cron, C.J.		2787		14	2021-05-25	0-2	Top 2	swinging_strike_blocked	C.J. Cron strikes out swinging.	
+FF	99.0		deGrom, Jacob	Cron, C.J.		2514		6	2021-05-25	0-1	Top 2	called_strike	C.J. Cron strikes out swinging.	
+FF	99.1		deGrom, Jacob	Cron, C.J.		2532		6	2021-05-25	0-0	Top 2	called_strike	C.J. Cron strikes out swinging.	
+FF	100.0	89.3	deGrom, Jacob	Blackmon, Charlie	4	2500	-24	8	2021-05-25	0-0	Top 1	hit_into_play	Charlie Blackmon grounds out, first baseman James McCann to pitcher Jacob deGrom.	
+FF	100.7	91.6	deGrom, Jacob	Story, Trevor	307	2532	27	9	2021-05-25	3-2	Top 1	hit_into_play	Trevor Story flies out to right fielder Brandon Drury.	
+FF	101.3		deGrom, Jacob	Story, Trevor		2534		14	2021-05-25	2-2	Top 1	ball	Trevor Story flies out to right fielder Brandon Drury.	
+FF	99.7	79.5	deGrom, Jacob	Story, Trevor	165	2303	13	6	2021-05-25	2-1	Top 1	foul	Trevor Story flies out to right fielder Brandon Drury.	
+FF	99.5		deGrom, Jacob	Story, Trevor		2270		11	2021-05-25	1-1	Top 1	ball	Trevor Story flies out to right fielder Brandon Drury.	
+FF	99.4		deGrom, Jacob	Story, Trevor		2304		6	2021-05-25	1-0	Top 1	swinging_strike	Trevor Story flies out to right fielder Brandon Drury.	
+FF	99.9		deGrom, Jacob	Story, Trevor		2305		11	2021-05-25	0-0	Top 1	ball	Trevor Story flies out to right fielder Brandon Drury.	
+FF	100.3	100.9	deGrom, Jacob	Tapia, Raimel	4	2472	-30	8	2021-05-25	0-0	Top 1	hit_into_play	Raimel Tapia grounds out sharply, shortstop Francisco Lindor to first baseman James McCann.	
+FF	99.0	59.9	deGrom, Jacob	Bogaerts, Xander	5	2456	-25	14	2021-04-28	3-1	Top 6	hit_into_play	Xander Bogaerts grounds out softly to first baseman Pete Alonso.	
+FF	99.0		deGrom, Jacob	Bogaerts, Xander		2420		3	2021-04-28	3-0	Top 6	called_strike	Xander Bogaerts grounds out softly to first baseman Pete Alonso.	
+FF	99.7		deGrom, Jacob	Bogaerts, Xander		2329		14	2021-04-28	2-0	Top 6	ball	Xander Bogaerts grounds out softly to first baseman Pete Alonso.	
+CH	90.5		deGrom, Jacob	Bogaerts, Xander		1402		14	2021-04-28	1-0	Top 6	ball	Xander Bogaerts grounds out softly to first baseman Pete Alonso.	
+FF	99.2		deGrom, Jacob	Bogaerts, Xander		2431		12	2021-04-28	0-0	Top 6	ball	Xander Bogaerts grounds out softly to first baseman Pete Alonso.	
+FF	100.5		deGrom, Jacob	Martinez, J.D.		2327		2	2021-04-28	1-2	Top 6	swinging_strike	J.D. Martinez strikes out swinging.	
+FF	99.9	85.5	deGrom, Jacob	Martinez, J.D.	257	2307	35	3	2021-04-28	1-2	Top 6	foul	J.D. Martinez strikes out swinging.	
+FF	99.4	97.8	deGrom, Jacob	Martinez, J.D.	277	2450	16	12	2021-04-28	1-2	Top 6	foul	J.D. Martinez strikes out swinging.	
+FF	99.0		deGrom, Jacob	Martinez, J.D.		2445		3	2021-04-28	1-1	Top 6	foul_tip	J.D. Martinez strikes out swinging.	
+FF	98.2		deGrom, Jacob	Martinez, J.D.		2344		2	2021-04-28	1-0	Top 6	swinging_strike	J.D. Martinez strikes out swinging.	
+FF	98.3		deGrom, Jacob	Martinez, J.D.		2415		3	2021-04-28	0-0	Top 6	ball	J.D. Martinez strikes out swinging.	
+FF	98.3		deGrom, Jacob	Verdugo, Alex		2477		12	2021-04-28	3-1	Top 6	ball	Alex Verdugo walks.	
+CH	92.6		deGrom, Jacob	Verdugo, Alex		1517		14	2021-04-28	2-1	Top 6	ball	Alex Verdugo walks.	
+CH	91.0		deGrom, Jacob	Verdugo, Alex		1570		14	2021-04-28	2-0	Top 6	foul	Alex Verdugo walks.	
+CH	91.2		deGrom, Jacob	Verdugo, Alex		1477		13	2021-04-28	1-0	Top 6	ball	Alex Verdugo walks.	
+CH	92.3		deGrom, Jacob	Verdugo, Alex		1578		14	2021-04-28	0-0	Top 6	ball	Alex Verdugo walks.	
+SL	93.8	90.7	deGrom, Jacob	Hernández, Enrique	233	2618	51	6	2021-04-28	3-2	Top 6	hit_into_play	Enrique Hernandez flies out to right fielder Michael Conforto.	
+CH	91.3		deGrom, Jacob	Hernández, Enrique		1579		14	2021-04-28	2-2	Top 6	ball	Enrique Hernandez flies out to right fielder Michael Conforto.	
+CH	91.2	59.7	deGrom, Jacob	Hernández, Enrique	151	1458	55	2	2021-04-28	2-2	Top 6	foul	Enrique Hernandez flies out to right fielder Michael Conforto.	
+FF	99.3	83.4	deGrom, Jacob	Hernández, Enrique	176	2343	14	3	2021-04-28	2-2	Top 6	foul	Enrique Hernandez flies out to right fielder Michael Conforto.	
+CH	92.3		deGrom, Jacob	Hernández, Enrique		1517		14	2021-04-28	1-2	Top 6	ball	Enrique Hernandez flies out to right fielder Michael Conforto.	
+CH	91.2		deGrom, Jacob	Hernández, Enrique		1544		3	2021-04-28	1-1	Top 6	called_strike	Enrique Hernandez flies out to right fielder Michael Conforto.	
+FF	96.9	75.4	deGrom, Jacob	Hernández, Enrique	217	2291	45	3	2021-04-28	1-0	Top 6	foul	Enrique Hernandez flies out to right fielder Michael Conforto.	
+FF	97.6		deGrom, Jacob	Hernández, Enrique		2318		12	2021-04-28	0-0	Top 6	ball	Enrique Hernandez flies out to right fielder Michael Conforto.	
+SL	90.7		deGrom, Jacob	Pivetta, Nick		2560		14	2021-04-28	2-2	Top 5	swinging_strike	Nick Pivetta strikes out swinging.	
+SL	91.7		deGrom, Jacob	Pivetta, Nick		2618		14	2021-04-28	1-2	Top 5	ball	Nick Pivetta strikes out swinging.	
+SL	93.0		deGrom, Jacob	Pivetta, Nick		2496		8	2021-04-28	1-1	Top 5	called_strike	Nick Pivetta strikes out swinging.	
+FF	98.6		deGrom, Jacob	Pivetta, Nick		2291		6	2021-04-28	1-0	Top 5	called_strike	Nick Pivetta strikes out swinging.	
+FF	98.2		deGrom, Jacob	Pivetta, Nick		2405		14	2021-04-28	0-0	Top 5	ball	Nick Pivetta strikes out swinging.	
+SL	91.5		deGrom, Jacob	Dalbec, Bobby		2530		14	2021-04-28	1-2	Top 5	swinging_strike	Bobby Dalbec strikes out swinging.	
+SL	90.8		deGrom, Jacob	Dalbec, Bobby		2518		14	2021-04-28	0-2	Top 5	ball	Bobby Dalbec strikes out swinging.	
+SL	91.5		deGrom, Jacob	Dalbec, Bobby		2492		14	2021-04-28	0-1	Top 5	swinging_strike	Bobby Dalbec strikes out swinging.	
+SL	91.0		deGrom, Jacob	Dalbec, Bobby		2475		9	2021-04-28	0-0	Top 5	swinging_strike	Bobby Dalbec strikes out swinging.	
+FF	97.9		deGrom, Jacob	Gonzalez, Marwin		2270		12	2021-04-28	1-2	Top 5	swinging_strike	Marwin Gonzalez strikes out swinging.	
+FF	98.1		deGrom, Jacob	Gonzalez, Marwin		2384		11	2021-04-28	0-2	Top 5	ball	Marwin Gonzalez strikes out swinging.	
+FF	97.0		deGrom, Jacob	Gonzalez, Marwin		2395		11	2021-04-28	0-1	Top 5	swinging_strike	Marwin Gonzalez strikes out swinging.	
+FF	97.5		deGrom, Jacob	Gonzalez, Marwin		2382		12	2021-04-28	0-0	Top 5	swinging_strike	Marwin Gonzalez strikes out swinging.	
+SL	91.4		deGrom, Jacob	Vázquez, Christian		2405		14	2021-04-28	1-2	Top 4	swinging_strike	Christian Vazquez strikes out swinging.	
+CH	89.1		deGrom, Jacob	Vázquez, Christian		1482		11	2021-04-28	0-2	Top 4	ball	Christian Vazquez strikes out swinging.	
+CH	90.9		deGrom, Jacob	Vázquez, Christian		1588		5	2021-04-28	0-1	Top 4	foul	Christian Vazquez strikes out swinging.	
+FF	98.5	80.2	deGrom, Jacob	Vázquez, Christian	248	2456	42	6	2021-04-28	0-0	Top 4	foul	Christian Vazquez strikes out swinging.	
+SL	90.7	103.8	deGrom, Jacob	Devers, Rafael	238	2573	16	14	2021-04-28	0-0	Top 4	hit_into_play	Rafael Devers doubles (5) on a sharp line drive to right fielder Michael Conforto.	
+SL	92.8	62.4	deGrom, Jacob	Bogaerts, Xander	8	2524	-9	14	2021-04-28	0-1	Top 4	hit_into_play	Xander Bogaerts grounds out, second baseman Jeff McNeil to first baseman Pete Alonso.	
+FF	98.2		deGrom, Jacob	Bogaerts, Xander		2332		6	2021-04-28	0-0	Top 4	called_strike	Xander Bogaerts grounds out, second baseman Jeff McNeil to first baseman Pete Alonso.	
+CH	92.2		deGrom, Jacob	Martinez, J.D.		1517		14	2021-04-28	0-2	Top 4	swinging_strike	J.D. Martinez strikes out swinging.	
+FF	98.0	79.9	deGrom, Jacob	Martinez, J.D.	233	2236	41	3	2021-04-28	0-1	Top 4	foul	J.D. Martinez strikes out swinging.	
+FF	97.8		deGrom, Jacob	Martinez, J.D.		2269		3	2021-04-28	0-0	Top 4	called_strike	J.D. Martinez strikes out swinging.	
+CH	93.2	100.2	deGrom, Jacob	Verdugo, Alex	67	1683	3	4	2021-04-28	1-0	Top 3	hit_into_play	Alex Verdugo grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.2		deGrom, Jacob	Verdugo, Alex		2372		11	2021-04-28	0-0	Top 3	ball	Alex Verdugo grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	92.7	77.0	deGrom, Jacob	Hernández, Enrique	260	2434	24	9	2021-04-28	0-1	Top 3	hit_into_play	Enrique Hernandez lines out to left fielder Dominic Smith.	
+SL	93.3	68.4	deGrom, Jacob	Hernández, Enrique	2	2549	-41	8	2021-04-28	0-0	Top 3	foul	Enrique Hernandez lines out to left fielder Dominic Smith.	
+SL	90.5		deGrom, Jacob	Pivetta, Nick		2586		9	2021-04-28	2-2	Top 3	swinging_strike	Nick Pivetta strikes out swinging.	
+SL	91.8	28.9	deGrom, Jacob	Pivetta, Nick	1	2611	-65	14	2021-04-28	2-2	Top 3	foul	Nick Pivetta strikes out swinging.	
+FF	98.9	89.2	deGrom, Jacob	Pivetta, Nick	310	2269	31	2	2021-04-28	2-2	Top 3	foul	Nick Pivetta strikes out swinging.	
+FF	99.5	85.7	deGrom, Jacob	Pivetta, Nick	288	2219	39	2	2021-04-28	2-2	Top 3	foul	Nick Pivetta strikes out swinging.	
+SL	91.2	75.2	deGrom, Jacob	Pivetta, Nick	5	2645	-29	6	2021-04-28	2-2	Top 3	foul	Nick Pivetta strikes out swinging.	
+FF	99.7	85.6	deGrom, Jacob	Pivetta, Nick	397	2373	18	1	2021-04-28	2-2	Top 3	foul	Nick Pivetta strikes out swinging.	
+FF	99.1	77.4	deGrom, Jacob	Pivetta, Nick	245	2308	31	6	2021-04-28	2-1	Top 3	foul	Nick Pivetta strikes out swinging.	
+FF	99.3		deGrom, Jacob	Pivetta, Nick		2369		1	2021-04-28	1-1	Top 3	ball	Nick Pivetta strikes out swinging.	
+FF	98.7		deGrom, Jacob	Pivetta, Nick		2429		1	2021-04-28	1-0	Top 3	swinging_strike	Nick Pivetta strikes out swinging.	
+FF	98.4		deGrom, Jacob	Pivetta, Nick		2391		14	2021-04-28	0-0	Top 3	ball	Nick Pivetta strikes out swinging.	
+SL	91.8		deGrom, Jacob	Dalbec, Bobby		2457		14	2021-04-28	1-2	Top 2	swinging_strike	Bobby Dalbec strikes out swinging.	
+FF	99.2	80.7	deGrom, Jacob	Dalbec, Bobby	224	2564	55	12	2021-04-28	1-2	Top 2	foul	Bobby Dalbec strikes out swinging.	
+FF	99.1		deGrom, Jacob	Dalbec, Bobby		2549		3	2021-04-28	1-1	Top 2	swinging_strike	Bobby Dalbec strikes out swinging.	
+FF	98.4		deGrom, Jacob	Dalbec, Bobby		2452		3	2021-04-28	1-0	Top 2	called_strike	Bobby Dalbec strikes out swinging.	
+FF	98.8		deGrom, Jacob	Dalbec, Bobby		2395		3	2021-04-28	0-0	Top 2	ball	Bobby Dalbec strikes out swinging.	
+CH	90.9	94.2	deGrom, Jacob	Gonzalez, Marwin	60	1578	2	2	2021-04-28	1-2	Top 2	hit_into_play	Marwin Gonzalez grounds out, second baseman Jeff McNeil to first baseman Pete Alonso. Christian Vazquez to 3rd.	
+CH	92.0		deGrom, Jacob	Gonzalez, Marwin		1688		5	2021-04-28	1-1	Top 2	called_strike	Marwin Gonzalez grounds out, second baseman Jeff McNeil to first baseman Pete Alonso. Christian Vazquez to 3rd.	
+CH	92.3		deGrom, Jacob	Gonzalez, Marwin		1569		8	2021-04-28	1-0	Top 2	swinging_strike	Marwin Gonzalez grounds out, second baseman Jeff McNeil to first baseman Pete Alonso. Christian Vazquez to 3rd.	
+FF	98.8		deGrom, Jacob	Gonzalez, Marwin		2345		12	2021-04-28	0-0	Top 2	ball	Marwin Gonzalez grounds out, second baseman Jeff McNeil to first baseman Pete Alonso. Christian Vazquez to 3rd.	
+FF	100.3	94.8	deGrom, Jacob	Vázquez, Christian	332	2518	20	12	2021-04-28	0-2	Top 2	hit_into_play	Christian Vazquez doubles (4) on a line drive to center fielder Brandon Nimmo. Xander Bogaerts scores.	
+FF	99.1		deGrom, Jacob	Vázquez, Christian		2419		3	2021-04-28	0-1	Top 2	foul_tip	Christian Vazquez doubles (4) on a line drive to center fielder Brandon Nimmo. Xander Bogaerts scores.	
+FF	98.9	72.0	deGrom, Jacob	Vázquez, Christian	177	2451	59	1	2021-04-28	0-0	Top 2	foul	Christian Vazquez doubles (4) on a line drive to center fielder Brandon Nimmo. Xander Bogaerts scores.	
+CH	90.7	109.3	deGrom, Jacob	Devers, Rafael	146	1690	6	5	2021-04-28	2-2	Top 2	hit_into_play	Rafael Devers grounds out sharply, second baseman Jeff McNeil to first baseman Pete Alonso. Xander Bogaerts to 3rd.	
+FF	99.1		deGrom, Jacob	Devers, Rafael		2454		12	2021-04-28	1-2	Top 2	ball	Rafael Devers grounds out sharply, second baseman Jeff McNeil to first baseman Pete Alonso. Xander Bogaerts to 3rd.	
+FF	99.7		deGrom, Jacob	Devers, Rafael		2422		11	2021-04-28	0-2	Top 2	ball	Rafael Devers grounds out sharply, second baseman Jeff McNeil to first baseman Pete Alonso. Xander Bogaerts to 3rd.	
+CH	91.3	53.8	deGrom, Jacob	Devers, Rafael	1	1598	-57	9	2021-04-28	0-1	Top 2	foul	Rafael Devers grounds out sharply, second baseman Jeff McNeil to first baseman Pete Alonso. Xander Bogaerts to 3rd.	
+FF	98.7	77.8	deGrom, Jacob	Devers, Rafael	218	2435	23	3	2021-04-28	0-0	Top 2	foul	Rafael Devers grounds out sharply, second baseman Jeff McNeil to first baseman Pete Alonso. Xander Bogaerts to 3rd.	
+FF	97.5	101.6	deGrom, Jacob	Bogaerts, Xander	370	2369	22	5	2021-04-28	1-0	Top 2	hit_into_play	Xander Bogaerts doubles (9) on a sharp line drive to left fielder Dominic Smith.	
+FF	97.4		deGrom, Jacob	Bogaerts, Xander		2332		3	2021-04-28	0-0	Top 2	ball	Xander Bogaerts doubles (9) on a sharp line drive to left fielder Dominic Smith.	
+SL	93.1	81.6	deGrom, Jacob	Martinez, J.D.	229	2678	51	8	2021-04-28	2-2	Top 1	hit_into_play	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+SL	92.8		deGrom, Jacob	Martinez, J.D.		2570		14	2021-04-28	1-2	Top 1	ball	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+SL	92.6	55.0	deGrom, Jacob	Martinez, J.D.	3	2669	-41	6	2021-04-28	1-2	Top 1	foul	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+SL	92.3		deGrom, Jacob	Martinez, J.D.		2682		14	2021-04-28	0-2	Top 1	ball	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+FF	101.2		deGrom, Jacob	Martinez, J.D.		2403		12	2021-04-28	0-2	Top 1	foul	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+FF	100.6	93.0	deGrom, Jacob	Martinez, J.D.	295	2476	28	3	2021-04-28	0-1	Top 1	foul	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+FF	100.6	84.1	deGrom, Jacob	Martinez, J.D.	270	2262	39	5	2021-04-28	0-0	Top 1	foul	J.D. Martinez flies out to center fielder Brandon Nimmo.	
+FF	100.1	86.0	deGrom, Jacob	Verdugo, Alex	43	2512	1	7	2021-04-28	0-1	Top 1	hit_into_play	Alex Verdugo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	100.2		deGrom, Jacob	Verdugo, Alex		2399		3	2021-04-28	0-0	Top 1	called_strike	Alex Verdugo grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	100.7		deGrom, Jacob	Hernández, Enrique		2422		12	2021-04-28	1-2	Top 1	swinging_strike	Enrique Hernandez strikes out swinging.	
+FF	99.3		deGrom, Jacob	Hernández, Enrique		2343		3	2021-04-28	1-1	Top 1	called_strike	Enrique Hernandez strikes out swinging.	
+FF	100.2		deGrom, Jacob	Hernández, Enrique		2372		12	2021-04-28	0-1	Top 1	ball	Enrique Hernandez strikes out swinging.	
+FF	99.6	77.0	deGrom, Jacob	Hernández, Enrique	200	2336	56	2	2021-04-28	0-0	Top 1	foul	Enrique Hernandez strikes out swinging.	
+SL	91.5	56.5	deGrom, Jacob	Harrison, Josh	84	2559	11	14	2021-04-23	0-2	Top 9	hit_into_play	Josh Harrison grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+SL	92.4		deGrom, Jacob	Harrison, Josh		2505		14	2021-04-23	0-1	Top 9	swinging_strike	Josh Harrison grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	99.1		deGrom, Jacob	Harrison, Josh		2493		3	2021-04-23	0-0	Top 9	called_strike	Josh Harrison grounds out, first baseman Pete Alonso to pitcher Jacob deGrom.	
+FF	99.1	101.9	deGrom, Jacob	Stevenson, Andrew	21	2497	-6	4	2021-04-23	0-1	Top 9	hit_into_play	Andrew Stevenson grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	92.3	76.4	deGrom, Jacob	Stevenson, Andrew	1	2504	-49	7	2021-04-23	0-0	Top 9	foul	Andrew Stevenson grounds out sharply, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.2	91.3	deGrom, Jacob	Hernandez, Yadiel	10	2312	-15	4	2021-04-23	1-2	Top 9	hit_into_play	Yadiel Hernandez grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	89.5	62.8	deGrom, Jacob	Hernandez, Yadiel	3	2580	-29	14	2021-04-23	1-1	Top 9	foul	Yadiel Hernandez grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.4		deGrom, Jacob	Hernandez, Yadiel		2286		11	2021-04-23	0-1	Top 9	ball	Yadiel Hernandez grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	91.0	84.1	deGrom, Jacob	Hernandez, Yadiel	5	2517	-23	9	2021-04-23	0-0	Top 9	foul	Yadiel Hernandez grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.9	77.3	deGrom, Jacob	Robles, Victor	6	2410	-27	3	2021-04-23	1-2	Top 8	hit_into_play	Victor Robles grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	90.9		deGrom, Jacob	Robles, Victor		2563		14	2021-04-23	1-1	Top 8	called_strike	Victor Robles grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	97.9		deGrom, Jacob	Robles, Victor		2554		2	2021-04-23	1-0	Top 8	swinging_strike	Victor Robles grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.5		deGrom, Jacob	Robles, Victor		2408		12	2021-04-23	0-0	Top 8	ball	Victor Robles grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	90.9	95.1	deGrom, Jacob	Gomes, Yan	298	2413	47	5	2021-04-23	1-0	Top 8	hit_into_play	Yan Gomes flies out to left fielder Brandon Nimmo.	
+FF	97.2		deGrom, Jacob	Gomes, Yan		2324		12	2021-04-23	0-0	Top 8	ball	Yan Gomes flies out to left fielder Brandon Nimmo.	
+SL	89.0	94.7	deGrom, Jacob	Castro, Starlin	12	2434	-8	14	2021-04-23	0-1	Top 8	hit_into_play	Starlin Castro grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	90.4		deGrom, Jacob	Castro, Starlin		2400		14	2021-04-23	0-0	Top 8	called_strike	Starlin Castro grounds out, pitcher Jacob deGrom to first baseman Pete Alonso.	
+SL	93.3		deGrom, Jacob	Schwarber, Kyle		2658		9	2021-04-23	1-2	Top 7	called_strike	Kyle Schwarber called out on strikes.	
+FF	100.5		deGrom, Jacob	Schwarber, Kyle		2560		11	2021-04-23	0-2	Top 7	ball	Kyle Schwarber called out on strikes.	
+FF	99.6		deGrom, Jacob	Schwarber, Kyle		2533		2	2021-04-23	0-1	Top 7	swinging_strike	Kyle Schwarber called out on strikes.	
+SL	92.8		deGrom, Jacob	Schwarber, Kyle		2553		9	2021-04-23	0-0	Top 7	swinging_strike	Kyle Schwarber called out on strikes.	
+CH	92.1		deGrom, Jacob	Bell, Josh		1576		13	2021-04-23	1-2	Top 7	swinging_strike_blocked	Josh Bell strikes out swinging.	
+FF	100.2	95.0	deGrom, Jacob	Bell, Josh	295	2472	51	11	2021-04-23	1-2	Top 7	foul	Josh Bell strikes out swinging.	
+FF	100.2		deGrom, Jacob	Bell, Josh		2358		11	2021-04-23	0-2	Top 7	ball	Josh Bell strikes out swinging.	
+FF	99.7		deGrom, Jacob	Bell, Josh		2327		1	2021-04-23	0-1	Top 7	swinging_strike	Josh Bell strikes out swinging.	
+FF	99.9		deGrom, Jacob	Bell, Josh		2469		1	2021-04-23	0-0	Top 7	swinging_strike	Josh Bell strikes out swinging.	
+CH	91.0		deGrom, Jacob	Turner, Trea		1778		14	2021-04-23	2-2	Top 7	swinging_strike	Trea Turner strikes out swinging.	
+FF	99.3	82.4	deGrom, Jacob	Turner, Trea	243	2374	51	3	2021-04-23	2-2	Top 7	foul	Trea Turner strikes out swinging.	
+FF	99.8	81.2	deGrom, Jacob	Turner, Trea	244	2383	37	6	2021-04-23	2-2	Top 7	foul	Trea Turner strikes out swinging.	
+FF	99.8	92.9	deGrom, Jacob	Turner, Trea	194	2456	10	2	2021-04-23	2-2	Top 7	foul	Trea Turner strikes out swinging.	
+SL	89.8		deGrom, Jacob	Turner, Trea		2712		14	2021-04-23	1-2	Top 7	ball	Trea Turner strikes out swinging.	
+SL	91.9		deGrom, Jacob	Turner, Trea		2620		14	2021-04-23	1-1	Top 7	called_strike	Trea Turner strikes out swinging.	
+FF	99.4		deGrom, Jacob	Turner, Trea		2455		14	2021-04-23	1-0	Top 7	called_strike	Trea Turner strikes out swinging.	
+SL	91.8		deGrom, Jacob	Turner, Trea		2427		14	2021-04-23	0-0	Top 7	ball	Trea Turner strikes out swinging.	
+SL	93.0		deGrom, Jacob	Harrison, Josh		2552		14	2021-04-23	0-2	Top 6	swinging_strike	Josh Harrison strikes out swinging.	
+SL	91.5		deGrom, Jacob	Harrison, Josh		2659		9	2021-04-23	0-1	Top 6	foul	Josh Harrison strikes out swinging.	
+SL	91.8		deGrom, Jacob	Harrison, Josh		2591		14	2021-04-23	0-0	Top 6	swinging_strike	Josh Harrison strikes out swinging.	
+FF	100.1		deGrom, Jacob	Stevenson, Andrew		2374		4	2021-04-23	2-2	Top 6	swinging_strike	Andrew Stevenson strikes out swinging.	
+FF	99.6		deGrom, Jacob	Stevenson, Andrew		2295		12	2021-04-23	1-2	Top 6	ball	Andrew Stevenson strikes out swinging.	
+SL	90.6		deGrom, Jacob	Stevenson, Andrew		2616		14	2021-04-23	0-2	Top 6	ball	Andrew Stevenson strikes out swinging.	
+SL	92.5	56.9	deGrom, Jacob	Stevenson, Andrew	2	2593	-43	6	2021-04-23	0-1	Top 6	foul	Andrew Stevenson strikes out swinging.	
+SL	92.3		deGrom, Jacob	Stevenson, Andrew		2649		9	2021-04-23	0-0	Top 6	foul	Andrew Stevenson strikes out swinging.	
+FF	99.4		deGrom, Jacob	Mercer, Jordy		2418		5	2021-04-23	2-2	Top 6	swinging_strike	Jordy Mercer strikes out swinging.	
+SL	90.6	77.3	deGrom, Jacob	Mercer, Jordy	157	2506	66	9	2021-04-23	2-1	Top 6	foul	Jordy Mercer strikes out swinging.	
+FF	97.7		deGrom, Jacob	Mercer, Jordy		2364		12	2021-04-23	1-1	Top 6	ball	Jordy Mercer strikes out swinging.	
+FF	97.1		deGrom, Jacob	Mercer, Jordy		2392		1	2021-04-23	1-0	Top 6	swinging_strike	Jordy Mercer strikes out swinging.	
+FF	97.7		deGrom, Jacob	Mercer, Jordy		2426		12	2021-04-23	0-0	Top 6	ball	Jordy Mercer strikes out swinging.	
+SL	91.2	91.8	deGrom, Jacob	Robles, Victor	297	2604	43	8	2021-04-23	0-1	Top 5	hit_into_play	Victor Robles flies out to right fielder Michael Conforto.	
+FF	99.3		deGrom, Jacob	Robles, Victor		2358		14	2021-04-23	0-0	Top 5	called_strike	Victor Robles flies out to right fielder Michael Conforto.	
+SL	91.2	93.1	deGrom, Jacob	Gomes, Yan	7	2679	-16	9	2021-04-23	0-1	Top 5	hit_into_play	Yan Gomes grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	91.6		deGrom, Jacob	Gomes, Yan		2593		9	2021-04-23	0-0	Top 5	called_strike	Yan Gomes grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+SL	89.7		deGrom, Jacob	Castro, Starlin		2641		14	2021-04-23	0-2	Top 5	swinging_strike	Starlin Castro strikes out swinging.	
+SL	90.6		deGrom, Jacob	Castro, Starlin		2520		14	2021-04-23	0-1	Top 5	swinging_strike	Starlin Castro strikes out swinging.	
+SL	91.6		deGrom, Jacob	Castro, Starlin		2487		14	2021-04-23	0-0	Top 5	swinging_strike	Starlin Castro strikes out swinging.	
+CH	91.7		deGrom, Jacob	Schwarber, Kyle		1635		7	2021-04-23	3-2	Top 4	swinging_strike	Kyle Schwarber strikes out swinging.	
+SL	91.9		deGrom, Jacob	Schwarber, Kyle		2471		14	2021-04-23	2-2	Top 4	ball	Kyle Schwarber strikes out swinging.	
+SL	91.7		deGrom, Jacob	Schwarber, Kyle		2615		14	2021-04-23	1-2	Top 4	ball	Kyle Schwarber strikes out swinging.	
+FF	100.8		deGrom, Jacob	Schwarber, Kyle		2437		12	2021-04-23	0-2	Top 4	ball	Kyle Schwarber strikes out swinging.	
+FF	98.8		deGrom, Jacob	Schwarber, Kyle		2438		2	2021-04-23	0-1	Top 4	foul	Kyle Schwarber strikes out swinging.	
+FF	98.6	81.0	deGrom, Jacob	Schwarber, Kyle	254	2372	42	4	2021-04-23	0-0	Top 4	foul	Kyle Schwarber strikes out swinging.	
+FF	99.5	94.8	deGrom, Jacob	Bell, Josh	336	2314	36	1	2021-04-23	0-1	Top 4	hit_into_play	Josh Bell flies out to center fielder Brandon Nimmo.	
+SL	92.2		deGrom, Jacob	Bell, Josh		2510		14	2021-04-23	0-0	Top 4	swinging_strike	Josh Bell flies out to center fielder Brandon Nimmo.	
+CH	92.8		deGrom, Jacob	Turner, Trea		1555		14	2021-04-23	1-2	Top 4	swinging_strike	Trea Turner strikes out swinging.	
+FF	99.2		deGrom, Jacob	Turner, Trea		2383		12	2021-04-23	0-2	Top 4	ball	Trea Turner strikes out swinging.	
+FF	98.7		deGrom, Jacob	Turner, Trea		2381		14	2021-04-23	0-1	Top 4	called_strike	Trea Turner strikes out swinging.	
+FF	97.6		deGrom, Jacob	Turner, Trea		2373		14	2021-04-23	0-0	Top 4	called_strike	Trea Turner strikes out swinging.	
+SL	91.0	93.6	deGrom, Jacob	Harrison, Josh	12	2563	-7	9	2021-04-23	0-0	Top 3	hit_into_play	Josh Harrison grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+CH	91.5	102.4	deGrom, Jacob	Stevenson, Andrew	282	1907	12	4	2021-04-23	2-2	Top 3	hit_into_play	Andrew Stevenson doubles (2) on a sharp line drive to center fielder Brandon Nimmo.	
+SL	90.6		deGrom, Jacob	Stevenson, Andrew		2641		14	2021-04-23	1-2	Top 3	ball	Andrew Stevenson doubles (2) on a sharp line drive to center fielder Brandon Nimmo.	
+CH	91.5		deGrom, Jacob	Stevenson, Andrew		1792		7	2021-04-23	1-1	Top 3	swinging_strike	Andrew Stevenson doubles (2) on a sharp line drive to center fielder Brandon Nimmo.	
+SL	91.1		deGrom, Jacob	Stevenson, Andrew		2556		6	2021-04-23	1-0	Top 3	called_strike	Andrew Stevenson doubles (2) on a sharp line drive to center fielder Brandon Nimmo.	
+FF	98.5		deGrom, Jacob	Stevenson, Andrew		2453		11	2021-04-23	0-0	Top 3	ball	Andrew Stevenson doubles (2) on a sharp line drive to center fielder Brandon Nimmo.	
+SL	90.4		deGrom, Jacob	Fedde, Erick		2462		14	2021-04-23	2-2	Top 3	swinging_strike	Erick Fedde strikes out swinging.	
+SL	89.6		deGrom, Jacob	Fedde, Erick		2723		14	2021-04-23	1-2	Top 3	ball	Erick Fedde strikes out swinging.	
+FF	99.5		deGrom, Jacob	Fedde, Erick		2455		12	2021-04-23	0-2	Top 3	ball	Erick Fedde strikes out swinging.	
+FF	99.0	87.5	deGrom, Jacob	Fedde, Erick	204	2513	11	5	2021-04-23	0-1	Top 3	foul	Erick Fedde strikes out swinging.	
+FF	97.7		deGrom, Jacob	Fedde, Erick		2447		6	2021-04-23	0-0	Top 3	called_strike	Erick Fedde strikes out swinging.	
+SL	91.0		deGrom, Jacob	Robles, Victor		2679		14	2021-04-23	0-2	Top 3	swinging_strike	Victor Robles strikes out swinging.	
+SL	90.1	74.0	deGrom, Jacob	Robles, Victor	2	2575	-36	14	2021-04-23	0-1	Top 3	foul	Victor Robles strikes out swinging.	
+FF	97.2		deGrom, Jacob	Robles, Victor		2468		6	2021-04-23	0-0	Top 3	called_strike	Victor Robles strikes out swinging.	
+SL	92.2		deGrom, Jacob	Gomes, Yan		2675		14	2021-04-23	2-2	Top 2	swinging_strike	Yan Gomes strikes out swinging.	
+CH	91.6		deGrom, Jacob	Gomes, Yan		1598		14	2021-04-23	2-2	Top 2	foul	Yan Gomes strikes out swinging.	
+SL	91.6	68.0	deGrom, Jacob	Gomes, Yan	177	2614	58	6	2021-04-23	2-1	Top 2	foul	Yan Gomes strikes out swinging.	
+SL	91.5		deGrom, Jacob	Gomes, Yan		2627		14	2021-04-23	1-1	Top 2	ball	Yan Gomes strikes out swinging.	
+FF	98.7		deGrom, Jacob	Gomes, Yan		2435		5	2021-04-23	1-0	Top 2	called_strike	Yan Gomes strikes out swinging.	
+FF	99.2		deGrom, Jacob	Gomes, Yan		2445		12	2021-04-23	0-0	Top 2	ball	Yan Gomes strikes out swinging.	
+FF	98.9	105.5	deGrom, Jacob	Castro, Starlin	42	2425	-2	6	2021-04-23	1-1	Top 2	hit_into_play	Starlin Castro singles on a sharp ground ball to right fielder Michael Conforto.	
+FF	99.0	92.9	deGrom, Jacob	Castro, Starlin	300	2382	35	2	2021-04-23	1-0	Top 2	foul	Starlin Castro singles on a sharp ground ball to right fielder Michael Conforto.	
+FF	98.8		deGrom, Jacob	Castro, Starlin		2371		12	2021-04-23	0-0	Top 2	ball	Starlin Castro singles on a sharp ground ball to right fielder Michael Conforto.	
+FF	99.5	93.1	deGrom, Jacob	Schwarber, Kyle	297	2463	26	5	2021-04-23	1-1	Top 2	hit_into_play	Kyle Schwarber flies out to left fielder Dominic Smith.	
+FF	98.9	70.3	deGrom, Jacob	Schwarber, Kyle	189	2468	50	5	2021-04-23	1-0	Top 2	foul	Kyle Schwarber flies out to left fielder Dominic Smith.	
+SL	92.0		deGrom, Jacob	Schwarber, Kyle		2503		14	2021-04-23	0-0	Top 2	ball	Kyle Schwarber flies out to left fielder Dominic Smith.	
+FF	99.9		deGrom, Jacob	Bell, Josh		2427		2	2021-04-23	1-2	Top 2	swinging_strike	Josh Bell strikes out swinging.	
+FF	98.8		deGrom, Jacob	Bell, Josh		2441		1	2021-04-23	1-1	Top 2	swinging_strike	Josh Bell strikes out swinging.	
+FF	98.6		deGrom, Jacob	Bell, Josh		2463		11	2021-04-23	0-1	Top 2	ball	Josh Bell strikes out swinging.	
+FF	98.0		deGrom, Jacob	Bell, Josh		2392		6	2021-04-23	0-0	Top 2	swinging_strike	Josh Bell strikes out swinging.	
+SL	90.9	68.5	deGrom, Jacob	Turner, Trea	2	2719	-34	14	2021-04-23	0-2	Top 1	hit_into_play	Trea Turner grounds out, third baseman J. D. Davis to first baseman Pete Alonso.	
+FF	100.7	84.6	deGrom, Jacob	Turner, Trea	234	2384	53	3	2021-04-23	0-2	Top 1	foul	Trea Turner grounds out, third baseman J. D. Davis to first baseman Pete Alonso.	
+SL	92.2		deGrom, Jacob	Turner, Trea		2638		9	2021-04-23	0-1	Top 1	swinging_strike	Trea Turner grounds out, third baseman J. D. Davis to first baseman Pete Alonso.	
+SL	92.3		deGrom, Jacob	Turner, Trea		2600		14	2021-04-23	0-0	Top 1	swinging_strike	Trea Turner grounds out, third baseman J. D. Davis to first baseman Pete Alonso.	
+SL	91.6		deGrom, Jacob	Harrison, Josh		2663		14	2021-04-23	1-2	Top 1	swinging_strike	Josh Harrison strikes out swinging.	
+SL	93.5		deGrom, Jacob	Harrison, Josh		2587		14	2021-04-23	0-2	Top 1	ball	Josh Harrison strikes out swinging.	
+FF	100.3	82.2	deGrom, Jacob	Harrison, Josh	128	2395	73	3	2021-04-23	0-2	Top 1	foul	Josh Harrison strikes out swinging.	
+FF	101.0		deGrom, Jacob	Harrison, Josh		2515		12	2021-04-23	0-2	Top 1	foul	Josh Harrison strikes out swinging.	
+FF	100.8	67.1	deGrom, Jacob	Harrison, Josh	176	2491	58	4	2021-04-23	0-1	Top 1	foul	Josh Harrison strikes out swinging.	
+FF	99.7		deGrom, Jacob	Harrison, Josh		2387		9	2021-04-23	0-0	Top 1	called_strike	Josh Harrison strikes out swinging.	
+FF	100.8		deGrom, Jacob	Stevenson, Andrew		2456		5	2021-04-23	0-2	Top 1	called_strike	Andrew Stevenson called out on strikes.	
+FF	99.6		deGrom, Jacob	Stevenson, Andrew		2447		5	2021-04-23	0-1	Top 1	foul	Andrew Stevenson called out on strikes.	
+FF	99.6		deGrom, Jacob	Stevenson, Andrew		2359		5	2021-04-23	0-0	Top 1	foul	Andrew Stevenson called out on strikes.	
+SL	91.5		deGrom, Jacob	Cron, C.J.		2452		14	2021-04-17	1-2	Bot 6	swinging_strike	C.J. Cron strikes out swinging.	
+SL	92.1		deGrom, Jacob	Cron, C.J.		2478		14	2021-04-17	0-2	Bot 6	ball	C.J. Cron strikes out swinging.	
+FF	97.9	77.5	deGrom, Jacob	Cron, C.J.	234	2460	37	6	2021-04-17	0-1	Bot 6	foul	C.J. Cron strikes out swinging.	
+FF	97.8		deGrom, Jacob	Cron, C.J.		2197		9	2021-04-17	0-0	Bot 6	called_strike	C.J. Cron strikes out swinging.	
+SL	91.5		deGrom, Jacob	Blackmon, Charlie		2440		14	2021-04-17	1-2	Bot 6	swinging_strike	Charlie Blackmon strikes out swinging.	
+SL	91.9		deGrom, Jacob	Blackmon, Charlie		2432		2	2021-04-17	1-1	Bot 6	swinging_strike	Charlie Blackmon strikes out swinging.	
+FF	97.4		deGrom, Jacob	Blackmon, Charlie		2306		13	2021-04-17	0-1	Bot 6	ball	Charlie Blackmon strikes out swinging.	
+CH	90.3		deGrom, Jacob	Blackmon, Charlie		1637		9	2021-04-17	0-0	Bot 6	called_strike	Charlie Blackmon strikes out swinging.	
+FF	98.5	94.5	deGrom, Jacob	Story, Trevor	341	2230	36	6	2021-04-17	3-2	Bot 6	hit_into_play	Trevor Story flies out to right fielder Michael Conforto.	
+FF	97.6		deGrom, Jacob	Story, Trevor		2293		6	2021-04-17	3-1	Bot 6	foul	Trevor Story flies out to right fielder Michael Conforto.	
+FF	96.8		deGrom, Jacob	Story, Trevor		2306		14	2021-04-17	3-0	Bot 6	called_strike	Trevor Story flies out to right fielder Michael Conforto.	
+FF	96.8		deGrom, Jacob	Story, Trevor		2192		2	2021-04-17	2-0	Bot 6	ball	Trevor Story flies out to right fielder Michael Conforto.	
+CH	90.7		deGrom, Jacob	Story, Trevor		1684		14	2021-04-17	1-0	Bot 6	ball	Trevor Story flies out to right fielder Michael Conforto.	
+FF	95.6		deGrom, Jacob	Story, Trevor		2282		14	2021-04-17	0-0	Bot 6	ball	Trevor Story flies out to right fielder Michael Conforto.	
+CH	89.9		deGrom, Jacob	McMahon, Ryan		1585		13	2021-04-17	2-2	Bot 5	swinging_strike	Ryan McMahon strikes out swinging.	
+CH	91.2		deGrom, Jacob	McMahon, Ryan		1520		14	2021-04-17	2-1	Bot 5	swinging_strike	Ryan McMahon strikes out swinging.	
+CH	90.7		deGrom, Jacob	McMahon, Ryan		1665		12	2021-04-17	1-1	Bot 5	ball	Ryan McMahon strikes out swinging.	
+FF	98.5		deGrom, Jacob	McMahon, Ryan		2427		12	2021-04-17	0-1	Bot 5	ball	Ryan McMahon strikes out swinging.	
+FF	99.1		deGrom, Jacob	McMahon, Ryan		2337		3	2021-04-17	0-0	Bot 5	swinging_strike	Ryan McMahon strikes out swinging.	
+SL	91.8	99.8	deGrom, Jacob	Tapia, Raimel	409	2528	31	14	2021-04-17	3-2	Bot 5	hit_into_play	Raimel Tapia homers (2) on a fly ball to right field.	
+SL	90.8	66.2	deGrom, Jacob	Tapia, Raimel	134	2602	16	12	2021-04-17	3-2	Bot 5	foul	Raimel Tapia homers (2) on a fly ball to right field.	
+FF	99.4		deGrom, Jacob	Tapia, Raimel		2462		11	2021-04-17	2-2	Bot 5	ball	Raimel Tapia homers (2) on a fly ball to right field.	
+CH	90.7	50.9	deGrom, Jacob	Tapia, Raimel	17	1808	-4	14	2021-04-17	2-1	Bot 5	foul	Raimel Tapia homers (2) on a fly ball to right field.	
+CH	92.0		deGrom, Jacob	Tapia, Raimel		1774		14	2021-04-17	1-1	Bot 5	ball	Raimel Tapia homers (2) on a fly ball to right field.	
+SL	92.5		deGrom, Jacob	Tapia, Raimel		2654		12	2021-04-17	0-1	Bot 5	ball	Raimel Tapia homers (2) on a fly ball to right field.	
+SL	92.1		deGrom, Jacob	Tapia, Raimel		2470		6	2021-04-17	0-0	Bot 5	foul	Raimel Tapia homers (2) on a fly ball to right field.	
+FF	100.1	85.6	deGrom, Jacob	Daza, Yonathan	254	2412	17	12	2021-04-17	0-2	Bot 5	hit_into_play	Yonathan Daza out on a sacrifice fly to right fielder Michael Conforto. Dom Nunez scores.	
+FF	99.9		deGrom, Jacob	Daza, Yonathan		2467		3	2021-04-17	0-1	Bot 5	swinging_strike	Yonathan Daza out on a sacrifice fly to right fielder Michael Conforto. Dom Nunez scores.	
+SL	91.0	65.6	deGrom, Jacob	Daza, Yonathan	169	2589	42	9	2021-04-17	0-0	Bot 5	foul	Yonathan Daza out on a sacrifice fly to right fielder Michael Conforto. Dom Nunez scores.	
+FF	98.8	93.6	deGrom, Jacob	Nuñez, Dom	366	2349	31	6	2021-04-17	0-0	Bot 5	hit_into_play	Dom Nunez triples (1) on a fly ball to right fielder Michael Conforto. Josh Fuentes scores.	
+SL	91.7		deGrom, Jacob	Hilliard, Sam		2554		14	2021-04-17	1-2	Bot 5	swinging_strike	Sam Hilliard strikes out swinging.	
+SL	92.4		deGrom, Jacob	Hilliard, Sam		2473		14	2021-04-17	0-2	Bot 5	ball	Sam Hilliard strikes out swinging.	
+FF	97.8	82.4	deGrom, Jacob	Hilliard, Sam	206	2322	18	6	2021-04-17	0-1	Bot 5	foul	Sam Hilliard strikes out swinging.	
+FF	98.7		deGrom, Jacob	Hilliard, Sam	79	2415		3	2021-04-17	0-0	Bot 5	foul_bunt	Sam Hilliard strikes out swinging.	
+SL	89.5	89.7	deGrom, Jacob	Fuentes, Joshua	14	2496	-8	9	2021-04-17	0-1	Bot 5	hit_into_play	Josh Fuentes reaches on a throwing error by second baseman Jeff McNeil.	
+SL	89.7		deGrom, Jacob	Fuentes, Joshua		2407		8	2021-04-17	0-0	Bot 5	swinging_strike	Josh Fuentes reaches on a throwing error by second baseman Jeff McNeil.	
+FF	99.8		deGrom, Jacob	Cron, C.J.		2512		6	2021-04-17	1-2	Bot 4	swinging_strike	C.J. Cron strikes out swinging.	
+FF	98.9		deGrom, Jacob	Cron, C.J.		2441		3	2021-04-17	1-1	Bot 4	swinging_strike	C.J. Cron strikes out swinging.	
+FF	99.4		deGrom, Jacob	Cron, C.J.		2470		14	2021-04-17	0-1	Bot 4	ball	C.J. Cron strikes out swinging.	
+SL	90.2		deGrom, Jacob	Cron, C.J.		2595		5	2021-04-17	0-0	Bot 4	called_strike	C.J. Cron strikes out swinging.	
+SL	90.7		deGrom, Jacob	Blackmon, Charlie		2590		9	2021-04-17	2-2	Bot 4	swinging_strike	Charlie Blackmon strikes out swinging.	
+SL	91.0		deGrom, Jacob	Blackmon, Charlie		2674		14	2021-04-17	2-2	Bot 4	foul	Charlie Blackmon strikes out swinging.	
+SL	92.8		deGrom, Jacob	Blackmon, Charlie		2576		13	2021-04-17	1-2	Bot 4	ball	Charlie Blackmon strikes out swinging.	
+CH	92.0		deGrom, Jacob	Blackmon, Charlie		1814		14	2021-04-17	0-2	Bot 4	ball	Charlie Blackmon strikes out swinging.	
+SL	92.5	95.5	deGrom, Jacob	Blackmon, Charlie	155	2521	9	14	2021-04-17	0-1	Bot 4	foul	Charlie Blackmon strikes out swinging.	
+SL	93.1		deGrom, Jacob	Blackmon, Charlie		2431		14	2021-04-17	0-0	Bot 4	swinging_strike	Charlie Blackmon strikes out swinging.	
+FF	99.2		deGrom, Jacob	Story, Trevor		2377		3	2021-04-17	1-2	Bot 4	foul_tip	Trevor Story strikes out on a foul tip.	
+FF	99.5	81.8	deGrom, Jacob	Story, Trevor	209	2435	18	6	2021-04-17	1-1	Bot 4	foul	Trevor Story strikes out on a foul tip.	
+FF	98.5		deGrom, Jacob	Story, Trevor		2382		12	2021-04-17	0-1	Bot 4	ball	Trevor Story strikes out on a foul tip.	
+SL	91.5		deGrom, Jacob	Story, Trevor		2421		14	2021-04-17	0-0	Bot 4	swinging_strike	Trevor Story strikes out on a foul tip.	
+FF	99.3		deGrom, Jacob	McMahon, Ryan		2387		12	2021-04-17	0-2	Bot 3	swinging_strike	Ryan McMahon strikes out swinging.	
+FF	99.7	95.9	deGrom, Jacob	McMahon, Ryan	316	2555	22	2	2021-04-17	0-2	Bot 3	foul	Ryan McMahon strikes out swinging.	
+SL	92.9		deGrom, Jacob	McMahon, Ryan		2470		14	2021-04-17	0-1	Bot 3	swinging_strike	Ryan McMahon strikes out swinging.	
+SL	92.1	71.8	deGrom, Jacob	McMahon, Ryan	5	2595	-28	12	2021-04-17	0-0	Bot 3	foul	Ryan McMahon strikes out swinging.	
+FF	100.8		deGrom, Jacob	Tapia, Raimel		2469		3	2021-04-17	0-2	Bot 3	swinging_strike	Raimel Tapia strikes out swinging.	
+FF	98.9	66.5	deGrom, Jacob	Tapia, Raimel	197	2373	35	3	2021-04-17	0-1	Bot 3	foul	Raimel Tapia strikes out swinging.	
+FF	98.9		deGrom, Jacob	Tapia, Raimel		2328		2	2021-04-17	0-0	Bot 3	swinging_strike	Raimel Tapia strikes out swinging.	
+FF	98.6		deGrom, Jacob	González, Chi Chi		2386		2	2021-04-17	2-2	Bot 3	swinging_strike	Chi Chi Gonzalez strikes out swinging.	
+SL	91.4		deGrom, Jacob	González, Chi Chi		2597		14	2021-04-17	1-2	Bot 3	ball	Chi Chi Gonzalez strikes out swinging.	
+FF	98.3		deGrom, Jacob	González, Chi Chi		2335		6	2021-04-17	1-1	Bot 3	called_strike	Chi Chi Gonzalez strikes out swinging.	
+FF	97.3		deGrom, Jacob	González, Chi Chi		2457		5	2021-04-17	1-0	Bot 3	foul	Chi Chi Gonzalez strikes out swinging.	
+FF	97.0		deGrom, Jacob	González, Chi Chi		2335		12	2021-04-17	0-0	Bot 3	ball	Chi Chi Gonzalez strikes out swinging.	
+SL	92.4		deGrom, Jacob	Nuñez, Dom		2577		14	2021-04-17	2-2	Bot 2	swinging_strike	Dom Nunez strikes out swinging.	
+FF	99.6	81.1	deGrom, Jacob	Nuñez, Dom	231	2538	60	11	2021-04-17	2-2	Bot 2	foul	Dom Nunez strikes out swinging.	
+FF	99.4	73.5	deGrom, Jacob	Nuñez, Dom	201	2421	57	2	2021-04-17	2-1	Bot 2	foul	Dom Nunez strikes out swinging.	
+FF	99.7	76.1	deGrom, Jacob	Nuñez, Dom	186	2407	62	2	2021-04-17	2-0	Bot 2	foul	Dom Nunez strikes out swinging.	
+FF	99.0		deGrom, Jacob	Nuñez, Dom		2410		12	2021-04-17	1-0	Bot 2	ball	Dom Nunez strikes out swinging.	
+FF	99.3		deGrom, Jacob	Nuñez, Dom		2376		12	2021-04-17	0-0	Bot 2	ball	Dom Nunez strikes out swinging.	
+FF	100.2		deGrom, Jacob	Hilliard, Sam		2508		12	2021-04-17	0-2	Bot 2	swinging_strike	Sam Hilliard strikes out swinging.	
+FF	98.8		deGrom, Jacob	Hilliard, Sam		2374		12	2021-04-17	0-1	Bot 2	swinging_strike	Sam Hilliard strikes out swinging.	
+FF	99.7		deGrom, Jacob	Hilliard, Sam		2385		6	2021-04-17	0-0	Bot 2	called_strike	Sam Hilliard strikes out swinging.	
+FF	98.8		deGrom, Jacob	Fuentes, Joshua		2393		9	2021-04-17	2-2	Bot 2	called_strike	Josh Fuentes called out on strikes.	
+SL	91.7	53.2	deGrom, Jacob	Fuentes, Joshua	2	2586	-56	12	2021-04-17	2-2	Bot 2	foul	Josh Fuentes called out on strikes.	
+FF	97.9	85.8	deGrom, Jacob	Fuentes, Joshua	248	2347	56	6	2021-04-17	2-1	Bot 2	foul	Josh Fuentes called out on strikes.	
+SL	91.8		deGrom, Jacob	Fuentes, Joshua		2573		14	2021-04-17	1-1	Bot 2	blocked_ball	Josh Fuentes called out on strikes.	
+SL	92.6		deGrom, Jacob	Fuentes, Joshua		2584		14	2021-04-17	0-1	Bot 2	ball	Josh Fuentes called out on strikes.	
+SL	92.7		deGrom, Jacob	Fuentes, Joshua		2626		14	2021-04-17	0-0	Bot 2	swinging_strike	Josh Fuentes called out on strikes.	
+FF	100.0		deGrom, Jacob	Cron, C.J.		2556		14	2021-04-17	3-2	Bot 2	ball	C.J. Cron walks.	
+FF	98.5	79.6	deGrom, Jacob	Cron, C.J.	215	2296	21	14	2021-04-17	3-1	Bot 2	foul	C.J. Cron walks.	
+FF	98.9		deGrom, Jacob	Cron, C.J.		2308		14	2021-04-17	2-1	Bot 2	ball	C.J. Cron walks.	
+FF	98.7		deGrom, Jacob	Cron, C.J.		2347		12	2021-04-17	1-1	Bot 2	ball	C.J. Cron walks.	
+FF	98.1		deGrom, Jacob	Cron, C.J.		2370		14	2021-04-17	1-0	Bot 2	called_strike	C.J. Cron walks.	
+FF	97.8		deGrom, Jacob	Cron, C.J.		2293		14	2021-04-17	0-0	Bot 2	ball	C.J. Cron walks.	
+FF	97.4	102.7	deGrom, Jacob	Blackmon, Charlie	23	2308	-7	3	2021-04-17	0-0	Bot 2	hit_into_play	Charlie Blackmon doubles (4) on a sharp ground ball to right fielder Michael Conforto.	
+SL	91.2		deGrom, Jacob	Story, Trevor		2651		14	2021-04-17	2-2	Bot 1	swinging_strike	Trevor Story strikes out swinging.	
+SL	92.2		deGrom, Jacob	Story, Trevor		2622		14	2021-04-17	1-2	Bot 1	ball	Trevor Story strikes out swinging.	
+SL	92.4		deGrom, Jacob	Story, Trevor		2670		14	2021-04-17	0-2	Bot 1	ball	Trevor Story strikes out swinging.	
+FF	98.0		deGrom, Jacob	Story, Trevor		2511		9	2021-04-17	0-1	Bot 1	called_strike	Trevor Story strikes out swinging.	
+FF	98.6		deGrom, Jacob	Story, Trevor		2310		5	2021-04-17	0-0	Bot 1	swinging_strike	Trevor Story strikes out swinging.	
+FF	98.7	97.1	deGrom, Jacob	McMahon, Ryan	263	2373	55	8	2021-04-17	2-2	Bot 1	hit_into_play	Ryan McMahon flies out to center fielder Brandon Nimmo.	
+CH	91.7		deGrom, Jacob	McMahon, Ryan		1757		14	2021-04-17	1-2	Bot 1	ball	Ryan McMahon flies out to center fielder Brandon Nimmo.	
+FF	99.7		deGrom, Jacob	McMahon, Ryan		2449		14	2021-04-17	0-2	Bot 1	ball	Ryan McMahon flies out to center fielder Brandon Nimmo.	
+FF	98.2		deGrom, Jacob	McMahon, Ryan		2406		2	2021-04-17	0-1	Bot 1	swinging_strike	Ryan McMahon flies out to center fielder Brandon Nimmo.	
+FF	97.3	80.5	deGrom, Jacob	McMahon, Ryan	247	2294	40	5	2021-04-17	0-0	Bot 1	foul	Ryan McMahon flies out to center fielder Brandon Nimmo.	
+FF	96.7	75.6	deGrom, Jacob	Tapia, Raimel	148	2390	65	3	2021-04-17	3-1	Bot 1	hit_into_play	Raimel Tapia pops out to third baseman J. D. Davis in foul territory.	
+FF	96.6		deGrom, Jacob	Tapia, Raimel		2364		4	2021-04-17	3-0	Bot 1	called_strike	Raimel Tapia pops out to third baseman J. D. Davis in foul territory.	
+FF	97.3		deGrom, Jacob	Tapia, Raimel		2423		14	2021-04-17	2-0	Bot 1	ball	Raimel Tapia pops out to third baseman J. D. Davis in foul territory.	
+FF	96.7		deGrom, Jacob	Tapia, Raimel		2312		12	2021-04-17	1-0	Bot 1	ball	Raimel Tapia pops out to third baseman J. D. Davis in foul territory.	
+FF	97.0		deGrom, Jacob	Tapia, Raimel		2308		14	2021-04-17	0-0	Bot 1	ball	Raimel Tapia pops out to third baseman J. D. Davis in foul territory.	
+CH	90.8	80.7	deGrom, Jacob	Dickerson, Corey	2	1397	-31	13	2021-04-10	0-2	Top 8	hit_into_play	Corey Dickerson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.1	71.1	deGrom, Jacob	Dickerson, Corey	163	2439	61	2	2021-04-10	0-2	Top 8	foul	Corey Dickerson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	100.4	76.6	deGrom, Jacob	Dickerson, Corey	199	2491	35	8	2021-04-10	0-2	Top 8	foul	Corey Dickerson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.0	79.1	deGrom, Jacob	Dickerson, Corey	181	2438	16	12	2021-04-10	0-1	Top 8	foul	Corey Dickerson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	99.3	75.2	deGrom, Jacob	Dickerson, Corey	209	2441	48	3	2021-04-10	0-0	Top 8	foul	Corey Dickerson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	100.2	97.2	deGrom, Jacob	Duvall, Adam	376	2278	28	6	2021-04-10	0-2	Top 8	hit_into_play	Adam Duvall doubles (1) on a fly ball to center fielder Brandon Nimmo.	
+FF	100.0		deGrom, Jacob	Duvall, Adam		2403		3	2021-04-10	0-1	Top 8	swinging_strike	Adam Duvall doubles (1) on a fly ball to center fielder Brandon Nimmo.	
+FF	99.2		deGrom, Jacob	Duvall, Adam		2292		6	2021-04-10	0-0	Top 8	swinging_strike	Adam Duvall doubles (1) on a fly ball to center fielder Brandon Nimmo.	
+FF	99.4		deGrom, Jacob	Wallach, Chad		2385		12	2021-04-10	1-2	Top 8	swinging_strike	Chad Wallach strikes out swinging.	
+FF	98.2		deGrom, Jacob	Wallach, Chad		2310		12	2021-04-10	1-1	Top 8	swinging_strike	Chad Wallach strikes out swinging.	
+FF	98.0		deGrom, Jacob	Wallach, Chad		2296		5	2021-04-10	1-0	Top 8	swinging_strike	Chad Wallach strikes out swinging.	
+FF	97.6		deGrom, Jacob	Wallach, Chad		2259		3	2021-04-10	0-0	Top 8	ball	Chad Wallach strikes out swinging.	
+FF	97.6	96.9	deGrom, Jacob	Rojas, Miguel	351	2198	24	8	2021-04-10	0-0	Top 8	hit_into_play	Miguel Rojas flies out to center fielder Brandon Nimmo.	
+FF	98.4	89.2	deGrom, Jacob	Chisholm Jr., Jazz	11	2332	-13	3	2021-04-10	0-0	Top 7	hit_into_play	Jazz Chisholm Jr. grounds out to first baseman Pete Alonso.	
+FF	98.4	63.1	deGrom, Jacob	Anderson, Brian	8	2354	-16	6	2021-04-10	1-1	Top 7	hit_into_play	Brian Anderson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.4	79.8	deGrom, Jacob	Anderson, Brian	221	2272	53	12	2021-04-10	1-0	Top 7	foul	Brian Anderson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+CH	90.0		deGrom, Jacob	Anderson, Brian		1478		1	2021-04-10	0-0	Top 7	ball	Brian Anderson grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+CH	91.3		deGrom, Jacob	Cooper, Garrett		1447		7	2021-04-10	0-2	Top 7	swinging_strike	Garrett Cooper strikes out swinging.	
+FF	98.3	96.5	deGrom, Jacob	Cooper, Garrett	311	2279	22	14	2021-04-10	0-1	Top 7	foul	Garrett Cooper strikes out swinging.	
+FF	98.0	96.5	deGrom, Jacob	Cooper, Garrett	261	2344	57	12	2021-04-10	0-0	Top 7	foul	Garrett Cooper strikes out swinging.	
+FF	98.9		deGrom, Jacob	Aguilar, Jesús		2394		12	2021-04-10	0-2	Top 6	swinging_strike	Jesus Aguilar strikes out swinging.	
+FF	99.7	83.8	deGrom, Jacob	Aguilar, Jesús	203	2458	17	12	2021-04-10	0-2	Top 6	foul	Jesus Aguilar strikes out swinging.	
+FF	98.8		deGrom, Jacob	Aguilar, Jesús		2437		12	2021-04-10	0-1	Top 6	swinging_strike	Jesus Aguilar strikes out swinging.	
+FF	98.2	82.2	deGrom, Jacob	Aguilar, Jesús	191	2450	16	2	2021-04-10	0-0	Top 6	foul	Jesus Aguilar strikes out swinging.	
+FF	98.9		deGrom, Jacob	Marte, Starling		2506		14	2021-04-10	2-2	Top 6	called_strike	Starling Marte called out on strikes.	
+FF	99.5		deGrom, Jacob	Marte, Starling		2299		12	2021-04-10	1-2	Top 6	ball	Starling Marte called out on strikes.	
+CH	89.5		deGrom, Jacob	Marte, Starling		1681		4	2021-04-10	1-1	Top 6	foul	Starling Marte called out on strikes.	
+CH	90.5		deGrom, Jacob	Marte, Starling		1754		7	2021-04-10	1-0	Top 6	swinging_strike	Starling Marte called out on strikes.	
+CH	92.4		deGrom, Jacob	Marte, Starling		1683		14	2021-04-10	0-0	Top 6	ball	Starling Marte called out on strikes.	
+CH	91.2	105.0	deGrom, Jacob	Dickerson, Corey	311	1657	17	9	2021-04-10	1-1	Top 6	hit_into_play	Corey Dickerson lines out sharply to right fielder Michael Conforto.	
+FF	97.0		deGrom, Jacob	Dickerson, Corey		2336		11	2021-04-10	0-1	Top 6	ball	Corey Dickerson lines out sharply to right fielder Michael Conforto.	
+CH	90.1		deGrom, Jacob	Dickerson, Corey		1542		5	2021-04-10	0-0	Top 6	called_strike	Corey Dickerson lines out sharply to right fielder Michael Conforto.	
+CH	92.1		deGrom, Jacob	Rogers, Trevor		1701		9	2021-04-10	1-2	Top 5	called_strike	Trevor Rogers called out on strikes.	
+CH	91.7		deGrom, Jacob	Rogers, Trevor		1482		14	2021-04-10	1-1	Top 5	swinging_strike	Trevor Rogers called out on strikes.	
+CH	92.8		deGrom, Jacob	Rogers, Trevor		1611		14	2021-04-10	0-1	Top 5	blocked_ball	Trevor Rogers called out on strikes.	
+FF	99.7		deGrom, Jacob	Rogers, Trevor		2367		2	2021-04-10	0-0	Top 5	foul	Trevor Rogers called out on strikes.	
+FF	98.8		deGrom, Jacob	Wallach, Chad		2383		12	2021-04-10	0-2	Top 5	swinging_strike	Chad Wallach strikes out swinging.	
+FF	98.6		deGrom, Jacob	Wallach, Chad		2289		3	2021-04-10	0-1	Top 5	swinging_strike	Chad Wallach strikes out swinging.	
+FF	98.4		deGrom, Jacob	Wallach, Chad		2350		14	2021-04-10	0-0	Top 5	called_strike	Chad Wallach strikes out swinging.	
+FF	98.1	100.7	deGrom, Jacob	Rojas, Miguel	276	2295	12	8	2021-04-10	3-1	Top 5	hit_into_play	Miguel Rojas singles on a sharp line drive to center fielder Brandon Nimmo.	
+FF	98.7		deGrom, Jacob	Rojas, Miguel		2327		12	2021-04-10	2-1	Top 5	ball	Miguel Rojas singles on a sharp line drive to center fielder Brandon Nimmo.	
+FF	98.5		deGrom, Jacob	Rojas, Miguel		2342		14	2021-04-10	1-1	Top 5	ball	Miguel Rojas singles on a sharp line drive to center fielder Brandon Nimmo.	
+FF	98.0	68.4	deGrom, Jacob	Rojas, Miguel	122	2375	74	1	2021-04-10	1-0	Top 5	foul	Miguel Rojas singles on a sharp line drive to center fielder Brandon Nimmo.	
+FF	98.1		deGrom, Jacob	Rojas, Miguel		2408		12	2021-04-10	0-0	Top 5	ball	Miguel Rojas singles on a sharp line drive to center fielder Brandon Nimmo.	
+CH	91.3		deGrom, Jacob	Chisholm Jr., Jazz		1755		14	2021-04-10	3-2	Top 5	swinging_strike	Jazz Chisholm Jr. strikes out swinging.	
+CH	92.1		deGrom, Jacob	Chisholm Jr., Jazz		1709		14	2021-04-10	2-2	Top 5	ball	Jazz Chisholm Jr. strikes out swinging.	
+CH	91.6		deGrom, Jacob	Chisholm Jr., Jazz		1792		14	2021-04-10	2-1	Top 5	swinging_strike	Jazz Chisholm Jr. strikes out swinging.	
+CH	91.5		deGrom, Jacob	Chisholm Jr., Jazz		1758		14	2021-04-10	1-1	Top 5	ball	Jazz Chisholm Jr. strikes out swinging.	
+CH	91.0		deGrom, Jacob	Chisholm Jr., Jazz		1620		5	2021-04-10	1-0	Top 5	called_strike	Jazz Chisholm Jr. strikes out swinging.	
+FF	97.2		deGrom, Jacob	Chisholm Jr., Jazz		2326		11	2021-04-10	0-0	Top 5	ball	Jazz Chisholm Jr. strikes out swinging.	
+FF	99.7	86.8	deGrom, Jacob	Anderson, Brian	118	2240	70	6	2021-04-10	0-0	Top 4	hit_into_play	Brian Anderson pops out to first baseman Pete Alonso in foul territory.	
+FF	99.5		deGrom, Jacob	Cooper, Garrett		2306		6	2021-04-10	1-2	Top 4	foul_tip	Garrett Cooper strikes out on a foul tip.	
+FF	99.8		deGrom, Jacob	Cooper, Garrett		2309		12	2021-04-10	0-2	Top 4	ball	Garrett Cooper strikes out on a foul tip.	
+FF	98.8		deGrom, Jacob	Cooper, Garrett		2281		2	2021-04-10	0-1	Top 4	foul	Garrett Cooper strikes out on a foul tip.	
+FF	98.3		deGrom, Jacob	Cooper, Garrett		2322		3	2021-04-10	0-0	Top 4	called_strike	Garrett Cooper strikes out on a foul tip.	
+FF	99.5		deGrom, Jacob	Aguilar, Jesús		2338		4	2021-04-10	0-2	Top 4	swinging_strike	Jesus Aguilar strikes out swinging. Starling Marte steals (2) 2nd base.	
+CH	92.2		deGrom, Jacob	Aguilar, Jesús		1510		9	2021-04-10	0-2	Top 4	foul	Jesus Aguilar strikes out swinging. Starling Marte steals (2) 2nd base.	
+FF	98.6	77.9	deGrom, Jacob	Aguilar, Jesús	209	2375	54	9	2021-04-10	0-1	Top 4	foul	Jesus Aguilar strikes out swinging. Starling Marte steals (2) 2nd base.	
+FF	98.6		deGrom, Jacob	Aguilar, Jesús		2393		8	2021-04-10	0-0	Top 4	foul	Jesus Aguilar strikes out swinging. Starling Marte steals (2) 2nd base.	
+SL	90.6	90.9	deGrom, Jacob	Marte, Starling	180	2631	11	8	2021-04-10	0-2	Top 4	hit_into_play	Starling Marte singles on a line drive to right fielder Michael Conforto.	
+FF	97.7		deGrom, Jacob	Marte, Starling		2378		6	2021-04-10	0-1	Top 4	called_strike	Starling Marte singles on a line drive to right fielder Michael Conforto.	
+FF	97.7	79.2	deGrom, Jacob	Marte, Starling	210	2413	20	3	2021-04-10	0-0	Top 4	foul	Starling Marte singles on a line drive to right fielder Michael Conforto.	
+CH	91.6	57.2	deGrom, Jacob	Dickerson, Corey	1	1594	-77	5	2021-04-10	1-1	Top 3	hit_into_play	Corey Dickerson grounds out softly, pitcher Jacob deGrom to first baseman Pete Alonso.	
+CH	93.5		deGrom, Jacob	Dickerson, Corey		1643		14	2021-04-10	0-1	Top 3	ball	Corey Dickerson grounds out softly, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	99.8	73.1	deGrom, Jacob	Dickerson, Corey	197	2288	41	5	2021-04-10	0-0	Top 3	foul	Corey Dickerson grounds out softly, pitcher Jacob deGrom to first baseman Pete Alonso.	
+FF	100.0		deGrom, Jacob	Rogers, Trevor		2351		9	2021-04-10	0-2	Top 3	called_strike	Trevor Rogers called out on strikes.	
+CH	89.0		deGrom, Jacob	Rogers, Trevor		1745		11	2021-04-10	0-1	Top 3	missed_bunt	Trevor Rogers called out on strikes.	
+CH	90.1		deGrom, Jacob	Rogers, Trevor		1588		5	2021-04-10	0-0	Top 3	foul_bunt	Trevor Rogers called out on strikes.	
+SL	90.4	95.3	deGrom, Jacob	Wallach, Chad	313	2521	23	5	2021-04-10	1-1	Top 3	hit_into_play	Chad Wallach doubles (1) on a line drive to left fielder Dominic Smith.	
+SL	90.6		deGrom, Jacob	Wallach, Chad		2534		11	2021-04-10	0-1	Top 3	ball	Chad Wallach doubles (1) on a line drive to left fielder Dominic Smith.	
+FF	98.2	77.3	deGrom, Jacob	Wallach, Chad	216	2417	53	2	2021-04-10	0-0	Top 3	foul	Chad Wallach doubles (1) on a line drive to left fielder Dominic Smith.	
+SL	92.0	62.2	deGrom, Jacob	Rojas, Miguel	113	2504	61	14	2021-04-10	2-1	Top 2	hit_into_play	Miguel Rojas pops out to first baseman Pete Alonso.	
+FF	98.0	75.6	deGrom, Jacob	Rojas, Miguel	216	2399	43	2	2021-04-10	2-0	Top 2	foul	Miguel Rojas pops out to first baseman Pete Alonso.	
+FF	98.2		deGrom, Jacob	Rojas, Miguel		2423		3	2021-04-10	1-0	Top 2	ball	Miguel Rojas pops out to first baseman Pete Alonso.	
+FF	98.9		deGrom, Jacob	Rojas, Miguel		2474		12	2021-04-10	0-0	Top 2	ball	Miguel Rojas pops out to first baseman Pete Alonso.	
+FF	100.4	107.4	deGrom, Jacob	Chisholm Jr., Jazz	402	2376	31	12	2021-04-10	0-2	Top 2	hit_into_play	Jazz Chisholm Jr. homers (1) on a fly ball to right field.	
+FF	99.4		deGrom, Jacob	Chisholm Jr., Jazz		2391		2	2021-04-10	0-1	Top 2	swinging_strike	Jazz Chisholm Jr. homers (1) on a fly ball to right field.	
+FF	100.2		deGrom, Jacob	Chisholm Jr., Jazz		2324		2	2021-04-10	0-0	Top 2	called_strike	Jazz Chisholm Jr. homers (1) on a fly ball to right field.	
+FF	100.6		deGrom, Jacob	Anderson, Brian		2424		11	2021-04-10	0-2	Top 2	foul_tip	Brian Anderson strikes out on a foul tip.	
+FF	100.1		deGrom, Jacob	Anderson, Brian		2308		6	2021-04-10	0-1	Top 2	swinging_strike	Brian Anderson strikes out on a foul tip.	
+FF	99.1		deGrom, Jacob	Anderson, Brian		2406		2	2021-04-10	0-0	Top 2	swinging_strike	Brian Anderson strikes out on a foul tip.	
+SL	92.3		deGrom, Jacob	Cooper, Garrett		2626		14	2021-04-10	2-2	Top 2	swinging_strike	Garrett Cooper strikes out swinging.	
+FF	100.0		deGrom, Jacob	Cooper, Garrett		2396		12	2021-04-10	1-2	Top 2	ball	Garrett Cooper strikes out swinging.	
+FF	99.7		deGrom, Jacob	Cooper, Garrett		2406		12	2021-04-10	0-2	Top 2	ball	Garrett Cooper strikes out swinging.	
+FF	99.2		deGrom, Jacob	Cooper, Garrett		2409		6	2021-04-10	0-1	Top 2	swinging_strike	Garrett Cooper strikes out swinging.	
+FF	98.6		deGrom, Jacob	Cooper, Garrett		2359		2	2021-04-10	0-0	Top 2	foul_tip	Garrett Cooper strikes out swinging.	
+FF	99.7	89.0	deGrom, Jacob	Aguilar, Jesús	134	2505	69	4	2021-04-10	0-1	Top 1	hit_into_play	Jesus Aguilar pops out to first baseman Pete Alonso in foul territory.	
+FF	100.1		deGrom, Jacob	Aguilar, Jesús		2479		9	2021-04-10	0-0	Top 1	called_strike	Jesus Aguilar pops out to first baseman Pete Alonso in foul territory.	
+SL	91.3		deGrom, Jacob	Marte, Starling		2710		3	2021-04-10	0-2	Top 1	swinging_strike	Starling Marte strikes out swinging.	
+FF	99.7		deGrom, Jacob	Marte, Starling		2489		3	2021-04-10	0-1	Top 1	called_strike	Starling Marte strikes out swinging.	
+FF	99.2	87.0	deGrom, Jacob	Marte, Starling	153	2385	75	5	2021-04-10	0-0	Top 1	foul	Starling Marte strikes out swinging.	
+FF	100.1		deGrom, Jacob	Dickerson, Corey		2562		2	2021-04-10	0-2	Top 1	swinging_strike	Corey Dickerson strikes out swinging.	
+FF	100.4	70.2	deGrom, Jacob	Dickerson, Corey	184	2436	53	6	2021-04-10	0-2	Top 1	foul	Corey Dickerson strikes out swinging.	
+FF	99.8		deGrom, Jacob	Dickerson, Corey		2507		3	2021-04-10	0-1	Top 1	swinging_strike	Corey Dickerson strikes out swinging.	
+FF	99.9		deGrom, Jacob	Dickerson, Corey		2328		2	2021-04-10	0-0	Top 1	swinging_strike	Corey Dickerson strikes out swinging.	
+FF	100.1		deGrom, Jacob	Harper, Bryce		2500		2	2021-04-05	2-2	Bot 6	foul_tip	Bryce Harper strikes out on a foul tip.	
+FF	99.3		deGrom, Jacob	Harper, Bryce		2574		5	2021-04-05	2-1	Bot 6	swinging_strike	Bryce Harper strikes out on a foul tip.	
+SL	92.2		deGrom, Jacob	Harper, Bryce		2674		14	2021-04-05	1-1	Bot 6	ball	Bryce Harper strikes out on a foul tip.	
+FF	99.6		deGrom, Jacob	Harper, Bryce		2557		8	2021-04-05	1-0	Bot 6	called_strike	Bryce Harper strikes out on a foul tip.	
+SL	92.5		deGrom, Jacob	Harper, Bryce		2626		14	2021-04-05	0-0	Bot 6	ball	Bryce Harper strikes out on a foul tip.	
+SL	90.8		deGrom, Jacob	Hoskins, Rhys		2634		9	2021-04-05	2-2	Bot 6	swinging_strike	Rhys Hoskins strikes out swinging.	
+SL	91.1		deGrom, Jacob	Hoskins, Rhys		2681		14	2021-04-05	1-2	Bot 6	ball	Rhys Hoskins strikes out swinging.	
+SL	91.1		deGrom, Jacob	Hoskins, Rhys		2716		5	2021-04-05	1-1	Bot 6	called_strike	Rhys Hoskins strikes out swinging.	
+SL	92.1		deGrom, Jacob	Hoskins, Rhys		2667		9	2021-04-05	1-0	Bot 6	called_strike	Rhys Hoskins strikes out swinging.	
+FF	98.5		deGrom, Jacob	Hoskins, Rhys		2472		14	2021-04-05	0-0	Bot 6	ball	Rhys Hoskins strikes out swinging.	
+SL	90.5	85.6	deGrom, Jacob	McCutchen, Andrew	71	2624	4	9	2021-04-05	0-1	Bot 6	hit_into_play	Andrew McCutchen grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	97.3		deGrom, Jacob	McCutchen, Andrew		2374		3	2021-04-05	0-0	Bot 6	swinging_strike	Andrew McCutchen grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.	
+FF	98.1	90.7	deGrom, Jacob	Joyce, Matt	78	2472	71	5	2021-04-05	0-0	Bot 5	hit_into_play	Matt Joyce pops out to third baseman J. D. Davis.	
+FF	98.3	89.2	deGrom, Jacob	Haseley, Adam	132	2521	64	2	2021-04-05	2-1	Bot 5	hit_into_play	Adam Haseley pops out to third baseman J. D. Davis.	
+SL	92.7		deGrom, Jacob	Haseley, Adam		2608		12	2021-04-05	1-1	Bot 5	ball	Adam Haseley pops out to third baseman J. D. Davis.	
+FF	97.4		deGrom, Jacob	Haseley, Adam		2500		12	2021-04-05	1-0	Bot 5	called_strike	Adam Haseley pops out to third baseman J. D. Davis.	
+FF	97.3		deGrom, Jacob	Haseley, Adam		2511		14	2021-04-05	0-0	Bot 5	ball	Adam Haseley pops out to third baseman J. D. Davis.	
+SL	90.0		deGrom, Jacob	Segura, Jean		2647		14	2021-04-05	0-2	Bot 5	swinging_strike_blocked	Jean Segura strikes out swinging, catcher James McCann to first baseman Pete Alonso.	
+SL	89.1	43.6	deGrom, Jacob	Segura, Jean	1	2616	-43	14	2021-04-05	0-2	Bot 5	foul	Jean Segura strikes out swinging, catcher James McCann to first baseman Pete Alonso.	
+SL	89.2		deGrom, Jacob	Segura, Jean		2514		14	2021-04-05	0-1	Bot 5	swinging_strike	Jean Segura strikes out swinging, catcher James McCann to first baseman Pete Alonso.	
+SL	89.7		deGrom, Jacob	Segura, Jean		2532		6	2021-04-05	0-0	Bot 5	swinging_strike	Jean Segura strikes out swinging, catcher James McCann to first baseman Pete Alonso.	
+FF	99.1	88.1	deGrom, Jacob	Gregorius, Didi	153	2533	54	1	2021-04-05	0-1	Bot 4	hit_into_play	Didi Gregorius pops out to third baseman J. D. Davis.	
+FF	99.0	77.2	deGrom, Jacob	Gregorius, Didi	136	2472	72	4	2021-04-05	0-0	Bot 4	foul	Didi Gregorius pops out to third baseman J. D. Davis.	
+FF	98.9	80.5	deGrom, Jacob	Bohm, Alec	248	2366	38	1	2021-04-05	1-0	Bot 4	hit_into_play	Alec Bohm flies out to right fielder Michael Conforto.	
+FF	98.7		deGrom, Jacob	Bohm, Alec		2499		12	2021-04-05	0-0	Bot 4	ball	Alec Bohm flies out to right fielder Michael Conforto.	
+FF	99.0	92.6	deGrom, Jacob	Realmuto, J.T.	152	2484	9	6	2021-04-05	0-0	Bot 4	hit_into_play	J.T. Realmuto lines out to second baseman Jeff McNeil.	
+SL	92.4		deGrom, Jacob	Harper, Bryce		2716		14	2021-04-05	3-2	Bot 4	ball	Bryce Harper walks.	
+SL	90.9	82.1	deGrom, Jacob	Harper, Bryce	218	2669	54	8	2021-04-05	3-1	Bot 4	foul	Bryce Harper walks.	
+SL	90.7		deGrom, Jacob	Harper, Bryce		2738		12	2021-04-05	2-1	Bot 4	ball	Bryce Harper walks.	
+FF	97.6		deGrom, Jacob	Harper, Bryce		2565		11	2021-04-05	1-1	Bot 4	ball	Bryce Harper walks.	
+FF	97.2	82.8	deGrom, Jacob	Harper, Bryce	233	2405	60	1	2021-04-05	1-0	Bot 4	foul	Bryce Harper walks.	
+FF	96.5		deGrom, Jacob	Harper, Bryce		2437		11	2021-04-05	0-0	Bot 4	ball	Bryce Harper walks.	
+FF	98.5	77.9	deGrom, Jacob	Hoskins, Rhys	47	2247	2	14	2021-04-05	2-1	Bot 3	hit_into_play	Rhys Hoskins grounds out, second baseman Jeff McNeil to first baseman Pete Alonso.	
+FF	99.6		deGrom, Jacob	Hoskins, Rhys		2367		3	2021-04-05	2-0	Bot 3	swinging_strike	Rhys Hoskins grounds out, second baseman Jeff McNeil to first baseman Pete Alonso.	
+SL	91.9		deGrom, Jacob	Hoskins, Rhys		2648		14	2021-04-05	1-0	Bot 3	ball	Rhys Hoskins grounds out, second baseman Jeff McNeil to first baseman Pete Alonso.	
+FF	99.4		deGrom, Jacob	Hoskins, Rhys		2395		12	2021-04-05	0-0	Bot 3	ball	Rhys Hoskins grounds out, second baseman Jeff McNeil to first baseman Pete Alonso.	
+FF	100.5	105.5	deGrom, Jacob	McCutchen, Andrew	236	2487	14	2	2021-04-05	0-2	Bot 3	hit_into_play	Andrew McCutchen singles on a sharp line drive to left fielder Brandon Nimmo.	
+SL	92.4		deGrom, Jacob	McCutchen, Andrew		2668		14	2021-04-05	0-1	Bot 3	swinging_strike	Andrew McCutchen singles on a sharp line drive to left fielder Brandon Nimmo.	
+FF	99.2		deGrom, Jacob	McCutchen, Andrew		2296		2	2021-04-05	0-0	Bot 3	called_strike	Andrew McCutchen singles on a sharp line drive to left fielder Brandon Nimmo.	
+FF	99.7		deGrom, Jacob	Moore, Matt		2384		4	2021-04-05	1-2	Bot 3	swinging_strike	Matt Moore strikes out swinging.	
+FF	99.0		deGrom, Jacob	Moore, Matt		2454		11	2021-04-05	1-1	Bot 3	called_strike	Matt Moore strikes out swinging.	
+FF	99.3		deGrom, Jacob	Moore, Matt		2388		6	2021-04-05	1-0	Bot 3	called_strike	Matt Moore strikes out swinging.	
+FF	99.5		deGrom, Jacob	Moore, Matt		2453		3	2021-04-05	0-0	Bot 3	ball	Matt Moore strikes out swinging.	
+FF	99.6	97.9	deGrom, Jacob	Haseley, Adam	268	2375	47	5	2021-04-05	3-2	Bot 3	hit_into_play	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	99.3	79.5	deGrom, Jacob	Haseley, Adam	197	2501	56	2	2021-04-05	3-2	Bot 3	foul	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	99.0	78.6	deGrom, Jacob	Haseley, Adam	224	2477	24	3	2021-04-05	3-1	Bot 3	foul	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	99.1		deGrom, Jacob	Haseley, Adam		2484		11	2021-04-05	2-1	Bot 3	ball	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	99.0		deGrom, Jacob	Haseley, Adam		2513		12	2021-04-05	1-1	Bot 3	ball	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	98.0		deGrom, Jacob	Haseley, Adam		2462		2	2021-04-05	1-0	Bot 3	swinging_strike	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	98.8		deGrom, Jacob	Haseley, Adam		2502		11	2021-04-05	0-0	Bot 3	ball	Adam Haseley flies out to left fielder Brandon Nimmo.	
+FF	99.4	93.3	deGrom, Jacob	Segura, Jean	21	2585	-3	9	2021-04-05	1-1	Bot 2	hit_into_play	Jean Segura grounds into a double play, shortstop Francisco Lindor to second baseman Jeff McNeil to first baseman Pete Alonso. Didi Gregorius out at 2nd. Jean Segura out at 1st.	
+FF	100.4		deGrom, Jacob	Segura, Jean		2587		14	2021-04-05	0-1	Bot 2	ball	Jean Segura grounds into a double play, shortstop Francisco Lindor to second baseman Jeff McNeil to first baseman Pete Alonso. Didi Gregorius out at 2nd. Jean Segura out at 1st.	
+SL	92.4		deGrom, Jacob	Segura, Jean		2649		14	2021-04-05	0-0	Bot 2	swinging_strike	Jean Segura grounds into a double play, shortstop Francisco Lindor to second baseman Jeff McNeil to first baseman Pete Alonso. Didi Gregorius out at 2nd. Jean Segura out at 1st.	
+FF	102.0	69.7	deGrom, Jacob	Gregorius, Didi	212	2575	34	6	2021-04-05	1-2	Bot 2	hit_into_play	Didi Gregorius singles on a fly ball to third baseman J. D. Davis, deflected by left fielder Brandon Nimmo.	
+FF	99.6	79.8	deGrom, Jacob	Gregorius, Didi	140	2543	10	3	2021-04-05	1-1	Bot 2	foul	Didi Gregorius singles on a fly ball to third baseman J. D. Davis, deflected by left fielder Brandon Nimmo.	
+FF	100.0		deGrom, Jacob	Gregorius, Didi		2471		11	2021-04-05	0-1	Bot 2	ball	Didi Gregorius singles on a fly ball to third baseman J. D. Davis, deflected by left fielder Brandon Nimmo.	
+FF	100.2		deGrom, Jacob	Gregorius, Didi		2485		2	2021-04-05	0-0	Bot 2	foul_tip	Didi Gregorius singles on a fly ball to third baseman J. D. Davis, deflected by left fielder Brandon Nimmo.	
+FF	100.7		deGrom, Jacob	Bohm, Alec		2654		5	2021-04-05	1-2	Bot 2	swinging_strike	Alec Bohm strikes out swinging.	
+FF	99.6		deGrom, Jacob	Bohm, Alec		2648		6	2021-04-05	1-1	Bot 2	called_strike	Alec Bohm strikes out swinging.	
+FF	98.9		deGrom, Jacob	Bohm, Alec		2489		8	2021-04-05	1-0	Bot 2	foul	Alec Bohm strikes out swinging.	
+FF	98.7		deGrom, Jacob	Bohm, Alec		2477		14	2021-04-05	0-0	Bot 2	ball	Alec Bohm strikes out swinging.	
+FF	100.5		deGrom, Jacob	Realmuto, J.T.		2498		3	2021-04-05	1-2	Bot 1	swinging_strike	J.T. Realmuto strikes out swinging.	
+FF	99.3		deGrom, Jacob	Realmuto, J.T.		2479		14	2021-04-05	1-1	Bot 1	called_strike	J.T. Realmuto strikes out swinging.	
+FF	99.5		deGrom, Jacob	Realmuto, J.T.		2487		14	2021-04-05	0-1	Bot 1	ball	J.T. Realmuto strikes out swinging.	
+FF	98.6		deGrom, Jacob	Realmuto, J.T.		2522		9	2021-04-05	0-0	Bot 1	called_strike	J.T. Realmuto strikes out swinging.	
+FF	100.0		deGrom, Jacob	Harper, Bryce		2573		13	2021-04-05	3-1	Bot 1	ball	Bryce Harper walks.	
+FF	99.0	82.3	deGrom, Jacob	Harper, Bryce	97	2462	11	5	2021-04-05	3-0	Bot 1	foul	Bryce Harper walks.	
+FF	99.1		deGrom, Jacob	Harper, Bryce		2387		11	2021-04-05	2-0	Bot 1	ball	Bryce Harper walks.	
+FF	98.5		deGrom, Jacob	Harper, Bryce		2399		1	2021-04-05	1-0	Bot 1	ball	Bryce Harper walks.	
+FF	98.4		deGrom, Jacob	Harper, Bryce		2400		11	2021-04-05	0-0	Bot 1	ball	Bryce Harper walks.	
+FF	100.4	103.8	deGrom, Jacob	Hoskins, Rhys	400	2531	29	3	2021-04-05	0-1	Bot 1	hit_into_play	Rhys Hoskins doubles (3) on a sharp fly ball to center fielder Kevin Pillar. Rhys Hoskins out at 3rd on the throw, center fielder Kevin Pillar to second baseman Jeff McNeil to third baseman J. D. Davis.	
+FF	99.7		deGrom, Jacob	Hoskins, Rhys		2520		9	2021-04-05	0-0	Bot 1	called_strike	Rhys Hoskins doubles (3) on a sharp fly ball to center fielder Kevin Pillar. Rhys Hoskins out at 3rd on the throw, center fielder Kevin Pillar to second baseman Jeff McNeil to third baseman J. D. Davis.	
+FF	99.5		deGrom, Jacob	McCutchen, Andrew		2589		6	2021-04-05	2-2	Bot 1	swinging_strike	Andrew McCutchen strikes out swinging.	
+FF	100.1		deGrom, Jacob	McCutchen, Andrew		2600		14	2021-04-05	1-2	Bot 1	ball	Andrew McCutchen strikes out swinging.	
+FF	98.3	79.6	deGrom, Jacob	McCutchen, Andrew	191	2477	17	4	2021-04-05	1-1	Bot 1	foul	Andrew McCutchen strikes out swinging.	
+FF	99.2		deGrom, Jacob	McCutchen, Andrew		2494		11	2021-04-05	0-1	Bot 1	ball	Andrew McCutchen strikes out swinging.	
+FF	99.5		deGrom, Jacob	McCutchen, Andrew		2457		4	2021-04-05	0-0	Bot 1	called_strike	Andrew McCutchen strikes out swinging.	
